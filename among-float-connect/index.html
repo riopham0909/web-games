@@ -1,0 +1,96 @@
+<html>
+
+<head>
+	<meta name="viewport" content="initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=0,width=device-width" />
+	<title>Among Float Connect</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/game.css">
+</head>
+
+<body>
+	<script>
+		window["GD_OPTIONS"] = {
+			"gameId": "d433706c75ba4e15be369d5df9822bed",
+			"onEvent": function (event) {
+				switch (event.name) {
+					case "SDK_GAME_START":
+						// advertisement done, resume game logic and unmute audio
+						gamesfineFn.gameOnFocus();
+						is_ads = false;
+						break;
+					case "SDK_GAME_PAUSE":
+						gamesfineFn.gameOnBlur();
+						is_ads = true;
+						// pause game logic / mute audio
+						break;
+					case "SDK_GDPR_TRACKING":
+						// this event is triggered when your user doesn't want to be tracked
+						break;
+					case "SDK_GDPR_TARGETING":
+						// this event is triggered when your user doesn't want personalised targeting of ads and such
+						break;
+				}
+			},
+		};
+		(function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = 'main.min.js';
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'gamedistribution-jssdk'));
+
+	</script>
+
+	<script type="text/javascript">
+		var is_ads = false;
+		if (!is_ads) {
+			window.onfocus = function () {
+				gamesfineFn.gameOnFocus();
+			}
+			window.onblur = function () {
+				gamesfineFn.gameOnBlur();
+			}
+		}
+
+		var GamesFine = {
+			config: { url: 'http://www.freegamesmart.com/?utm_source=gm&utm_medium=onet_halloween_links' },
+			showAds: function () {
+				gdsdk.showBanner();
+			},
+			showMoreBtn: false,
+			timeStamp: '2022/07/05'
+		}
+		var GamesFineAPI = {
+			playGame: function () {
+				GamesFine.showAds();
+			},
+			resumeGame: function () {
+				GamesFine.showAds();
+			},
+			chooseLevel: function () {
+				GamesFine.showAds();
+			},
+			levelUp: function () {
+				GamesFine.showAds();
+			},
+			pauseGame: function () {
+				GamesFine.showAds();
+			}
+		}
+	</script>
+	<div id="gameContainer">
+	</div>
+	<div id="orientationContainer">
+		<h2>Please rotate your device</h2>
+		<img class="rotate" src="images/rotate.png" alt="Please rotate your device">
+		<img id="close" src="images/close.png" alt="X">
+	</div>
+</body>
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/howler.min.js"></script>
+<script src="js/class.js"></script>
+<script src="js/game.js"></script>
+
+</html>
