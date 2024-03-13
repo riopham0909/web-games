@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Among Mahjong Tiles</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<meta name="HandheldFriendly" content="true" />
+	
+	<meta name="mobile-web-app-capable" content="yes" />
+	<link rel="stylesheet" href="style.css" type="text/css">
+	<script type="text/javascript" src="libs/phaser.min.js"></script>
+</head>
+<body>
+	<div id="gameContainer"></div>
+	<div style="font-family:robotomono; position:absolute; left:-1000px; visibility:hidden;">.</div>
+	<div style="font-family:PoetsenOne; position:absolute; left:-1000px; visibility:hidden;">.</div>
+	<script>
+		window["GD_OPTIONS"] = {
+			"gameId": "5fc82264a7b9473fa6375dd0be7a6402",
+			"onEvent": function (event) {
+				switch (event.name) {
+					case "SDK_GAME_START":
+						// advertisement done, resume game logic and unmute audio
+						game_music.setMute(!1);
+						break;
+					case "SDK_GAME_PAUSE":
+						game_music.setMute(!0);
+						// pause game logic / mute audio
+						break;
+					case "SDK_GDPR_TRACKING":
+						// this event is triggered when your user doesn't want to be tracked
+						break;
+					case "SDK_GDPR_TARGETING":
+						// this event is triggered when your user doesn't want personalised targeting of ads and such
+						break;
+				}
+			},
+		};
+		(function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = 'main.min.js';
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'gamedistribution-jssdk'));
+
+	</script>
+	<script>
+		var gamesAPI = {
+			config:{
+				url: "http://www.freegamesmart.com/?utm_source=gd&utm_medium=among_mahjong_tiles",
+				credits_text: 'Among Mahjong Tiles\n© 2022 FreeGamesMart.com\nAll rights reserved\n\nwww.freegamesmart.com',
+				show_more_btn: false,
+				bgPages: 3,
+				storageKey: 'gf_' + (document.title).toLowerCase().replace(/ /gm, '_') + '_unlock',
+			},
+			show_ad: function(){
+				gdsdk.showBanner();
+			}
+		}
+	</script>
+	<script type="text/javascript" src="js/boot.js"></script>
+	<script type="text/javascript" src="js/stages.js"></script>
+	<script type="text/javascript" src="js/preload.js"></script>
+	<script type="text/javascript" src="js/menu.js"></script>
+	<script type="text/javascript" src="js/level.js"></script>
+	<script type="text/javascript" src="js/game.js"></script>
+</body>
+</html>
