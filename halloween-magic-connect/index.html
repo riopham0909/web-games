@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html onselectstart='return false;'>
+
+<head>
+    <title>Halloween Magic Connect</title>
+    <link rel="icon" type="image/x-icon" href="media/graphics/misc/16x16.png" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport"
+        content="width=device-width,height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0, shrink-to-fit=no, minimal-ui" />
+
+    <meta property="og:image"
+        content="https://bestgamesfreeplay.com/demo/halloween-magic-connect-v2/media/graphics/misc/512x512.png" />
+    <meta property="og:description"
+        content="A fun and addictive matching game to train your eyes and brain. You need to find all the pairs of items (by tapping them) within a certain amount of time. PLAY NOW!" />
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link rel="stylesheet" type="text/css" href="game.css?v=1697251752">
+    <script type="text/javascript" src="game.js?v=1697251752"></script>
+    <link rel="manifest" href="manifest.json">
+
+</head>
+
+<div class="gamecenter-activator"></div>
+
+<body class="not-selectable" onload="setTimeout(function(){window.scrollTo(0,1)},1);">
+    <!--body-->
+    <div id="xLoader" class="disableSelection">
+        <div id="game" class="disableSelection"><canvas id="canvas"></canvas></div>
+        <div id="orientate"><img src="media/graphics/misc/orientate.png" /></div>
+    </div>
+
+<!-- LEADERBOARD -->
+<div id="leaderboard" class="overlay">
+    <div class="popupBox">
+        <span class="close">&times;</span>
+        <div class="popupTitle text-Leaderboard">LEADERBOARD</div>
+        <div class="popupMsg lb-content">
+            <div id="lb-data">
+                <div class="row">
+                    <div class="column lb-rank">1</div>
+                    <div class="column lb-image"><span></span></div>
+                    <div class="column lb-username">User A</div>
+                    <div class="column lb-score">100,000</div>
+                </div>
+                <div class="row lb-currentUser">
+                    <div class="column lb-rank">2</div>
+                    <div class="column lb-image"><span></span></div>
+                    <div class="column lb-username">User B</div>
+                    <div class="column lb-score">80,000</div>
+                </div>
+                <div class="row">
+                    <div class="column lb-rank">3</div>
+                    <div class="column lb-image"><span></span></div>
+                    <div class="column lb-username">User C</div>
+                    <div class="column lb-score">1,000</div>
+                </div>
+                <div class="row">
+                    <div class="column lb-rank">30</div>
+                    <div class="column lb-image"><span></span></div>
+                    <div class="column lb-username">User C</div>
+                    <div class="column lb-score">1,000</div>
+                </div>
+            </div>
+            <div class="lb-footer" id='lb-footer-1'>
+                <div><u class="text-YourResult" style="padding-right: 2.5em;">Your Result:</u></div>
+                <div class="row lb-currentUser">
+                    <div class="column lb-rank">98</div>
+                    <div class="column lb-image"><span></span></div>
+                    <div class="column lb-username">User B</div>
+                    <div class="column lb-score">80,000</div>
+                </div>
+            </div>
+            <div class="lb-footer" id='lb-footer-2' style="padding-right: 1.5em;">
+                <div class="text-Join">Join The Leaderboard?</div>
+                <input type="text" id="username" placeholder="Username" maxlength="20"> <input type="button"
+                    class="button" value="Submit" id="submit" />
+            </div>
+            <div id="adjustSpace"></div>
+        </div>
+    </div>
+</div>
+<!-- END LEADERBOARD -->
+
+    <!-- AD OVERLAY -->
+    <div id="adOverlay" class="overlay">
+        <div id="adBox">
+            <img src="media/graphics/misc/gloader.svg" />
+            <div class="text-ShowingAd">Showing ad in ...</div>
+        </div>
+    </div>
+
+
+    <!-- SNACKBAR -->
+    <div id="snackbar">Hello</div>
+</body>
+
+</html>
