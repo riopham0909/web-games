@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>Squid Mahjong Connect 2</title>
+	<meta name="viewport" content="initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=0,width=device-width">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="msapplication-tap-highlight" content="no">
+	<link rel="stylesheet" type="text/css" href="css/game.css">
+	<script src="js/libs/hammer.min.js"></script>
+	<script src="js/libs/howler.min.js"></script>
+	<script src="js/game.js"></script>
+</head>
+
+<body>
+	<script>
+		window["GD_OPTIONS"] = {
+			"gameId": "ea643f2e942a4b0eb2096e5c33fd5d83",
+			"onEvent": function(event) {
+				switch (event.name) {
+					case "SDK_GAME_START":
+						// advertisement done, resume game logic and unmute audio
+						frivclubFn.gameOnFocus();
+						break;
+					case "SDK_GAME_PAUSE":
+						frivclubFn.gameOnBlur();
+						// pause game logic / mute audio
+						break;
+					case "SDK_GDPR_TRACKING":
+						// this event is triggered when your user doesn't want to be tracked
+						break;
+					case "SDK_GDPR_TARGETING":
+						// this event is triggered when your user doesn't want personalised targeting of ads and such
+						break;
+				}
+			},
+		};
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = 'main.min.js';
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'gamedistribution-jssdk'));
+	</script>
+
+	<script>
+		window.onfocus = function () {
+			frivclubFn.gameOnFocus();
+		}
+		window.onblur = function () {
+			frivclubFn.gameOnBlur();
+		}
+		document.addEventListener('visibilitychange', function () {
+			var isHidden = document.hidden;
+			if (isHidden) {
+				frivclubFn.gameOnBlur();
+			} else {
+				frivclubFn.gameOnFocus();
+			}
+		});
+		var gamesAPI = {
+			config: {
+				url: 'http://www.willinggames.com/?utm_source=gd&utm_medium=squid_mahjong_connect',
+				showMoreBtn: false,
+			},
+			showAds: function () {
+				gdsdk.showBanner();
+			}
+
+		}
+	</script>
+	<div id="gameContainer"></div>
+	<div id="orientationContainer">
+		<h2>Please rotate your device</h2>
+		<img class="rotate" src="img/rotate.png" alt="Please rotate your device">
+		<img id="close" src="img/close.png" alt="X">
+	</div>
+
+</body>
+
+</html>
