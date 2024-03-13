@@ -1,0 +1,69 @@
+{
+	"buildings": [
+		{
+			"needCoin" :	2000,
+			"onceTime" :	21,
+			"maxCoin" :		500
+		},
+		{
+			"needCoin" :	10000,
+			"onceTime" :	21,
+			"maxCoin" :		500
+		},
+		{
+			"needCoin" :	20000,
+			"onceTime" :	25,
+			"maxCoin" :		600
+		},
+		{
+			"needCoin" :	40000,
+			"onceTime" :	25,
+			"maxCoin" :		600
+		},
+		{
+			"needCoin" :	60000,
+			"onceTime" :	30,
+			"maxCoin" :		700
+		},
+		{
+			"needCoin" :	80000,
+			"onceTime" :	30,
+			"maxCoin" :		700
+		},
+		{
+			"needCoin" :	100000,
+			"onceTime" :	34,
+			"maxCoin" :		800
+		},
+		{
+			"needCoin" :	120000,
+			"onceTime" :	34,
+			"maxCoin" :		800
+		},
+		{
+			"needCoin" :	140000,
+			"onceTime" :	38,
+			"maxCoin" :		900
+		},
+		{
+			"needCoin" :	160000,
+			"onceTime" :	38,
+			"maxCoin" :		900
+		},
+		{
+			"needCoin" :	180000,
+			"onceTime" :	42,
+			"maxCoin" :		1000
+		},
+		{
+			"needCoin" :	200000,
+			"onceTime" :	42,
+			"maxCoin" :		1000
+		},
+		{
+			"needCoin" :	220000,
+			"onceTime" :	42,
+			"maxCoin" :		1000
+		}
+	]
+}

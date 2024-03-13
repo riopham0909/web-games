@@ -1,0 +1,339 @@
+{"frames": {
+
+"Storage amount.png":
+{
+	"frame": {"x":295,"y":587,"w":311,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":26},
+	"sourceSize": {"w":311,"h":26}
+},
+"Until next collection.png":
+{
+	"frame": {"x":4,"y":650,"w":200,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":17},
+	"sourceSize": {"w":200,"h":17}
+},
+"btn_cancel.png":
+{
+	"frame": {"x":208,"y":650,"w":105,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":25},
+	"sourceSize": {"w":105,"h":25}
+},
+"btn_get.png":
+{
+	"frame": {"x":887,"y":68,"w":112,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":30},
+	"sourceSize": {"w":112,"h":30}
+},
+"btn_get2.png":
+{
+	"frame": {"x":774,"y":39,"w":233,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":233,"h":25},
+	"sourceSize": {"w":233,"h":25}
+},
+"btn_howtoplay.png":
+{
+	"frame": {"x":834,"y":194,"w":178,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":29},
+	"sourceSize": {"w":178,"h":29}
+},
+"btn_mainmenu.png":
+{
+	"frame": {"x":295,"y":617,"w":248,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":248,"h":29},
+	"sourceSize": {"w":248,"h":29}
+},
+"btn_resume.png":
+{
+	"frame": {"x":780,"y":283,"w":195,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":195,"h":29},
+	"sourceSize": {"w":195,"h":29}
+},
+"btn_use.png":
+{
+	"frame": {"x":713,"y":283,"w":57,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":24},
+	"sourceSize": {"w":57,"h":24}
+},
+"button_no.png":
+{
+	"frame": {"x":931,"y":159,"w":46,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":25},
+	"sourceSize": {"w":46,"h":25}
+},
+"button_yes.png":
+{
+	"frame": {"x":931,"y":130,"w":63,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":25},
+	"sourceSize": {"w":63,"h":25}
+},
+"text_Update after.png":
+{
+	"frame": {"x":547,"y":641,"w":149,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":23},
+	"sourceSize": {"w":149,"h":23}
+},
+"text_achievement.png":
+{
+	"frame": {"x":469,"y":541,"w":398,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":398,"h":42},
+	"sourceSize": {"w":398,"h":42}
+},
+"text_bosscontinue.png":
+{
+	"frame": {"x":415,"y":283,"w":294,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":23},
+	"sourceSize": {"w":294,"h":23}
+},
+"text_bossstage_coinupchance.png":
+{
+	"frame": {"x":425,"y":194,"w":405,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":405,"h":29},
+	"sourceSize": {"w":405,"h":29}
+},
+"text_chara01.png":
+{
+	"frame": {"x":774,"y":4,"w":199,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":199,"h":31},
+	"sourceSize": {"w":199,"h":31}
+},
+"text_chara02.png":
+{
+	"frame": {"x":871,"y":541,"w":142,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":27},
+	"sourceSize": {"w":142,"h":27}
+},
+"text_chara03.png":
+{
+	"frame": {"x":4,"y":586,"w":287,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":287,"h":31},
+	"sourceSize": {"w":287,"h":31}
+},
+"text_chara04.png":
+{
+	"frame": {"x":4,"y":621,"w":267,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":267,"h":25},
+	"sourceSize": {"w":267,"h":25}
+},
+"text_chara05.png":
+{
+	"frame": {"x":610,"y":587,"w":267,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":267,"h":29},
+	"sourceSize": {"w":267,"h":29}
+},
+"text_chara06.png":
+{
+	"frame": {"x":887,"y":102,"w":120,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":24},
+	"sourceSize": {"w":120,"h":24}
+},
+"text_chara07.png":
+{
+	"frame": {"x":913,"y":374,"w":93,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":24},
+	"sourceSize": {"w":93,"h":24}
+},
+"text_chara08.png":
+{
+	"frame": {"x":780,"y":345,"w":187,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":25},
+	"sourceSize": {"w":187,"h":25}
+},
+"text_chara_breakcard.png":
+{
+	"frame": {"x":431,"y":4,"w":339,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":339,"h":80},
+	"sourceSize": {"w":339,"h":80}
+},
+"text_construction.png":
+{
+	"frame": {"x":780,"y":316,"w":191,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":25},
+	"sourceSize": {"w":191,"h":25}
+},
+"text_increaseexplanation.png":
+{
+	"frame": {"x":431,"y":88,"w":452,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":52},
+	"sourceSize": {"w":452,"h":52}
+},
+"text_rewards.png":
+{
+	"frame": {"x":639,"y":393,"w":270,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":270,"h":42},
+	"sourceSize": {"w":270,"h":42}
+},
+"text_skipad.png":
+{
+	"frame": {"x":547,"y":620,"w":308,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":308,"h":17},
+	"sourceSize": {"w":308,"h":17}
+},
+"tutorial_text_2cards.png":
+{
+	"frame": {"x":4,"y":491,"w":495,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":495,"h":46},
+	"sourceSize": {"w":495,"h":46}
+},
+"tutorial_text_3cards.png":
+{
+	"frame": {"x":503,"y":491,"w":495,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":495,"h":46},
+	"sourceSize": {"w":495,"h":46}
+},
+"tutorial_text_4cards.png":
+{
+	"frame": {"x":431,"y":144,"w":496,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":496,"h":46},
+	"sourceSize": {"w":496,"h":46}
+},
+"tutorial_text_Combinations.png":
+{
+	"frame": {"x":4,"y":311,"w":390,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":390,"h":76},
+	"sourceSize": {"w":390,"h":76}
+},
+"tutorial_text_buildingsperiodically.png":
+{
+	"frame": {"x":398,"y":311,"w":378,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":378,"h":78},
+	"sourceSize": {"w":378,"h":78}
+},
+"tutorial_text_combo.png":
+{
+	"frame": {"x":623,"y":442,"w":353,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":353,"h":41},
+	"sourceSize": {"w":353,"h":41}
+},
+"tutorial_text_combosandcombinations.png":
+{
+	"frame": {"x":4,"y":234,"w":407,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":407,"h":73},
+	"sourceSize": {"w":407,"h":73}
+},
+"tutorial_text_completebuilding.png":
+{
+	"frame": {"x":415,"y":234,"w":581,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":581,"h":45},
+	"sourceSize": {"w":581,"h":45}
+},
+"tutorial_text_developvillage.png":
+{
+	"frame": {"x":4,"y":393,"w":631,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":631,"h":45},
+	"sourceSize": {"w":631,"h":45}
+},
+"tutorial_text_fail.png":
+{
+	"frame": {"x":4,"y":541,"w":461,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":461,"h":41},
+	"sourceSize": {"w":461,"h":41}
+},
+"tutorial_text_last.png":
+{
+	"frame": {"x":4,"y":442,"w":615,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":615,"h":45},
+	"sourceSize": {"w":615,"h":45}
+},
+"tutorial_text_requiredcoins.png":
+{
+	"frame": {"x":4,"y":4,"w":423,"h":145},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":423,"h":145},
+	"sourceSize": {"w":423,"h":145}
+},
+"tutorial_text_the morecoinsyouearn.png":
+{
+	"frame": {"x":4,"y":153,"w":417,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":417,"h":77},
+	"sourceSize": {"w":417,"h":77}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "23.0.0.407",
+	"image": "text.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
