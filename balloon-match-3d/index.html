@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <title>Bubble Match 3D</title>
+
+  <!--http://www.html5rocks.com/en/mobile/mobifying/-->
+  <meta name="viewport"
+        content="width=device-width,user-scalable=no,initial-scale=1,minimum-scale=1,maximum-scale=1,minimal-ui=true"/>
+
+  <!--https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html-->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="format-detection" content="telephone=no">
+
+  <!-- force webkit on 360 -->
+  <meta name="renderer" content="webkit"/>
+  <meta name="force-rendering" content="webkit"/>
+  <!-- force edge on IE -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <meta name="msapplication-tap-highlight" content="no">
+
+  <!-- force full screen on some browser -->
+  <meta name="full-screen" content="yes"/>
+  <meta name="x5-fullscreen" content="true"/>
+  <meta name="360-fullscreen" content="true"/>
+
+  <!--fix fireball/issues/3568 -->
+  <!--<meta name="browsermode" content="application">-->
+  <meta name="x5-page-mode" content="app">
+
+  <!--<link rel="apple-touch-icon" href=".png" />-->
+  <!--<link rel="apple-touch-icon-precomposed" href=".png" />-->
+
+  <link rel="stylesheet" type="text/css" href="style.f76d1.css"/>
+  <script>
+        window["GD_OPTIONS"] = {                                   
+          "gameId": "3e00328b8b184561a6ed0bc5ac750153",
+          "onEvent": function(event) {
+              switch (event.name) {
+                  case "SDK_GAME_START":
+                      // advertisement done, resume game logic and unmute audio
+                      cc.AudioMgr && cc.AudioMgr.resumeMusic();
+                      cc && cc.director.resume();
+                      break;
+                  case "SDK_GAME_PAUSE":
+                      // pause game logic / mute audio
+                      cc.AudioMgr && cc.AudioMgr.pauseMusic();
+                      cc && cc.director.pause();
+                      break;
+                  case "SDK_GDPR_TRACKING":
+                      // this event is triggered when your user doesn't want to be tracked
+                      break;
+                  case "SDK_GDPR_TARGETING":
+                      // this event is triggered when your user doesn't want personalised targeting of ads and such
+                      break;
+                  case "AD_SDK_REQUEST_ADS":
+                      break;
+                  case "AD_SDK_FINISHED":
+
+                      break;
+                  case "AD_SDK_ERROR":
+                  case "AD_CANCELED":
+                      
+                      break;
+                  case "SDK_READY":
+                      break;
+                  case "SDK_REWARDED_WATCH_COMPLETE":
+                      if(cc.sdkMgr)
+                        cc.sdkMgr.finishAdVideo();
+                  break;
+              }
+          },
+        };
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = 'main.min.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'gamedistribution-jssdk'));
+    </script>
+</head>
+<body>
+  <div id="GameDiv" cc_exact_fit_screen="false">
+      <div id="Cocos3dGameContainer">
+        <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="99"></canvas>
+      </div>
+    </div>
+  
+
+<!-- Polyfills bundle. -->
+<script src="src/polyfills.bundle.43263.js" charset="utf-8"> </script>
+
+<!-- SystemJS support. -->
+<script src="src/system.bundle.543e6.js" charset="utf-8"> </script>
+
+<!-- Import map -->
+<script src="src/import-map.52abd.json" type="systemjs-importmap" charset="utf-8"> </script>
+
+<script>
+    System.import('./index.f81d3.js').catch(function(err) { console.error(err); })
+</script>
+
+</body>
+</html>
