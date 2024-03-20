@@ -1,0 +1,16 @@
+{
+	"coinsOnStart": 200,
+	"boostersOnStart": 1,
+	
+	"coinsForWatchingAd": 100,
+
+	"priceOfContinue": 100,
+
+	"costOfmulticolor": 50,
+	"costOfbomb": 50,
+	"costOfextraMoves": 50,
+	"costOfaim": 50,
+	"numberOfAims": 5,
+	"coinsForStar": 25
+	
+}

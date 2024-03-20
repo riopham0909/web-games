@@ -1,0 +1,19 @@
+{
+	"backgrounds": [
+		"bg_1",
+		"bg_2",
+		"bg_3",
+		"bg_4",
+		"bg_5",
+		"bg_6",
+		"bg_7"
+	],
+	"maptiles": [
+		"map_greenfields",
+		"map_china",
+		"map_vulcano",
+		"map_egipt",
+		"map_ice",
+		"map_moon"
+	]
+}
