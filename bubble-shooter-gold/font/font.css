@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Riffic-Bold';
+    src: url('Riffic-Bold.eot');
+    src: url('Riffic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Riffic-Bold.woff2') format('woff2'),
+        url('Riffic-Bold.woff') format('woff'),
+        url('Riffic-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}

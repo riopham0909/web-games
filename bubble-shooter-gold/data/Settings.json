@@ -1,0 +1,66 @@
+{
+    "game": {
+        "_AspectRatio":"Соотношение сторон - высота и ширина",
+        "AspectRatioWidth":9,
+        "AspectRatioHeight":18,
+
+        "_RowsToShowOnTheBoard": "Количество рядов отображаемых в игре",
+        "RowsToShowOnTheBoard": 14,
+
+        "_StartCameraAnimationSpeed": "Анимация показа всех шаров при старте игры - задается в миллисекундах на один ряд",
+        "StartCameraAnimationSpeed": 100,
+        "_CameraAnimationSpeedAfterDrop": "Скорость анимации сдвига игровой доски после сброса шаров - задается в миллисекундах на один сбрасываемый ряд",
+        "CameraAnimationSpeedAfterDrop": 100,
+
+        "_ImpactShearForce": "Сила сдвига шаров при ударе - от 1 до 1000",
+        "ImpactShearForce": 20,
+        "_DurationImpactTween": "Время анимации сдвига в миллисекундах - от 10 до 10000",
+        "DurationImpactTween": 200,
+
+        "_DropY": "Сдвиг по оси Y от пушки до точки падения сброшенных шаров",
+        "DropY": 90,
+        "_DropShiftRandY": "Максимально возможный сдвиг от заданной выше точки - от 0 до 1000",
+        "DropShiftRandY": 30,
+
+        "_Hand Show": "Показывать руку первые Х уровней",
+        "handShow": 10
+    },
+    "vibrate-settings": {
+        "_vibrate":"Вибрация в миллисекундах - При падении, при лопании, при взрыве динамит/бомба",
+        "vibrateInDown": 50,
+        "vibratePop": 50,
+        "vibrateDynamite": 100,
+        "vibrateBombExplode": 200
+    },
+    "amplifiers": {
+        "_open-amps": "Уровни на которых открываются усилители c 1 по 4",
+        "open-amps": [9,16,23,32],
+        "_price-amps": "Цена за покупку одного усилителя в игре c 1 по 4",
+        "price-amps": [30,50,70,90],
+        "_first-get": "Сколько давать после открытия",
+        "first-get": 3
+    },
+    "levels": {
+        "_LevelWorkCount": "Сколько уровней отображается на карте уровней",
+        "LevelWorkCount" : 100000
+    },
+    "level-map": {
+        "_BeforeFog": "Сколько уровней видно до тумана",
+        "BeforeFog": 3,
+        "_AfterFog": "Сколько уровней с туманом (как далеко можно прокрутить карту)",
+        "AfterFog": 3
+    },
+    "treasure": {
+        "_coins-chances": "Шансы выпадания монет в ящике от 0 до 100",
+        "coins-chances": 100,
+        "_coins-howmany-chances": "Возможное количество выпавших монет ",
+        "coins-howmany-chances": [{"coin":10,"chance":40},{"coin":30,"chance":30},{"coin":50,"chance":20},{"coin":70,"chance":10}],
+        
+        "_amplifiers-chances": "Шансы выпадания усилителей в ящике от 0 до 100",
+        "amplifiers-chances": 100,
+        "_amplifiers-each-chances": "Шансы выпадания конкретных усилителей в ящике - общая сумма чисел 100",
+        "_amplifiers-each-chances_": "3 шарика, Молния, Бомба, Радуга",
+        "amplifiers-each-chances": [25,25,25,25]
+    }
+
+}

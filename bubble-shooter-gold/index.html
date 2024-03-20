@@ -1,0 +1,52 @@
+<!doctype html><html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="ad.orientation" content="portrait,landscape"><title>Bubble Shooter Gold</title>
+<script>
+	console.log('gd10');
+	window["GD_OPTIONS"] = {
+            "gameId": "dd46da2600ba41eb98cb42837adff0dc",
+            "onEvent": function(event) {
+                switch (event.name) {
+                    case "SDK_READY":
+                      console.log('SDK READY')
+                      window.dispatchEvent(new Event('sdkReady'));
+                    break;
+                    case "AD_SDK_MANAGER_READY":
+                    console.log('AD SDK MANAGER READY')
+                      window.dispatchEvent(new Event('sdkAdReady'));
+                    break;
+                    case "SDK_GAME_START":
+                        // advertisement done, resume game logic and unmute audio
+                        console.log('SDK GAME START')
+                        window.dispatchEvent(new Event('sound-continue'));
+                        window.dispatchEvent( new Event('game-ad-open') );
+                        window.dispatchEvent(new Event('game-ad-end'));
+                        break;
+                    case "SDK_GAME_PAUSE":
+                        // pause game logic / mute audio
+                        console.log('SDK GAME PAUSE')
+                        window.dispatchEvent(new Event('sound-pause'));
+                        break;
+                    case "SDK_GDPR_TRACKING":
+                        // this event is triggered when your user doesn't want to be tracked
+                        break;
+                    case "SDK_GDPR_TARGETING":
+                        // this event is triggered when your user doesn't want personalised targeting of ads and such
+                        break;
+                    case "SDK_REWARDED_WATCH_COMPLETE":
+                        // this event is triggered when your user completely watched rewarded ad
+                        console.log('SDK REWARDED WATCH COMPLETE')
+                        window.dispatchEvent( new Event('reward-open') );
+                        window.dispatchEvent( new Event('reward-complete') );
+                        window.dispatchEvent( new Event('reward-close') );
+                        break;
+                }
+            },
+        };
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = 'main.min.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'gamedistribution-jssdk'));</script><style>body {width:100%;height: 100%;background-color: #000;margin: 0;}
+      * {overflow: hidden;padding: 0;margin: 0;}</style><script defer="defer" src="bundle.e0b1bd329ee4f7de6bf4.min.js"></script></head><body></body></html>

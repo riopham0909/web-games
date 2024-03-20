@@ -1,0 +1,245 @@
+{
+	"textures": [
+		{
+			"image": "fx-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 733,
+				"h": 373
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fx-lightning",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 738,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 731,
+						"h": 87
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 731,
+						"h": 87
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "treausre-ligth-fx",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 346,
+						"h": 282
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 0,
+						"w": 304,
+						"h": 282
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 304,
+						"h": 282
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "fx-rainbow-explosion-6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 133,
+						"h": 133
+					},
+					"frame": {
+						"x": 307,
+						"y": 90,
+						"w": 133,
+						"h": 133
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "fx-rainbow-explosion-5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 128,
+						"h": 132
+					},
+					"frame": {
+						"x": 307,
+						"y": 225,
+						"w": 128,
+						"h": 132
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "fx-rainbow-explosion-7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 132,
+						"h": 127
+					},
+					"frame": {
+						"x": 437,
+						"y": 225,
+						"w": 132,
+						"h": 127
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "fx-rainbow-explosion-4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 4,
+						"w": 115,
+						"h": 117
+					},
+					"frame": {
+						"x": 442,
+						"y": 90,
+						"w": 115,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "fx-rainbow-explosion-3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 88,
+						"h": 92
+					},
+					"frame": {
+						"x": 559,
+						"y": 90,
+						"w": 88,
+						"h": 92
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "fx-rainbow-explosion-2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 5,
+						"w": 66,
+						"h": 76
+					},
+					"frame": {
+						"x": 649,
+						"y": 90,
+						"w": 66,
+						"h": 76
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "fx-rainbow-explosion-1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 21,
+						"w": 45,
+						"h": 52
+					},
+					"frame": {
+						"x": 649,
+						"y": 168,
+						"w": 45,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3945a6667255588d061997fa798bce08:d6611c18fea6bd516c37dbc198c79cc1:9c901af86837f466858e9fee4db2d017$"
+	}
+}
