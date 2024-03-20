@@ -1,0 +1,52 @@
+{"frames": {
+
+"Fireball_Bronze_Crown":
+{
+	"frame": {"x":129,"y":116,"w":110,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":56},
+	"sourceSize": {"w":110,"h":56}
+},
+"Fireball_Gold_Crown":
+{
+	"frame": {"x":3,"y":3,"w":130,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":73},
+	"sourceSize": {"w":130,"h":73}
+},
+"Fireball_Icon_Crown":
+{
+	"frame": {"x":137,"y":3,"w":49,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":62},
+	"sourceSize": {"w":49,"h":62}
+},
+"Fireball_Silver_Crown":
+{
+	"frame": {"x":3,"y":80,"w":122,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":64},
+	"sourceSize": {"w":122,"h":64}
+},
+"Fireball_Tiny_Crown":
+{
+	"frame": {"x":137,"y":69,"w":107,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":43},
+	"sourceSize": {"w":107,"h":43}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "avatarFrames.png",
+	"format": "RGBA8888",
+	"size": {"w":247,"h":175},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6b872bdefc44789df6f7e7001172e408:a3c1abb6830122eade77338b0618953e:fc62d7b7ce3623ef8e0cb7286d0f7e66$"
+}
+}

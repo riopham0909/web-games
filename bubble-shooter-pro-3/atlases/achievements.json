@@ -1,0 +1,263 @@
+{"frames": {
+
+"Achievement_Achieve_Bubble_Streak":
+{
+	"frame": {"x":420,"y":243,"w":46,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":79},
+	"sourceSize": {"w":46,"h":79}
+},
+"Achievement_Avatar_Plus_Pill":
+{
+	"frame": {"x":339,"y":722,"w":50,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":34},
+	"sourceSize": {"w":50,"h":34}
+},
+"Achievement_Background_0":
+{
+	"frame": {"x":3,"y":570,"w":157,"h":157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":157},
+	"sourceSize": {"w":157,"h":157}
+},
+"Achievement_Background_0_Lock":
+{
+	"frame": {"x":173,"y":166,"w":156,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":156},
+	"sourceSize": {"w":156,"h":156}
+},
+"Achievement_Background_1":
+{
+	"frame": {"x":172,"y":326,"w":157,"h":157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":157},
+	"sourceSize": {"w":157,"h":157}
+},
+"Achievement_Background_1_Lock":
+{
+	"frame": {"x":3,"y":410,"w":165,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":156},
+	"sourceSize": {"w":165,"h":156}
+},
+"Achievement_Background_2":
+{
+	"frame": {"x":310,"y":3,"w":164,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":158},
+	"sourceSize": {"w":164,"h":158}
+},
+"Achievement_Background_2_Lock":
+{
+	"frame": {"x":172,"y":487,"w":155,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":155},
+	"sourceSize": {"w":155,"h":155}
+},
+"Achievement_Background_3":
+{
+	"frame": {"x":3,"y":248,"w":165,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":158},
+	"sourceSize": {"w":165,"h":158}
+},
+"Achievement_Background_3_Lock":
+{
+	"frame": {"x":3,"y":86,"w":166,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":158},
+	"sourceSize": {"w":166,"h":158}
+},
+"Achievement_Collect_X_Leaderboard_Gifts":
+{
+	"frame": {"x":331,"y":575,"w":63,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":70},
+	"sourceSize": {"w":63,"h":70}
+},
+"Achievement_Collect_X_x2_Multiplier":
+{
+	"frame": {"x":3,"y":731,"w":72,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":55},
+	"sourceSize": {"w":72,"h":55}
+},
+"Achievement_Collect_X_x5_Multiplier":
+{
+	"frame": {"x":261,"y":724,"w":74,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":56},
+	"sourceSize": {"w":74,"h":56}
+},
+"Achievement_Collect_X_x10_Multiplier":
+{
+	"frame": {"x":79,"y":731,"w":91,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":45},
+	"sourceSize": {"w":91,"h":45}
+},
+"Achievement_Collect_X_x15_Multiplier":
+{
+	"frame": {"x":174,"y":724,"w":83,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":45},
+	"sourceSize": {"w":83,"h":45}
+},
+"Achievement_Create_X_Fireball":
+{
+	"frame": {"x":331,"y":487,"w":62,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":84},
+	"sourceSize": {"w":62,"h":84}
+},
+"Achievement_Ingame_Notification":
+{
+	"frame": {"x":3,"y":3,"w":303,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":303,"h":79},
+	"sourceSize": {"w":303,"h":79}
+},
+"Achievement_Lock":
+{
+	"frame": {"x":266,"y":86,"w":40,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":54},
+	"sourceSize": {"w":40,"h":54}
+},
+"Achievement_Play_X_Days_Row":
+{
+	"frame": {"x":333,"y":250,"w":83,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":75},
+	"sourceSize": {"w":83,"h":75}
+},
+"Achievement_Play_X_Rounds":
+{
+	"frame": {"x":320,"y":649,"w":69,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":69},
+	"sourceSize": {"w":69,"h":69}
+},
+"Achievement_Pop_X_Friends_Bubble":
+{
+	"frame": {"x":333,"y":165,"w":78,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":81},
+	"sourceSize": {"w":78,"h":81}
+},
+"Achievement_Score_X":
+{
+	"frame": {"x":173,"y":86,"w":89,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":76},
+	"sourceSize": {"w":89,"h":76}
+},
+"Achievement_Send_X_Gifts":
+{
+	"frame": {"x":333,"y":329,"w":85,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":69},
+	"sourceSize": {"w":85,"h":69}
+},
+"Achievement_Trigger_X_Blackholes":
+{
+	"frame": {"x":333,"y":402,"w":77,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":75},
+	"sourceSize": {"w":77,"h":75}
+},
+"Achievement_Trigger_X_Color_Bombs":
+{
+	"frame": {"x":393,"y":673,"w":73,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":73},
+	"sourceSize": {"w":73,"h":73}
+},
+"Achievement_Trigger_X_Pushbacks":
+{
+	"frame": {"x":415,"y":165,"w":56,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":74},
+	"sourceSize": {"w":56,"h":74}
+},
+"Achievement_Trigger_X_Score_Buckets":
+{
+	"frame": {"x":164,"y":646,"w":74,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":74},
+	"sourceSize": {"w":74,"h":74}
+},
+"Achievement_Use_X_Bombs":
+{
+	"frame": {"x":242,"y":646,"w":74,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":74},
+	"sourceSize": {"w":74,"h":74}
+},
+"Achievement_Use_X_Friends_Gifts":
+{
+	"frame": {"x":398,"y":554,"w":76,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":60},
+	"sourceSize": {"w":76,"h":60}
+},
+"Achievement_Use_X_Second_Chances":
+{
+	"frame": {"x":397,"y":481,"w":77,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":69},
+	"sourceSize": {"w":77,"h":69}
+},
+"Finish_X_Games":
+{
+	"frame": {"x":398,"y":618,"w":75,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":51},
+	"sourceSize": {"w":75,"h":51}
+}},
+"animations": {
+	"Achievement_Background": ["Achievement_Background_0","Achievement_Background_1","Achievement_Background_2","Achievement_Background_3"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "achievements.png",
+	"format": "RGBA8888",
+	"size": {"w":477,"h":789},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:952c3007ba36af7fa295e4e27984f7a2:73e7a2e53c9288483ed056fc5e2bc16f:13ffed8f5e4543e33c3573f00f28e345$"
+}
+}

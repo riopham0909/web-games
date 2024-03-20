@@ -1,0 +1,167 @@
+{"frames": {
+
+"Fireball_Ball_Achievement_White":
+{
+	"frame": {"x":952,"y":3,"w":175,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"Fireball_Ball_Frame_1st":
+{
+	"frame": {"x":1131,"y":3,"w":148,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":181},
+	"sourceSize": {"w":148,"h":181}
+},
+"Fireball_Ball_Frame_2nd":
+{
+	"frame": {"x":899,"y":218,"w":127,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":174},
+	"sourceSize": {"w":127,"h":174}
+},
+"Fireball_Ball_Frame_3rd":
+{
+	"frame": {"x":1030,"y":188,"w":125,"h":167},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":167},
+	"sourceSize": {"w":125,"h":167}
+},
+"Fireball_Ball_Frame_normal":
+{
+	"frame": {"x":393,"y":378,"w":125,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":120},
+	"sourceSize": {"w":125,"h":120}
+},
+"Fireball_Ball_Frame_top_10":
+{
+	"frame": {"x":1030,"y":359,"w":125,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":150},
+	"sourceSize": {"w":125,"h":150}
+},
+"Fireball_Ball_Frame_White":
+{
+	"frame": {"x":737,"y":218,"w":158,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":158,"h":183},
+	"sourceSize": {"w":158,"h":183}
+},
+"Fireball_Ball_Rank_1":
+{
+	"frame": {"x":934,"y":451,"w":59,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":50},
+	"sourceSize": {"w":59,"h":50}
+},
+"Fireball_Ball_Rank_2":
+{
+	"frame": {"x":871,"y":405,"w":59,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":51},
+	"sourceSize": {"w":59,"h":51}
+},
+"Fireball_Ball_Rank_3":
+{
+	"frame": {"x":934,"y":396,"w":59,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":51},
+	"sourceSize": {"w":59,"h":51}
+},
+"Fireball_Ball_Rank_Under_3":
+{
+	"frame": {"x":1159,"y":445,"w":67,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":58},
+	"sourceSize": {"w":67,"h":58}
+},
+"Fireball_Ball_Streak_Bonus_White":
+{
+	"frame": {"x":543,"y":291,"w":169,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":169,"h":169},
+	"sourceSize": {"w":169,"h":169}
+},
+"Fireball_Ball_Win_Priwe_Frame":
+{
+	"frame": {"x":3,"y":291,"w":536,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":536,"h":83},
+	"sourceSize": {"w":536,"h":83}
+},
+"Fireball_Challenge_Banner":
+{
+	"frame": {"x":3,"y":3,"w":730,"h":284},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":730,"h":284},
+	"sourceSize": {"w":730,"h":284}
+},
+"Fireball_Challenge_Icon":
+{
+	"frame": {"x":1159,"y":312,"w":106,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":129},
+	"sourceSize": {"w":106,"h":129}
+},
+"Fireball_Event_Icon_Background_Main_Menu":
+{
+	"frame": {"x":1159,"y":188,"w":122,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":120},
+	"sourceSize": {"w":122,"h":120}
+},
+"Fireball_Event_Rank_Timer_Main_Menu":
+{
+	"frame": {"x":716,"y":405,"w":151,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":90},
+	"sourceSize": {"w":151,"h":90}
+},
+"Fireball_Streak_Bonus_Badge":
+{
+	"frame": {"x":737,"y":3,"w":211,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":211},
+	"sourceSize": {"w":211,"h":211}
+},
+"Timer_and_Rank":
+{
+	"frame": {"x":3,"y":378,"w":386,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":131},
+	"sourceSize": {"w":386,"h":131}
+}},
+"animations": {
+	"Fireball_Ball_Rank": ["Fireball_Ball_Rank_1","Fireball_Ball_Rank_2","Fireball_Ball_Rank_3"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "fireballEvent.png",
+	"format": "RGBA8888",
+	"size": {"w":1284,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f05812ab55fa4729afc09ca09a0fc5ef:17077ff580288a3771c97b1376dc84b9:e966326e5e4babf60bd3ff039ff2ab0b$"
+}
+}

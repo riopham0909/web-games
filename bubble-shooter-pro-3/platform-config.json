@@ -1,0 +1,18 @@
+{
+    "platform": "azerion",
+    "gameSlug": "bubble-shooter-pro-3",
+    "gameBuild": "1.84.2.3",
+    "gameID": "41fdb8e2178d47e6ae457c62b365dba8",
+    "gameTitle": "Bubble Shooter Pro 3",
+    "interface": "FBInstant",
+    "leaderboardSupport": false,
+    "inAppPurchase": false,
+    "adsConfig": {
+      "rewarded": true,
+      "adFreeInitialLevels": 0,
+      "interstitialCooldownLevel": 0,
+      "longGameplayCooldownMS": 150000,
+      "enableLongGameplayAds": false,
+      "supportsAdPlayButton": false
+    }
+}
