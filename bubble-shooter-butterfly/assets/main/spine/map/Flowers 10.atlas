@@ -1,0 +1,34 @@
+
+Flowers 10.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+closed 1
+  rotate: true
+  xy: 133, 82
+  size: 77, 82
+  orig: 79, 84
+  offset: 1, 1
+  index: -1
+closed 2
+  rotate: false
+  xy: 133, 161
+  size: 86, 81
+  orig: 88, 83
+  offset: 1, 1
+  index: -1
+oppened 1
+  rotate: false
+  xy: 2, 2
+  size: 120, 114
+  orig: 122, 116
+  offset: 1, 1
+  index: -1
+oppened 2
+  rotate: false
+  xy: 2, 118
+  size: 129, 124
+  orig: 131, 126
+  offset: 1, 1
+  index: -1

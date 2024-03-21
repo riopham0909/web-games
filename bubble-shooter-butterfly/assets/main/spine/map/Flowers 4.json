@@ -1,0 +1,178 @@
+{
+"skeleton": {
+	"hash": "1fqyJVk3pBA",
+	"spine": "3.8-from-4.0-from-4.1.23",
+	"x": -880.71,
+	"y": -901.64,
+	"width": 1082,
+	"height": 2161,
+	"images": "./images/",
+	"audio": "F:/Фриланс/Гамон/Bubble pop butterfly/Projects/Map/Flowers 4"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "closed", "parent": "root", "length": 66.48, "rotation": 50.19, "x": 6.62, "y": 11.14 },
+	{ "name": "oppened", "parent": "root", "length": 66.79, "rotation": 10.2, "x": 14.66, "y": 6.41 },
+	{ "name": "idle", "parent": "root", "length": 58.07, "rotation": -83.45, "x": -29.79, "y": -22.44 }
+],
+"slots": [
+	{ "name": "back копия", "bone": "root" },
+	{ "name": "closed", "bone": "closed", "attachment": "closed" },
+	{ "name": "idle", "bone": "idle", "attachment": "idle" },
+	{ "name": "oppened", "bone": "oppened", "attachment": "oppened" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"closed": {
+				"closed": { "x": 11.67, "y": -3.51, "rotation": -50.19, "width": 85, "height": 81 }
+			},
+			"idle": {
+				"idle": { "x": 8.05, "y": -1.85, "rotation": 83.45, "width": 130, "height": 126 }
+			},
+			"oppened": {
+				"oppened": { "x": 24.2, "y": 12.36, "rotation": -10.2, "width": 126, "height": 131 }
+			}
+		}
+	}
+],
+"animations": {
+	"off": {
+		"slots": {
+			"oppened": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"oppened": {
+				"rotate": [
+					{ "angle": -9.52 }
+				],
+				"translate": [
+					{ "y": 6.42 }
+				],
+				"scale": [
+					{ "x": 0.254, "y": 0.254 }
+				]
+			},
+			"idle": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -4.38 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "x": -1.2, "y": -1.6 },
+					{ "time": 2 }
+				]
+			}
+		}
+	},
+	"on": {
+		"slots": {
+			"closed": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"oppened": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": 5.98 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "x": -4.01, "y": 0.4 },
+					{ "time": 2 }
+				]
+			},
+			"idle": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -2.4 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "x": 0.8, "y": -1.6 },
+					{ "time": 2 }
+				]
+			}
+		}
+	},
+	"turning on": {
+		"slots": {
+			"closed": {
+				"color": [
+					{ "time": 0.2667, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"oppened": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"oppened": {
+				"rotate": [
+					{ "angle": -9.52 },
+					{ "time": 0.3333, "angle": 6.76 },
+					{ "time": 0.6667 }
+				],
+				"translate": [
+					{ "y": 6.42 },
+					{ "time": 0.3333, "x": 0.4, "y": 6.42 },
+					{ "time": 0.6667 }
+				],
+				"scale": [
+					{ "x": 0.254, "y": 0.254 },
+					{ "time": 0.3333, "x": 1.188, "y": 1.188 },
+					{ "time": 0.6667 }
+				]
+			},
+			"idle": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "angle": -12.11 },
+					{ "time": 0.6667 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.3333, "x": -1.6, "y": -5.21 },
+					{ "time": 0.6667 }
+				]
+			},
+			"closed": {
+				"rotate": [
+					{},
+					{ "time": 0.2667, "angle": 12.4 },
+					{ "time": 0.5, "angle": -9.76 },
+					{ "time": 0.6667 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.2667, "x": 1.6, "y": 6.02 },
+					{ "time": 0.5, "x": 1.07, "y": 0.1 },
+					{ "time": 0.6667 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.2667, "x": 1.112, "y": 1.112 },
+					{ "time": 0.5, "x": 0.518, "y": 0.518 },
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	}
+}
+}

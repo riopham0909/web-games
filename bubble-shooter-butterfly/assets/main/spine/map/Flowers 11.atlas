@@ -1,0 +1,27 @@
+
+Flowers 11.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+idle
+  rotate: false
+  xy: 2, 108
+  size: 129, 124
+  orig: 131, 126
+  offset: 1, 1
+  index: -1
+oppened 1
+  rotate: false
+  xy: 133, 132
+  size: 96, 100
+  orig: 98, 102
+  offset: 1, 1
+  index: -1
+oppened 2
+  rotate: false
+  xy: 2, 2
+  size: 112, 104
+  orig: 114, 106
+  offset: 1, 1
+  index: -1

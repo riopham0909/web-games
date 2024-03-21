@@ -1,0 +1,27 @@
+
+Flowers 4.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+closed
+  rotate: false
+  xy: 2, 42
+  size: 83, 79
+  orig: 85, 81
+  offset: 1, 1
+  index: -1
+idle
+  rotate: true
+  xy: 128, 124
+  size: 128, 124
+  orig: 130, 126
+  offset: 1, 1
+  index: -1
+oppened
+  rotate: false
+  xy: 2, 123
+  size: 124, 129
+  orig: 126, 131
+  offset: 1, 1
+  index: -1

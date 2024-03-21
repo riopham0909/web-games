@@ -1,0 +1,49 @@
+{
+"skeleton": {
+	"hash": "wuQFDlUw5uE",
+	"spine": "3.8-from-4.0-from-4.1.23",
+	"x": -37.02,
+	"y": -77.36,
+	"width": 74.03,
+	"height": 113.02,
+	"images": "./images/",
+	"audio": "F:/Фриланс/Гамон/Bubble pop butterfly/Projects/Level marker"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 55.74, "rotation": -90.02 }
+],
+"slots": [
+	{ "name": "Слой 1", "bone": "bone", "attachment": "1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Слой 1": {
+				"1": { "x": 20.85, "rotation": 90, "width": 74, "height": 113 }
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {
+		"bones": {
+			"bone": {
+				"translate": [
+					{},
+					{ "time": 0.8, "y": 31.96 },
+					{ "time": 1.3333, "y": -17.64 },
+					{ "time": 1.7333 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.8, "x": 1.05, "y": 0.982 },
+					{ "time": 1.3333, "x": 0.959, "y": 1.041 },
+					{ "time": 1.7333 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,153 @@
+
+Floral beam sliced.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Floral Beam DE
+  rotate: true
+  xy: 245, 937
+  size: 618, 118
+  orig: 622, 122
+  offset: 2, 2
+  index: -1
+Floral Beam EN
+  rotate: false
+  xy: 907, 1600
+  size: 540, 118
+  orig: 544, 122
+  offset: 2, 2
+  index: -1
+Floral Beam ES
+  rotate: true
+  xy: 365, 1030
+  size: 525, 139
+  orig: 529, 144
+  offset: 2, 3
+  index: -1
+Floral Beam FR
+  rotate: false
+  xy: 907, 1720
+  size: 563, 139
+  orig: 567, 144
+  offset: 2, 3
+  index: -1
+Floral Beam IT
+  rotate: true
+  xy: 2, 167
+  size: 668, 140
+  orig: 672, 144
+  offset: 2, 2
+  index: -1
+Floral Beam JA
+  rotate: true
+  xy: 150, 866
+  size: 689, 93
+  orig: 693, 98
+  offset: 2, 3
+  index: -1
+Floral Beam RU
+  rotate: false
+  xy: 907, 1861
+  size: 624, 140
+  orig: 628, 145
+  offset: 2, 2
+  index: -1
+Floral Beam UK
+  rotate: true
+  xy: 2, 837
+  size: 718, 146
+  orig: 720, 149
+  offset: 1, 2
+  index: -1
+back glow 1
+  rotate: false
+  xy: 506, 1310
+  size: 330, 329
+  orig: 339, 339
+  offset: 5, 5
+  index: -1
+back glow 2
+  rotate: false
+  xy: 2, 1557
+  size: 427, 444
+  orig: 456, 472
+  offset: 15, 14
+  index: -1
+ball
+  rotate: false
+  xy: 506, 1071
+  size: 238, 237
+  orig: 240, 239
+  offset: 1, 1
+  index: -1
+blick
+  rotate: false
+  xy: 2, 2
+  size: 155, 163
+  orig: 161, 169
+  offset: 4, 2
+  index: -1
+leave 1
+  rotate: true
+  xy: 1472, 1796
+  size: 63, 58
+  orig: 67, 64
+  offset: 2, 3
+  index: -1
+leave 2
+  rotate: false
+  xy: 245, 869
+  size: 70, 66
+  orig: 74, 71
+  offset: 2, 2
+  index: -1
+leave 3
+  rotate: false
+  xy: 365, 967
+  size: 65, 61
+  orig: 70, 66
+  offset: 3, 3
+  index: -1
+par 1
+  rotate: true
+  xy: 1692, 1897
+  size: 104, 130
+  orig: 116, 142
+  offset: 6, 6
+  index: -1
+par 2
+  rotate: true
+  xy: 1533, 1904
+  size: 97, 157
+  orig: 108, 169
+  offset: 5, 6
+  index: -1
+par 3
+  rotate: true
+  xy: 838, 1579
+  size: 60, 67
+  orig: 65, 72
+  offset: 3, 2
+  index: -1
+par 4
+  rotate: false
+  xy: 431, 1588
+  size: 54, 51
+  orig: 59, 56
+  offset: 2, 2
+  index: -1
+par 5
+  rotate: false
+  xy: 746, 1262
+  size: 48, 46
+  orig: 52, 51
+  offset: 2, 2
+  index: -1
+stripes
+  rotate: false
+  xy: 431, 1641
+  size: 474, 360
+  orig: 855, 427
+  offset: 196, 30
+  index: -1

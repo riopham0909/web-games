@@ -1,0 +1,20 @@
+
+Flowers 7.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+closed
+  rotate: false
+  xy: 2, 2
+  size: 84, 80
+  orig: 86, 82
+  offset: 1, 1
+  index: -1
+oppened
+  rotate: false
+  xy: 2, 84
+  size: 114, 116
+  orig: 116, 118
+  offset: 1, 1
+  index: -1

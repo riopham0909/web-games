@@ -1,0 +1,55 @@
+
+Line ball.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+arrow
+  rotate: false
+  xy: 2, 6
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+ball arrow
+  rotate: false
+  xy: 189, 189
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+ball arrow 1 1
+  rotate: false
+  xy: 102, 172
+  size: 85, 79
+  orig: 86, 79
+  offset: 1, 0
+  index: -1
+ball arrow 1 2
+  rotate: false
+  xy: 102, 90
+  size: 81, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+ball arrow 2 1
+  rotate: false
+  xy: 2, 39
+  size: 87, 78
+  orig: 92, 80
+  offset: 5, 2
+  index: -1
+ball arrow 2 2
+  rotate: false
+  xy: 91, 14
+  size: 81, 74
+  orig: 87, 75
+  offset: 5, 1
+  index: -1
+spark
+  rotate: false
+  xy: 2, 119
+  size: 98, 132
+  orig: 98, 132
+  offset: 0, 0
+  index: -1

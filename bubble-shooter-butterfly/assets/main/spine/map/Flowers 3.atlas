@@ -1,0 +1,27 @@
+
+Flowers 3.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+closed
+  rotate: false
+  xy: 134, 172
+  size: 83, 80
+  orig: 85, 82
+  offset: 1, 1
+  index: -1
+idle
+  rotate: false
+  xy: 2, 2
+  size: 128, 124
+  orig: 130, 126
+  offset: 1, 1
+  index: -1
+oppened
+  rotate: false
+  xy: 2, 128
+  size: 130, 124
+  orig: 132, 126
+  offset: 1, 1
+  index: -1

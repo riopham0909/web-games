@@ -1,0 +1,132 @@
+
+Fireworks sliced.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+dot green
+  rotate: false
+  xy: 226, 153
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
+dot green 1
+  rotate: false
+  xy: 1279, 1413
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
+dot green 2
+  rotate: false
+  xy: 1487, 1534
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
+dot green 3
+  rotate: false
+  xy: 2, 2
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
+dot green 4
+  rotate: false
+  xy: 185, 71
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
+glow 1
+  rotate: false
+  xy: 2, 295
+  size: 423, 423
+  orig: 425, 425
+  offset: 1, 1
+  index: -1
+glow 2
+  rotate: false
+  xy: 854, 1137
+  size: 423, 423
+  orig: 425, 425
+  offset: 1, 1
+  index: -1
+star
+  rotate: false
+  xy: 978, 1062
+  size: 72, 73
+  orig: 74, 75
+  offset: 1, 1
+  index: -1
+stripes
+  rotate: false
+  xy: 2, 720
+  size: 850, 840
+  orig: 855, 849
+  offset: 3, 3
+  index: -1
+wing 1
+  rotate: false
+  xy: 854, 919
+  size: 122, 216
+  orig: 124, 218
+  offset: 1, 1
+  index: -1
+wing 2
+  rotate: false
+  xy: 427, 502
+  size: 176, 216
+  orig: 178, 218
+  offset: 1, 1
+  index: -1
+wing 3
+  rotate: false
+  xy: 2, 99
+  size: 222, 194
+  orig: 224, 196
+  offset: 1, 1
+  index: -1
+wing 4
+  rotate: false
+  xy: 1279, 1441
+  size: 206, 119
+  orig: 208, 121
+  offset: 1, 1
+  index: -1
+wing 5
+  rotate: false
+  xy: 2, 30
+  size: 181, 67
+  orig: 183, 69
+  offset: 1, 1
+  index: -1
+wing 6
+  rotate: false
+  xy: 605, 680
+  size: 146, 38
+  orig: 148, 40
+  offset: 1, 1
+  index: -1
+wing 7
+  rotate: true
+  xy: 854, 782
+  size: 135, 34
+  orig: 137, 36
+  offset: 1, 1
+  index: -1
+wing 8
+  rotate: false
+  xy: 427, 432
+  size: 128, 68
+  orig: 130, 70
+  offset: 1, 1
+  index: -1
+wing 9
+  rotate: false
+  xy: 226, 181
+  size: 105, 112
+  orig: 107, 114
+  offset: 1, 1
+  index: -1

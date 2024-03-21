@@ -1,0 +1,398 @@
+{
+    "id": 4,
+    "rows": 20,
+    "columns": 11,
+    "availableColors": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "tutorialColors": [
+        0,
+        0
+    ],
+    "levelStats": {
+        "bubblesCount": 20,
+        "oneStar": 1000,
+        "twoStars": 6000,
+        "threeStars": 9000
+    },
+    "levelGoal": {
+        "type": 0,
+        "count": 2
+    },
+    "availableBoosters": 0,
+    "bubbleRows": [
+        [
+            null,
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            null
+        ],
+        [
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            }
+        ],
+        [
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            }
+        ],
+        [
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 3,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 3,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            }
+        ],
+        [
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            }
+        ],
+        [
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 3,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 2,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            }
+        ],
+        [
+            null,
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            {
+                "type": 0,
+                "cover": 0,
+                "enumName": "colorBubble"
+            },
+            null
+        ]
+    ]
+}

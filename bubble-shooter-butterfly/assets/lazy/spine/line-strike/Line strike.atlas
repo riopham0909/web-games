@@ -1,0 +1,27 @@
+
+Line strike.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+line strike 1
+  rotate: false
+  xy: 2, 476
+  size: 684, 72
+  orig: 684, 72
+  offset: 0, 0
+  index: -1
+line strike 2
+  rotate: false
+  xy: 2, 550
+  size: 688, 69
+  orig: 688, 69
+  offset: 0, 0
+  index: -1
+line strike 3
+  rotate: false
+  xy: 2, 621
+  size: 697, 78
+  orig: 697, 78
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+Stars.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+omni glowing
+  rotate: false
+  xy: 2, 1023
+  size: 749, 453
+  orig: 880, 537
+  offset: 67, 54
+  index: -1
+par 1
+  rotate: false
+  xy: 1375, 1348
+  size: 101, 128
+  orig: 117, 142
+  offset: 8, 7
+  index: -1
+par 2
+  rotate: false
+  xy: 932, 1095
+  size: 88, 156
+  orig: 104, 172
+  offset: 8, 8
+  index: -1
+sripes
+  rotate: false
+  xy: 2, 440
+  size: 580, 581
+  orig: 612, 612
+  offset: 16, 15
+  index: -1
+star 1
+  rotate: false
+  xy: 2, 105
+  size: 135, 134
+  orig: 137, 136
+  offset: 1, 1
+  index: -1
+star 1 glow
+  rotate: false
+  xy: 753, 1075
+  size: 177, 176
+  orig: 183, 182
+  offset: 3, 3
+  index: -1
+star 2
+  rotate: false
+  xy: 584, 866
+  size: 166, 155
+  orig: 168, 157
+  offset: 1, 1
+  index: -1
+star 2 glow
+  rotate: false
+  xy: 2, 241
+  size: 208, 197
+  orig: 216, 205
+  offset: 4, 4
+  index: -1
+star 3
+  rotate: false
+  xy: 212, 304
+  size: 135, 134
+  orig: 137, 136
+  offset: 1, 1
+  index: -1
+star 3 glow
+  rotate: false
+  xy: 1196, 1300
+  size: 177, 176
+  orig: 183, 182
+  offset: 3, 3
+  index: -1
+stars off
+  rotate: false
+  xy: 753, 1253
+  size: 441, 223
+  orig: 443, 225
+  offset: 1, 1
+  index: -1

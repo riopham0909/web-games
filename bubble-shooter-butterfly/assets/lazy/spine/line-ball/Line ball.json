@@ -1,0 +1,237 @@
+{
+"skeleton": {
+	"hash": "yv3n73/Og2k",
+	"spine": "3.8-from-4.0-from-4.1.23",
+	"x": -272.17,
+	"y": -312.02,
+	"width": 540,
+	"height": 614,
+	"images": "./images/",
+	"audio": "F:/Фриланс/Гамон/Bubble pop butterfly/Projects/Line ball"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "base", "parent": "root", "x": 3.59, "y": -12.17 },
+	{ "name": "ball arrow 1 1", "parent": "base", "length": 80.62, "rotation": 69.6, "x": 0.12, "y": 1.42 },
+	{ "name": "ball arrow 1 2", "parent": "base", "length": 80.62, "rotation": 91.65, "x": 0.12, "y": 1.42 },
+	{ "name": "ball arrow 2 1", "parent": "base", "length": 80.62, "rotation": 112.87, "x": 0.12, "y": 1.42 },
+	{ "name": "ball arrow 2 2", "parent": "base", "length": 80.62, "rotation": 132.91, "x": 0.12, "y": 1.42 },
+	{ "name": "arrow", "parent": "base", "length": 46.34, "rotation": -90, "x": -0.93, "y": -9.85 },
+	{ "name": "spark", "parent": "base", "length": 186.86, "rotation": 53.37, "x": -96.85, "y": -23.13 }
+],
+"slots": [
+	{ "name": "Слой 74", "bone": "root" },
+	{ "name": "ball arrow 1 1", "bone": "ball arrow 1 1", "attachment": "ball arrow 1 1" },
+	{ "name": "ball arrow 1 2", "bone": "ball arrow 1 2", "attachment": "ball arrow 1 2" },
+	{ "name": "ball arrow 2 1", "bone": "ball arrow 2 1", "attachment": "ball arrow 2 1" },
+	{ "name": "ball arrow 2 2", "bone": "ball arrow 2 2", "attachment": "ball arrow 2 2" },
+	{ "name": "ball arrow", "bone": "base", "attachment": "ball arrow" },
+	{ "name": "arrow", "bone": "arrow", "attachment": "arrow" },
+	{ "name": "spark mask", "bone": "base", "attachment": "spark mask" },
+	{ "name": "spark", "bone": "spark", "attachment": "spark" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"arrow": {
+				"arrow": { "x": -9.8, "y": 0.19, "rotation": 90, "width": 233, "height": 122 }
+			},
+			"ball arrow": {
+				"ball arrow": { "x": -4.24, "y": 11.95, "width": 246, "height": 246 }
+			},
+			"ball arrow 1 1": {
+				"ball arrow 1 1": { "x": 6.17, "y": 20.81, "rotation": -69.6, "width": 342, "height": 315 }
+			},
+			"ball arrow 1 2": {
+				"ball arrow 1 2": { "x": 11.6, "y": 2.02, "rotation": -91.65, "width": 326, "height": 320 }
+			},
+			"ball arrow 2 1": {
+				"ball arrow 2 1": { "x": 26.39, "y": 7.16, "rotation": -112.87, "width": 367, "height": 320 }
+			},
+			"ball arrow 2 2": {
+				"ball arrow 2 2": { "x": 18.17, "y": -5.48, "rotation": -132.91, "width": 346, "height": 301 }
+			},
+			"spark": {
+				"spark": { "x": 64.9, "y": -6.7, "rotation": -53.37, "width": 393, "height": 526 }
+			},
+			"spark mask": {
+				"spark mask": {
+					"type": "clipping",
+					"end": "spark mask",
+					"vertexCount": 54,
+					"vertices": [ 87.51, 91.1, 74.93, 103.44, 63.37, 112.59, 51.52, 119.66, 37.56, 126.02, 23.86, 130.31, 12.71, 132.56, 1.71, 132.87, -11.02, 133.03, -21.62, 131.81, -34.2, 129.12, -44.46, 125.89, -55.44, 121.64, -65.27, 116.58, -73.88, 111.5, -81.18, 105.86, -88.57, 99.36, -93.96, 93.43, -98.61, 87.57, -103.55, 81.29, -109.15, 73.23, -112.78, 66.59, -118.33, 52.77, -122.07, 38.7, -124.71, 23.65, -124.9, 7.33, -123.72, -8.42, -119.78, -23.56, -114.55, -38.45, -107.2, -51.73, -99.08, -62.86, -90.56, -73.4, -79.54, -82.75, -67.71, -91.22, -53.49, -98.92, -37.39, -104.48, -18.53, -107.81, 0.59, -108.89, 17.87, -106.66, 35.2, -102.4, 49.8, -95.87, 63.39, -88.24, 75.31, -79.08, 85.54, -68.78, 94.63, -57.62, 100.75, -48.36, 106.18, -39.12, 110.73, -27.32, 114.54, -13.42, 116.43, 1.03, 116.16, 16.85, 114.33, 33.11, 109.44, 52.03, 100.74, 72.67 ],
+					"color": "ce3a3aff"
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {
+		"slots": {
+			"ball arrow 1 1": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"ball arrow 1 2": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"ball arrow 2 1": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"ball arrow 2 2": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"spark": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.1, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.4333, "color": "ffffffff" },
+					{ "time": 0.5333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"spark": {
+				"translate": [
+					{ "x": -53.19, "y": 55.27 },
+					{ "time": 0.5333, "x": 169.57, "y": -121.13 },
+					{ "time": 1.6667, "x": -53.19, "y": 55.27 }
+				]
+			},
+			"ball arrow 1 1": {
+				"translate": [
+					{ "x": -2.08, "y": -3.13 }
+				]
+			},
+			"arrow": {
+				"translate": [
+					{},
+					{ "time": 0.5667, "y": -1.82 },
+					{ "time": 0.8333, "y": -2.74 },
+					{ "time": 1.4, "y": 2.29 },
+					{ "time": 1.6667 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.5667, "x": 0.977, "y": 0.828 },
+					{ "time": 0.8333, "x": 0.996, "y": 0.857 },
+					{ "time": 1.4, "x": 0.927, "y": 1.037 },
+					{ "time": 1.6667 }
+				]
+			}
+		}
+	},
+	"ready to fire": {
+		"slots": {
+			"spark": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.2, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.4667, "color": "ffffffff" },
+					{ "time": 0.6, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"ball arrow 1 1": {
+				"rotate": [
+					{},
+					{ "time": 1.1667, "angle": 359.85 }
+				],
+				"translate": [
+					{ "x": -2.08, "y": -3.13 },
+					{ "time": 0.1667, "x": 7.03, "y": 4.43 },
+					{ "time": 0.3, "x": 7.81, "y": 15.11 },
+					{ "time": 0.6, "x": -7.81, "y": 27.78 },
+					{ "time": 0.7333, "x": -15.48, "y": 17.76 },
+					{ "time": 0.9333, "x": -15.5, "y": 5.73 },
+					{ "time": 1.1667, "x": -1.04, "y": -1.56 }
+				]
+			},
+			"ball arrow 1 2": {
+				"rotate": [
+					{},
+					{ "time": 1.1667, "angle": -360.67 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.1667, "x": -9.38, "y": 1.66 },
+					{ "time": 0.3, "x": -14.94, "y": 6.11 },
+					{ "time": 0.4333, "x": -14.98, "y": 14.98 },
+					{ "time": 0.6, "x": -10.33, "y": 21.37 },
+					{ "time": 0.7333, "x": -2.23, "y": 20.72 },
+					{ "time": 0.9, "x": 5.87, "y": 13.44 },
+					{ "time": 1.1667 }
+				]
+			},
+			"ball arrow 2 1": {
+				"rotate": [
+					{},
+					{ "time": 1.1667, "angle": 360.17 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.1667, "x": 5.88, "y": 4.81 },
+					{ "time": 0.3, "x": 7.45, "y": 12.94 },
+					{ "time": 0.4333, "x": 1.53, "y": 21.08 },
+					{ "time": 0.6, "x": -6.26, "y": 21.14 },
+					{ "time": 0.7333, "x": -14.85, "y": 20.13 },
+					{ "time": 0.9, "x": -15.78, "y": 8.07 },
+					{ "time": 1.0667, "x": -7.89, "y": 0.3 },
+					{ "time": 1.1667 }
+				]
+			},
+			"ball arrow 2 2": {
+				"rotate": [
+					{},
+					{ "time": 1.1667, "angle": -360.01 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.1667, "x": -9.09 },
+					{ "time": 0.3, "x": -16.34, "y": 3.74 },
+					{ "time": 0.4333, "x": -16.29, "y": 14.88 },
+					{ "time": 0.6, "x": -10.89, "y": 25.27 },
+					{ "time": 0.7333, "x": -2.83, "y": 22.16 },
+					{ "time": 0.9, "x": 6.13, "y": 15.84 },
+					{ "time": 1.0667, "x": 4.67, "y": 5.78 },
+					{ "time": 1.1667 }
+				]
+			},
+			"arrow": {
+				"translate": [
+					{},
+					{ "time": 0.4667, "y": 7.47 },
+					{ "time": 0.6667, "y": 6.83 },
+					{ "time": 0.9667, "y": -2.3 },
+					{ "time": 1.1667 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.4667, "x": 0.954, "y": 0.747 },
+					{ "time": 0.6667, "x": 0.982, "y": 0.789 },
+					{ "time": 0.9667, "x": 1.075, "y": 1.098 },
+					{ "time": 1.1667 }
+				]
+			},
+			"spark": {
+				"translate": [
+					{ "x": -53.19, "y": 55.27 },
+					{ "time": 0.6, "x": 165.3, "y": -151.74 },
+					{ "time": 0.6667, "x": -53.19, "y": 55.27 },
+					{ "time": 1.1667 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,198 @@
+{
+"skeleton": {
+	"hash": "ZOZJdsTveio",
+	"spine": "3.8-from-4.0-from-4.1.23",
+	"x": -231.59,
+	"y": -1943.25,
+	"width": 1082,
+	"height": 2161,
+	"images": "./images/",
+	"audio": "F:/Фриланс/Гамон/Bubble pop butterfly/Projects/Map/Flowers 11"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "idle", "parent": "root", "length": 73.48, "rotation": 137.53, "x": -67.64, "y": -52.15 },
+	{ "name": "oppened 1", "parent": "root", "length": 73.48, "rotation": 28.96, "x": 77.38, "y": -42.23 },
+	{ "name": "oppened 2", "parent": "root", "length": 73.48, "rotation": 102.8, "x": -11.16, "y": 0.52 }
+],
+"slots": [
+	{ "name": "back копия 8", "bone": "root" },
+	{ "name": "oppened 1", "bone": "oppened 1", "attachment": "oppened 1" },
+	{ "name": "idle", "bone": "idle", "attachment": "idle" },
+	{ "name": "oppened 2", "bone": "oppened 2", "attachment": "oppened 2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"idle": {
+				"idle": { "x": 1, "y": 1.05, "rotation": -137.53, "width": 131, "height": 126 }
+			},
+			"oppened 1": {
+				"oppened 1": { "x": 1.85, "y": 1.23, "rotation": -28.96, "width": 98, "height": 102 }
+			},
+			"oppened 2": {
+				"oppened 2": { "x": 0.41, "y": -3.75, "rotation": -102.8, "width": 114, "height": 106 }
+			}
+		}
+	}
+],
+"animations": {
+	"off": {
+		"slots": {
+			"oppened 1": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"oppened 2": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"oppened 2": {
+				"rotate": [
+					{ "angle": 9.24 }
+				],
+				"translate": [
+					{ "y": -4.55 }
+				],
+				"scale": [
+					{ "x": 0.184, "y": 0.184 }
+				]
+			},
+			"oppened 1": {
+				"rotate": [
+					{ "angle": 10.39 }
+				],
+				"translate": [
+					{ "x": -19.85, "y": 34.33 }
+				],
+				"scale": [
+					{ "x": 0.186, "y": 0.186 }
+				]
+			},
+			"idle": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": 6.05 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -0.66 },
+					{ "time": 2 }
+				]
+			}
+		}
+	},
+	"on": {
+		"bones": {
+			"oppened 2": {
+				"rotate": [
+					{},
+					{ "time": 0.9, "angle": -3.42 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.9, "x": 1.97, "y": 0.66 },
+					{ "time": 2 }
+				]
+			},
+			"oppened 1": {
+				"rotate": [
+					{},
+					{ "time": 1.1, "angle": -7.03 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{},
+					{ "time": 1.1, "y": -0.66 },
+					{ "time": 2 }
+				]
+			},
+			"idle": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": 4.15 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "x": -0.66, "y": -0.66 },
+					{ "time": 2 }
+				]
+			}
+		}
+	},
+	"turning on": {
+		"slots": {
+			"oppened 1": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1333, "color": "ffffff00" },
+					{ "time": 0.3667, "color": "ffffffff" }
+				]
+			},
+			"oppened 2": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"oppened 2": {
+				"rotate": [
+					{ "angle": 9.24 },
+					{ "time": 0.5667 }
+				],
+				"translate": [
+					{ "y": -4.55 },
+					{ "time": 0.5667 }
+				],
+				"scale": [
+					{ "x": 0.184, "y": 0.184 },
+					{ "time": 0.3, "x": 1.005, "y": 1.005 },
+					{ "time": 0.5333 }
+				]
+			},
+			"oppened 1": {
+				"rotate": [
+					{ "angle": 10.39 },
+					{ "time": 0.1333, "angle": 0.53 },
+					{ "time": 0.5, "angle": -5.05 },
+					{ "time": 0.6667 }
+				],
+				"translate": [
+					{ "x": -19.85, "y": 34.33 },
+					{ "time": 0.1333, "x": -20.02, "y": 28.29 },
+					{ "time": 0.5, "x": -1.71, "y": 0.57 },
+					{ "time": 0.6667 }
+				],
+				"scale": [
+					{ "x": 0.186, "y": 0.186 },
+					{ "time": 0.1333, "x": 0.291, "y": 0.291 },
+					{ "time": 0.5, "x": 1.075, "y": 1.075 },
+					{ "time": 0.6667 }
+				]
+			},
+			"idle": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "angle": 8.81 },
+					{ "time": 0.6667 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.3333, "x": -3.72, "y": -4.96 },
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	}
+}
+}

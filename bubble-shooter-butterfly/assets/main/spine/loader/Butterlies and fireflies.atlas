@@ -1,0 +1,20 @@
+
+Butterlies and fireflies.png
+size: 64, 64
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+butterfly blue wing 1
+  rotate: false
+  xy: 2, 7
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+butterfly blue wing 2
+  rotate: false
+  xy: 27, 7
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1

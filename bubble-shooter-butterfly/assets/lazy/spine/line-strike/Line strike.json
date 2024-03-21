@@ -1,0 +1,94 @@
+{
+"skeleton": {
+	"hash": "xhEByuAF9OI",
+	"spine": "3.8-from-4.0-from-4.1.23",
+	"x": -1405.02,
+	"y": -144.5,
+	"width": 2788,
+	"height": 313,
+	"images": "./images/",
+	"audio": "F:/Фриланс/Гамон/Bubble pop butterfly/Projects/Line strike"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Слой 74", "bone": "root" },
+	{ "name": "line strike 1", "bone": "root", "attachment": "line strike 1" },
+	{ "name": "line strike 2", "bone": "root", "attachment": "line strike 2" },
+	{ "name": "line strike 3", "bone": "root", "attachment": "line strike 3" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"line strike 1": {
+				"line strike 1": { "x": -0.02, "width": 2736, "height": 289 }
+			},
+			"line strike 2": {
+				"line strike 2": { "x": -12.02, "y": -6.5, "width": 2752, "height": 276 }
+			},
+			"line strike 3": {
+				"line strike 3": { "x": -11.02, "y": 12, "width": 2788, "height": 313 }
+			}
+		}
+	}
+],
+"animations": {
+	"strike": {
+		"slots": {
+			"line strike 1": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.0667, "color": "ffffffff" },
+					{ "time": 0.1, "color": "ffffff00" },
+					{ "time": 0.1333, "color": "ffffffff" },
+					{ "time": 0.2, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.4, "color": "ffffff00" },
+					{ "time": 0.4333, "color": "ffffffff" },
+					{ "time": 0.4667, "color": "ffffff00" }
+				]
+			},
+			"line strike 2": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.0667, "color": "ffffff00" },
+					{ "time": 0.1, "color": "ffffffff" },
+					{ "time": 0.1333, "color": "ffffff00" },
+					{ "time": 0.2, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.4333, "color": "ffffff00" },
+					{ "time": 0.4667, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"line strike 3": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.4, "color": "ffffffff" },
+					{ "time": 0.4333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{},
+					{ "time": 0.2333, "angle": -1.87 }
+				],
+				"scale": [
+					{ "y": 0.131 },
+					{ "time": 0.0333, "y": 0.311 },
+					{ "time": 0.1333, "y": 1.569 },
+					{ "time": 0.2667, "y": 2.314 },
+					{ "time": 0.3667, "y": 0.337 },
+					{ "time": 0.5, "y": 0.388 }
+				]
+			}
+		}
+	}
+}
+}

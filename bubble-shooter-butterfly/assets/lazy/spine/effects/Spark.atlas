@@ -1,0 +1,132 @@
+
+Spark.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Sparkle DE
+  rotate: false
+  xy: 1316, 1862
+  size: 389, 127
+  orig: 393, 131
+  offset: 2, 2
+  index: -1
+Sparkle EN
+  rotate: false
+  xy: 826, 1693
+  size: 428, 151
+  orig: 433, 155
+  offset: 3, 2
+  index: -1
+Sparkle ES
+  rotate: true
+  xy: 2, 907
+  size: 493, 148
+  orig: 497, 152
+  offset: 2, 2
+  index: -1
+Sparkle FR
+  rotate: false
+  xy: 826, 1846
+  size: 488, 143
+  orig: 492, 148
+  offset: 2, 2
+  index: -1
+Sparkle IT
+  rotate: true
+  xy: 2, 419
+  size: 486, 127
+  orig: 491, 131
+  offset: 3, 2
+  index: -1
+Sparkle JA
+  rotate: true
+  xy: 152, 943
+  size: 457, 129
+  orig: 463, 134
+  offset: 3, 3
+  index: -1
+Sparkle RU
+  rotate: false
+  xy: 826, 1537
+  size: 308, 154
+  orig: 313, 159
+  offset: 2, 2
+  index: -1
+Sparkle UK
+  rotate: false
+  xy: 345, 1423
+  size: 464, 129
+  orig: 466, 132
+  offset: 1, 2
+  index: -1
+ball
+  rotate: false
+  xy: 2, 1402
+  size: 341, 587
+  orig: 368, 600
+  offset: 25, 3
+  index: -1
+lightning 1
+  rotate: false
+  xy: 152, 915
+  size: 73, 26
+  orig: 78, 30
+  offset: 1, 2
+  index: -1
+lightning 2
+  rotate: true
+  xy: 2, 196
+  size: 221, 81
+  orig: 224, 83
+  offset: 1, 1
+  index: -1
+lightning 3
+  rotate: true
+  xy: 2, 89
+  size: 105, 89
+  orig: 109, 92
+  offset: 2, 1
+  index: -1
+lightning 4
+  rotate: true
+  xy: 1898, 1917
+  size: 72, 91
+  orig: 76, 95
+  offset: 2, 2
+  index: -1
+lightning 5
+  rotate: false
+  xy: 283, 1368
+  size: 44, 32
+  orig: 49, 35
+  offset: 3, 2
+  index: -1
+lightning 6
+  rotate: false
+  xy: 1707, 1911
+  size: 189, 78
+  orig: 193, 80
+  offset: 2, 1
+  index: -1
+lightning 7
+  rotate: false
+  xy: 1256, 1817
+  size: 31, 27
+  orig: 40, 30
+  offset: 2, 1
+  index: -1
+lightning 8
+  rotate: true
+  xy: 1136, 1563
+  size: 128, 101
+  orig: 131, 105
+  offset: 2, 2
+  index: -1
+stripes
+  rotate: false
+  xy: 345, 1554
+  size: 479, 435
+  orig: 507, 464
+  offset: 14, 15
+  index: -1

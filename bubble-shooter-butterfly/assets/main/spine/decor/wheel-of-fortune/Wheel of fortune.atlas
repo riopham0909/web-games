@@ -1,0 +1,62 @@
+
+Wheel of fortune.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+arrow
+  rotate: true
+  xy: 1482, 1301
+  size: 197, 248
+  orig: 199, 250
+  offset: 1, 1
+  index: -1
+back circle
+  rotate: false
+  xy: 2, 1243
+  size: 792, 792
+  orig: 794, 794
+  offset: 1, 1
+  index: -1
+frame
+  rotate: false
+  xy: 2, 461
+  size: 772, 780
+  orig: 774, 782
+  offset: 1, 1
+  index: -1
+icons
+  rotate: false
+  xy: 1482, 1500
+  size: 553, 535
+  orig: 561, 544
+  offset: 7, 3
+  index: -1
+sector
+  rotate: false
+  xy: 796, 1351
+  size: 684, 684
+  orig: 686, 686
+  offset: 1, 1
+  index: -1
+shadow 1
+  rotate: true
+  xy: 776, 449
+  size: 792, 571
+  orig: 794, 661
+  offset: 1, 1
+  index: -1
+shadow 2
+  rotate: false
+  xy: 663, 282
+  size: 645, 165
+  orig: 676, 180
+  offset: 10, 14
+  index: -1
+shadow 3
+  rotate: false
+  xy: 2, 156
+  size: 659, 303
+  orig: 748, 488
+  offset: 37, 184
+  index: -1

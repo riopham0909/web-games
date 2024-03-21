@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Game</title>
+
+    <meta http-equiv="Content-Type" content="text/html, charset=utf-8" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-touch-fullscreen" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta name="MobileOptimized" content="960" />
+    <meta name="viewport"
+        content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0, user-scalable=no, minimal-ui" />
+    <meta charset="utf-8" />
+
+    <link rel="stylesheet" type="text/css" href="style/index.css" />
+
+    <script>window.addEventListener("load", () => window.runGame());</script>
+    <script src="azerion-libs.js" defer></script>
+    <script src="azerion-integration-sdk.js" defer></script>
+</head>
+
+
+<body oncontextmenu="return false;">
+    <!--    <div id="debug" style="position: absolute; top:80vh; left: 60px; height: 100px; width: 80vw; background-color: white; color: black; font-size: 40px"></div>-->
+    <div id="preloader-progress">0%</div>
+
+    <div id="game"></div>
+    <script src="bubble-shooter-butterfly.js" defer></script>
+</body>
+
+</html>

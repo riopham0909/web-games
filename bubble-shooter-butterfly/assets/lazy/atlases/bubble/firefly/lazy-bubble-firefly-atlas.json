@@ -1,0 +1,2583 @@
+{
+  "frames": {
+    "bubble/firefly/firefly-sequence/010": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 85,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 151,
+        "w": 85,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/078": {
+      "frame": {
+        "x": 2,
+        "y": 78,
+        "w": 84,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 135,
+        "w": 84,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/085": {
+      "frame": {
+        "x": 90,
+        "y": 78,
+        "w": 85,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 138,
+        "w": 85,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/009": {
+      "frame": {
+        "x": 91,
+        "y": 2,
+        "w": 84,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 152,
+        "w": 84,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/077": {
+      "frame": {
+        "x": 90,
+        "y": 153,
+        "w": 84,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 135,
+        "w": 84,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/084": {
+      "frame": {
+        "x": 2,
+        "y": 154,
+        "w": 84,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 138,
+        "w": 84,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/098": {
+      "frame": {
+        "x": 178,
+        "y": 153,
+        "w": 84,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 138,
+        "w": 84,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/104": {
+      "frame": {
+        "x": 179,
+        "y": 2,
+        "w": 84,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 136,
+        "w": 84,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/030": {
+      "frame": {
+        "x": 179,
+        "y": 77,
+        "w": 85,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 145,
+        "w": 85,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/029": {
+      "frame": {
+        "x": 90,
+        "y": 228,
+        "w": 84,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 144,
+        "w": 84,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/036": {
+      "frame": {
+        "x": 2,
+        "y": 229,
+        "w": 84,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 140,
+        "w": 84,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/043": {
+      "frame": {
+        "x": 178,
+        "y": 228,
+        "w": 84,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 140,
+        "w": 84,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/091": {
+      "frame": {
+        "x": 267,
+        "y": 2,
+        "w": 84,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 140,
+        "w": 84,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/097": {
+      "frame": {
+        "x": 266,
+        "y": 151,
+        "w": 84,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 139,
+        "w": 84,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/044": {
+      "frame": {
+        "x": 266,
+        "y": 225,
+        "w": 85,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 133,
+        "y": 142,
+        "w": 85,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/090": {
+      "frame": {
+        "x": 266,
+        "y": 298,
+        "w": 85,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 141,
+        "w": 85,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/076": {
+      "frame": {
+        "x": 268,
+        "y": 76,
+        "w": 82,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 135,
+        "w": 82,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/022": {
+      "frame": {
+        "x": 90,
+        "y": 302,
+        "w": 83,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 135,
+        "w": 83,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/037": {
+      "frame": {
+        "x": 177,
+        "y": 302,
+        "w": 83,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 140,
+        "w": 83,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/083": {
+      "frame": {
+        "x": 354,
+        "y": 76,
+        "w": 83,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 138,
+        "w": 83,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/103": {
+      "frame": {
+        "x": 355,
+        "y": 2,
+        "w": 83,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 137,
+        "w": 83,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/105": {
+      "frame": {
+        "x": 354,
+        "y": 150,
+        "w": 83,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 137,
+        "w": 83,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/023": {
+      "frame": {
+        "x": 2,
+        "y": 303,
+        "w": 84,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 137,
+        "w": 84,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/028": {
+      "frame": {
+        "x": 355,
+        "y": 224,
+        "w": 84,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 143,
+        "w": 84,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/096": {
+      "frame": {
+        "x": 355,
+        "y": 297,
+        "w": 83,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 137,
+        "y": 140,
+        "w": 83,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/035": {
+      "frame": {
+        "x": 355,
+        "y": 370,
+        "w": 82,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 143,
+        "w": 82,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/071": {
+      "frame": {
+        "x": 264,
+        "y": 371,
+        "w": 85,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 133,
+        "w": 85,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/008": {
+      "frame": {
+        "x": 2,
+        "y": 376,
+        "w": 82,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 140,
+        "y": 155,
+        "w": 82,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/102": {
+      "frame": {
+        "x": 88,
+        "y": 376,
+        "w": 82,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 137,
+        "y": 140,
+        "w": 82,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/042": {
+      "frame": {
+        "x": 174,
+        "y": 376,
+        "w": 83,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 141,
+        "w": 83,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/089": {
+      "frame": {
+        "x": 441,
+        "y": 370,
+        "w": 83,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 143,
+        "w": 83,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/011": {
+      "frame": {
+        "x": 442,
+        "y": 297,
+        "w": 81,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 142,
+        "y": 154,
+        "w": 81,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/021": {
+      "frame": {
+        "x": 441,
+        "y": 76,
+        "w": 82,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 138,
+        "w": 82,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/027": {
+      "frame": {
+        "x": 442,
+        "y": 2,
+        "w": 83,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 146,
+        "w": 83,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/017": {
+      "frame": {
+        "x": 441,
+        "y": 146,
+        "w": 81,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 130,
+        "y": 130,
+        "w": 81,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/082": {
+      "frame": {
+        "x": 443,
+        "y": 216,
+        "w": 81,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 137,
+        "y": 142,
+        "w": 81,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/058": {
+      "frame": {
+        "x": 441,
+        "y": 441,
+        "w": 82,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 137,
+        "w": 82,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/086": {
+      "frame": {
+        "x": 261,
+        "y": 441,
+        "w": 82,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 144,
+        "w": 82,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/070": {
+      "frame": {
+        "x": 174,
+        "y": 447,
+        "w": 83,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 134,
+        "w": 83,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/016": {
+      "frame": {
+        "x": 347,
+        "y": 443,
+        "w": 81,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 129,
+        "y": 128,
+        "w": 81,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/075": {
+      "frame": {
+        "x": 2,
+        "y": 448,
+        "w": 81,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 137,
+        "y": 140,
+        "w": 81,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/092": {
+      "frame": {
+        "x": 87,
+        "y": 448,
+        "w": 81,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 145,
+        "w": 81,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/034": {
+      "frame": {
+        "x": 261,
+        "y": 510,
+        "w": 82,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 149,
+        "w": 82,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/045": {
+      "frame": {
+        "x": 172,
+        "y": 515,
+        "w": 82,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 149,
+        "w": 82,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/057": {
+      "frame": {
+        "x": 432,
+        "y": 510,
+        "w": 82,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 144,
+        "w": 82,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/051": {
+      "frame": {
+        "x": 2,
+        "y": 517,
+        "w": 83,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 159,
+        "w": 83,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/038": {
+      "frame": {
+        "x": 347,
+        "y": 512,
+        "w": 80,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 144,
+        "w": 80,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/072": {
+      "frame": {
+        "x": 526,
+        "y": 146,
+        "w": 81,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 137,
+        "w": 81,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/050": {
+      "frame": {
+        "x": 527,
+        "y": 71,
+        "w": 82,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 157,
+        "w": 82,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/069": {
+      "frame": {
+        "x": 518,
+        "y": 510,
+        "w": 83,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 134,
+        "w": 83,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/106": {
+      "frame": {
+        "x": 89,
+        "y": 517,
+        "w": 79,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 141,
+        "w": 79,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/001": {
+      "frame": {
+        "x": 529,
+        "y": 2,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 145,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/002": {
+      "frame": {
+        "x": 527,
+        "y": 441,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 147,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/003": {
+      "frame": {
+        "x": 527,
+        "y": 286,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 140,
+        "y": 149,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/004": {
+      "frame": {
+        "x": 528,
+        "y": 214,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 141,
+        "y": 151,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/005": {
+      "frame": {
+        "x": 528,
+        "y": 354,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 141,
+        "y": 153,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/024": {
+      "frame": {
+        "x": 2,
+        "y": 584,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 144,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/041": {
+      "frame": {
+        "x": 258,
+        "y": 578,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 137,
+        "y": 143,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/079": {
+      "frame": {
+        "x": 172,
+        "y": 583,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 143,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/007": {
+      "frame": {
+        "x": 86,
+        "y": 586,
+        "w": 81,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 140,
+        "y": 159,
+        "w": 81,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/101": {
+      "frame": {
+        "x": 518,
+        "y": 576,
+        "w": 81,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 145,
+        "w": 81,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/049": {
+      "frame": {
+        "x": 431,
+        "y": 578,
+        "w": 82,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 156,
+        "w": 82,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/095": {
+      "frame": {
+        "x": 342,
+        "y": 581,
+        "w": 82,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 147,
+        "w": 82,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/056": {
+      "frame": {
+        "x": 611,
+        "y": 282,
+        "w": 83,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 154,
+        "w": 83,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/006": {
+      "frame": {
+        "x": 611,
+        "y": 138,
+        "w": 80,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 141,
+        "y": 157,
+        "w": 80,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/014": {
+      "frame": {
+        "x": 612,
+        "y": 205,
+        "w": 80,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 137,
+        "w": 80,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/013": {
+      "frame": {
+        "x": 603,
+        "y": 576,
+        "w": 79,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 144,
+        "w": 79,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/015": {
+      "frame": {
+        "x": 605,
+        "y": 509,
+        "w": 79,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 130,
+        "y": 130,
+        "w": 79,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/018": {
+      "frame": {
+        "x": 611,
+        "y": 422,
+        "w": 79,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 133,
+        "y": 135,
+        "w": 79,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/020": {
+      "frame": {
+        "x": 612,
+        "y": 347,
+        "w": 80,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 133,
+        "y": 141,
+        "w": 80,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/081": {
+      "frame": {
+        "x": 613,
+        "y": 2,
+        "w": 80,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 146,
+        "w": 80,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/099": {
+      "frame": {
+        "x": 613,
+        "y": 68,
+        "w": 80,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 140,
+        "y": 146,
+        "w": 80,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/026": {
+      "frame": {
+        "x": 256,
+        "y": 646,
+        "w": 81,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 149,
+        "w": 81,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/088": {
+      "frame": {
+        "x": 171,
+        "y": 651,
+        "w": 81,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 137,
+        "y": 149,
+        "w": 81,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/048": {
+      "frame": {
+        "x": 2,
+        "y": 653,
+        "w": 83,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 158,
+        "w": 83,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/052": {
+      "frame": {
+        "x": 517,
+        "y": 643,
+        "w": 83,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 164,
+        "w": 83,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/059": {
+      "frame": {
+        "x": 428,
+        "y": 644,
+        "w": 83,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 136,
+        "w": 83,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/064": {
+      "frame": {
+        "x": 341,
+        "y": 647,
+        "w": 83,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 131,
+        "w": 83,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/000": {
+      "frame": {
+        "x": 604,
+        "y": 643,
+        "w": 79,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 144,
+        "w": 79,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/031": {
+      "frame": {
+        "x": 695,
+        "y": 134,
+        "w": 80,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 154,
+        "w": 80,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/033": {
+      "frame": {
+        "x": 686,
+        "y": 576,
+        "w": 80,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 153,
+        "w": 80,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/074": {
+      "frame": {
+        "x": 696,
+        "y": 199,
+        "w": 80,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 142,
+        "w": 80,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/055": {
+      "frame": {
+        "x": 687,
+        "y": 641,
+        "w": 84,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 163,
+        "w": 84,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/068": {
+      "frame": {
+        "x": 688,
+        "y": 489,
+        "w": 82,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 136,
+        "w": 82,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/039": {
+      "frame": {
+        "x": 89,
+        "y": 653,
+        "w": 78,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 140,
+        "y": 146,
+        "w": 78,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/040": {
+      "frame": {
+        "x": 694,
+        "y": 413,
+        "w": 78,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 145,
+        "w": 78,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/087": {
+      "frame": {
+        "x": 696,
+        "y": 347,
+        "w": 79,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 140,
+        "y": 149,
+        "w": 79,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/100": {
+      "frame": {
+        "x": 698,
+        "y": 264,
+        "w": 79,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 140,
+        "y": 147,
+        "w": 79,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/065": {
+      "frame": {
+        "x": 697,
+        "y": 2,
+        "w": 83,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 133,
+        "w": 83,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/062": {
+      "frame": {
+        "x": 697,
+        "y": 64,
+        "w": 81,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 128,
+        "w": 81,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/012": {
+      "frame": {
+        "x": 2,
+        "y": 716,
+        "w": 77,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 142,
+        "y": 152,
+        "w": 77,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/047": {
+      "frame": {
+        "x": 515,
+        "y": 706,
+        "w": 82,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 158,
+        "w": 82,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/054": {
+      "frame": {
+        "x": 428,
+        "y": 707,
+        "w": 82,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 137,
+        "y": 165,
+        "w": 82,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/019": {
+      "frame": {
+        "x": 341,
+        "y": 710,
+        "w": 78,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 140,
+        "w": 78,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/073": {
+      "frame": {
+        "x": 256,
+        "y": 711,
+        "w": 78,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 140,
+        "y": 141,
+        "w": 78,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/080": {
+      "frame": {
+        "x": 171,
+        "y": 716,
+        "w": 78,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 140,
+        "y": 146,
+        "w": 78,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/025": {
+      "frame": {
+        "x": 83,
+        "y": 719,
+        "w": 79,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 137,
+        "y": 149,
+        "w": 79,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/032": {
+      "frame": {
+        "x": 687,
+        "y": 703,
+        "w": 79,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 155,
+        "w": 79,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/093": {
+      "frame": {
+        "x": 601,
+        "y": 709,
+        "w": 79,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 141,
+        "y": 150,
+        "w": 79,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/094": {
+      "frame": {
+        "x": 514,
+        "y": 768,
+        "w": 80,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 140,
+        "y": 150,
+        "w": 80,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/063": {
+      "frame": {
+        "x": 423,
+        "y": 769,
+        "w": 81,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 136,
+        "y": 130,
+        "w": 81,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/053": {
+      "frame": {
+        "x": 338,
+        "y": 775,
+        "w": 80,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 165,
+        "w": 80,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/060": {
+      "frame": {
+        "x": 253,
+        "y": 776,
+        "w": 80,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 131,
+        "w": 80,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/061": {
+      "frame": {
+        "x": 166,
+        "y": 781,
+        "w": 80,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 127,
+        "w": 80,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/066": {
+      "frame": {
+        "x": 684,
+        "y": 767,
+        "w": 80,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 134,
+        "w": 80,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/067": {
+      "frame": {
+        "x": 598,
+        "y": 773,
+        "w": 80,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 138,
+        "y": 135,
+        "w": 80,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bubble/firefly/firefly-sequence/046": {
+      "frame": {
+        "x": 2,
+        "y": 783,
+        "w": 79,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 157,
+        "w": 79,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 353
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "lazy-bubble-firefly-atlas.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 782,
+      "h": 842
+    },
+    "scale": 1
+  }
+}
