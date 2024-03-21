@@ -1,0 +1,1609 @@
+{
+  "story": {
+    "1-1": {
+      "displayName": "LEVEL 1",
+      "Mission": "01",
+      "BubbleMap": "01",
+      "pathMission": "06",
+      "tutorialAnim": "shoot",
+      "musicPath": "audio/bubblePopper/music/day2.ogg",
+      "bubbleGridOffsetX": "0",
+      "bubbleGridOffsetY": "0",
+      "loadingAnim": "default",
+      "forceBubbles": [
+        "pink",
+        "green",
+        "pink"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 90",
+        "quantityRank = 2 & probability = 100",
+        "proportional & probability = 100"
+      ],
+      "noOfTurns": "20",
+      "objective": "rescueAnimals-100",
+      "hudAnim": "bar1"
+    },
+    "1-2": {
+      "displayName": "LEVEL 2",
+      "Mission": "02",
+      "BubbleMap": "02",
+      "pathMission": "06",
+      "hudAnim": "bar1",
+      "objective": "rescueAnimals-100",
+      "musicPath": "audio/bubblePopper/music/day1.ogg",
+      "loadingAnim": "bomb",
+      "minimapAttachment": "powerups/babyTiger",
+      "bubbleGridOffsetX": "-44",
+      "noOfTurns": "20",
+      "forceBubbles": [
+        "pink",
+        "pink",
+        "pink",
+        "green",
+        "pink"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 60",
+        "quantityRank = 2 & probability = 100",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-3": {
+      "displayName": "LEVEL 3",
+      "Mission": "03",
+      "BubbleMap": "03",
+      "hudAnim": "bar1",
+      "pathMission": "06",
+      "tutorialAnim": "bounce",
+      "musicPath": "audio/bubblePopper/music/day5.ogg",
+      "objective": "rescueAnimals-100",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "bomb",
+      "noOfTurns": "15",
+      "forceBubbles": [
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 90",
+        "quantityRank = 2 & probability = 100",
+        "proportional & probability = 100"
+      ],
+      "minimapAttachment": "powerups/fireBall"
+    },
+    "1-4": {
+      "displayName": "LEVEL 4",
+      "Mission": "04",
+      "BubbleMap": "04",
+      "hudAnim": "bar2",
+      "pathMission": "02",
+      "tutorialAnim": "swap",
+      "bubbleGridOffsetX": "-44",
+      "objective": "bubblesToBlast-90",
+      "noOfTurns": "15",
+      "musicPath": "audio/bubblePopper/music/day4.ogg",
+      "minimapAttachment": "powerups/fireBall_bomb",
+      "loadingAnim": "rocket",
+      "forceBubbles": [
+        "pink",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 90",
+        "quantityRank = 2 & probability = 100",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-5": {
+      "displayName": "LEVEL 5",
+      "Mission": "05",
+      "BubbleMap": "05",
+      "hudAnim": "bar3",
+      "pathMission": "02",
+      "noOfTurns": "15",
+      "musicPath": "audio/bubblePopper/music/day3.ogg",
+      "objective": "bubblesToBlast-95",
+      "loadingAnim": "disco",
+      "minimapAttachment": "powerups/colorSquare_colorSquare",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "green",
+        "pink",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-6": {
+      "displayName": "LEVEL 6",
+      "Mission": "06",
+      "BubbleMap": "06",
+      "hudAnim": "bar3",
+      "pathMission": "02",
+      "noOfTurns": "20",
+      "loadingAnim": "giantBomb",
+      "musicPath": "audio/bubblePopper/music/day6.ogg",
+      "objective": "rescueAnimals-100",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "pink",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-7": {
+      "displayName": "LEVEL 7",
+      "Mission": "07",
+      "BubbleMap": "07",
+      "hudAnim": "bar4",
+      "pathMission": "01",
+      "noOfTurns": "25",
+      "loadingAnim": "trident",
+      "musicPath": "audio/bubblePopper/music/night.ogg",
+      "objective": "rescueAnimals-100",
+      "minimapAttachment": "powerups/3way",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "blue",
+        "green",
+        "pink"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-8": {
+      "displayName": "LEVEL 8",
+      "Mission": "08",
+      "BubbleMap": "08",
+      "hudAnim": "bar4",
+      "pathMission": "01",
+      "noOfTurns": "25",
+      "loadingAnim": "rocket_bomb",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day2.ogg",
+      "objective": "bubblesToBlast-95",
+      "bubbleGridOffsetX": "-44",
+      "minimapAttachment": "powerups/rocket",
+      "forceBubbles": [
+        "yellow",
+        "blue",
+        "pink",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-9": {
+      "displayName": "LEVEL 9",
+      "Mission": "09",
+      "BubbleMap": "09",
+      "hudAnim": "bar4",
+      "pathMission": "01",
+      "noOfTurns": "25",
+      "loadingAnim": "trident_rocket",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day3.ogg",
+      "bubbleGridOffsetX": "-44",
+      "objective": "rescueAnimals-100",
+      "forceBubbles": [
+        "green",
+        "yellow",
+        "pink",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-10": {
+      "displayName": "LEVEL 10",
+      "Mission": "10",
+      "BubbleMap": "10",
+      "hudAnim": "bar4",
+      "pathMission": "14",
+      "loadingAnim": "trident_disco",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day4.ogg",
+      "noOfTurns": "25",
+      "minimapAttachment": "powerups/hammer",
+      "bubbleGridOffsetX": "-44",
+      "objective": "bubblesToBlast-94",
+      "forceBubbles": [
+        "blue",
+        "green",
+        "pink",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-11": {
+      "displayName": "LEVEL 11",
+      "Mission": "11",
+      "BubbleMap": "11",
+      "hudAnim": "bar4",
+      "pathMission": "14",
+      "loadingAnim": "trident_rocket",
+      "musicPath": "audio/bubblePopper/music/day5.ogg",
+      "noOfTurns": "20",
+      "objective": "rescueAnimals-100",
+      "giftBox": "arrangement-0:35",
+      "minimapAttachment": "powerups/arrangementPowerup",
+      "bubbleGridOffsetX": "-44",
+      "helpPanel": "metalBallPanel",
+      "forceBubbles": [
+        "green",
+        "yellow",
+        "pink",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-12": {
+      "displayName": "LEVEL 12",
+      "Mission": "12",
+      "BubbleMap": "12",
+      "hudAnim": "bar4",
+      "pathMission": "14",
+      "loadingAnim": "trident_disco",
+      "musicPath": "audio/bubblePopper/music/day6.ogg",
+      "noOfTurns": "20",
+      "minimapAttachment": "powerups/explosion",
+      "helpPanel": "objective",
+      "bubbleGridOffsetX": "-44",
+      "objective": "bubblesToBlast-94",
+      "forceBubbles": [
+        "green",
+        "blue",
+        "pink",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-13": {
+      "displayName": "LEVEL 13",
+      "Mission": "13",
+      "BubbleMap": "13",
+      "hudAnim": "bar4",
+      "pathMission": "03",
+      "musicPath": "audio/bubblePopper/music/day1.ogg",
+      "noOfTurns": "25",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "loadingAnim": "rocket_bomb",
+      "giftBox": "party-0:40",
+      "minimapAttachment": "powerups/partyPopper",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "yellow",
+        "pink",
+        "green",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-14": {
+      "displayName": "LEVEL 14",
+      "Mission": "14",
+      "BubbleMap": "14",
+      "hudAnim": "bar4",
+      "pathMission": "03",
+      "musicPath": "audio/bubblePopper/music/day2.ogg",
+      "noOfTurns": "30",
+      "loadingAnim": "trident_rocket",
+      "objective": "bubblesToBlast-94",
+      "helpPanel": "objective",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "yellow",
+        "pink",
+        "green",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-15": {
+      "displayName": "LEVEL 15",
+      "Mission": "15",
+      "BubbleMap": "15",
+      "hudAnim": "bar4",
+      "pathMission": "03",
+      "objective": "rescueAnimals-100",
+      "minimapAttachment": "powerups/bird",
+      "noOfTurns": "30",
+      "loadingAnim": "trident_disco",
+      "helpPanel": "objective",
+      "giftBox": "bird-0:40",
+      "musicPath": "audio/bubblePopper/music/night.ogg",
+      "bubbleGridOffsetX": "-44",
+      "levelTime": "4:30",
+      "forceBubbles": [
+        "green",
+        "blue",
+        "pink",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-16": {
+      "displayName": "LEVEL 16",
+      "Mission": "16",
+      "BubbleMap": "16",
+      "pathMission": "16",
+      "hudAnim": "bar4",
+      "objective": "bubblesToBlast-94",
+      "helpPanel": "objective",
+      "noOfTurns": "25",
+      "loadingAnim": "rocket_bomb",
+      "musicPath": "audio/bubblePopper/music/day4.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "pink",
+        "yellow",
+        "green",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-17": {
+      "displayName": "LEVEL 17",
+      "Mission": "17",
+      "BubbleMap": "17",
+      "hudAnim": "bar4",
+      "pathMission": "17",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "noOfTurns": "25",
+      "loadingAnim": "trident_rocket",
+      "musicPath": "audio/bubblePopper/music/day5.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "blue",
+        "pink",
+        "green",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-18": {
+      "displayName": "LEVEL 18",
+      "Mission": "18",
+      "BubbleMap": "18",
+      "hudAnim": "bar4",
+      "pathMission": "18",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "noOfTurns": "50",
+      "loadingAnim": "trident_disco",
+      "giftBox": "party-1:00",
+      "musicPath": "audio/bubblePopper/music/day6.ogg",
+      "bubbleGridOffsetX": "-44",
+      "levelTime": "4:30",
+      "forceBubbles": [
+        "green",
+        "blue",
+        "yellow",
+        "pink"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-19": {
+      "displayName": "LEVEL 19",
+      "Mission": "19",
+      "BubbleMap": "19",
+      "hudAnim": "bar4",
+      "pathMission": "19",
+      "noOfTurns": "25",
+      "loadingAnim": "rocket_bomb",
+      "musicPath": "audio/bubblePopper/music/day1.ogg",
+      "objective": "bubblesToBlast-94",
+      "helpPanel": "objective",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "green",
+        "pink",
+        "yellow",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-20": {
+      "displayName": "LEVEL 20",
+      "Mission": "20",
+      "BubbleMap": "20",
+      "hudAnim": "bar4",
+      "pathMission": "20",
+      "noOfTurns": "25",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "loadingAnim": "trident_disco",
+      "musicPath": "audio/bubblePopper/music/night.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "pink",
+        "green",
+        "yellow",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-21": {
+      "displayName": "LEVEL 21",
+      "Mission": "21",
+      "BubbleMap": "21",
+      "hudAnim": "bar4",
+      "pathMission": "01",
+      "noOfTurns": "20",
+      "loadingAnim": "trident_rocket",
+      "giftBox": "arrangement-1:00",
+      "musicPath": "audio/bubblePopper/music/day3.ogg",
+      "levelTime": "3:30",
+      "bubbleGridOffsetX": "-44",
+      "objective": "bubblesToBlast-93",
+      "helpPanel": "objective",
+      "forceBubbles": [
+        "yellow",
+        "green",
+        "pink",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-22": {
+      "displayName": "LEVEL 22",
+      "Mission": "22",
+      "BubbleMap": "22",
+      "hudAnim": "bar4",
+      "pathMission": "02",
+      "noOfTurns": "20",
+      "musicPath": "audio/bubblePopper/music/day4.ogg",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "rocket_bomb",
+      "objective": "bubblesToBlast-93",
+      "helpPanel": "objective",
+      "forceBubbles": [
+        "pink",
+        "yellow",
+        "green",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-23": {
+      "displayName": "LEVEL 23",
+      "Mission": "23",
+      "BubbleMap": "23",
+      "hudAnim": "bar4",
+      "pathMission": "03",
+      "noOfTurns": "20",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "loadingAnim": "trident_disco",
+      "giftBox": "bird-1:20",
+      "musicPath": "audio/bubblePopper/music/day5.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "pink",
+        "yellow",
+        "green",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-24": {
+      "displayName": "LEVEL 24",
+      "Mission": "24",
+      "BubbleMap": "24",
+      "hudAnim": "bar4",
+      "pathMission": "04",
+      "noOfTurns": "20",
+      "loadingAnim": "trident_rocket",
+      "musicPath": "audio/bubblePopper/music/day6.ogg",
+      "objective": "bubblesToBlast-93",
+      "helpPanel": "objective",
+      "levelTime": "2:50",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "pink",
+        "blue",
+        "yellow",
+        "green"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-25": {
+      "displayName": "LEVEL 25",
+      "Mission": "25",
+      "BubbleMap": "25",
+      "hudAnim": "bar4",
+      "pathMission": "05",
+      "noOfTurns": "20",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "loadingAnim": "rocket_bomb",
+      "musicPath": "audio/bubblePopper/music/night.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "pink",
+        "blue",
+        "yellow",
+        "green"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-26": {
+      "displayName": "LEVEL 26",
+      "Mission": "26",
+      "BubbleMap": "26",
+      "pathMission": "06",
+      "hudAnim": "bar4",
+      "noOfTurns": "20",
+      "loadingAnim": "trident_rocket",
+      "giftBox": "party-1:15",
+      "musicPath": "audio/bubblePopper/music/day2.ogg",
+      "objective": "bubblesToBlast-93",
+      "helpPanel": "objective",
+      "bubbleGridOffsetX": "-44",
+      "levelTime": "2:40",
+      "forceBubbles": [
+        "pink",
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-27": {
+      "displayName": "LEVEL 27",
+      "Mission": "27",
+      "BubbleMap": "27",
+      "pathMission": "07",
+      "hudAnim": "bar4",
+      "noOfTurns": "20",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "loadingAnim": "trident_disco",
+      "musicPath": "audio/bubblePopper/music/day3.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "blue",
+        "yellow",
+        "green",
+        "pink"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-28": {
+      "displayName": "LEVEL 28",
+      "Mission": "28",
+      "BubbleMap": "28",
+      "hudAnim": "bar4",
+      "pathMission": "08",
+      "noOfTurns": "20",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "loadingAnim": "rocket_bomb",
+      "giftBox": "bird-1:30",
+      "musicPath": "audio/bubblePopper/music/day4.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "pink",
+        "green",
+        "blue",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-29": {
+      "displayName": "LEVEL 29",
+      "Mission": "29",
+      "BubbleMap": "29",
+      "hudAnim": "bar4",
+      "pathMission": "09",
+      "noOfTurns": "35",
+      "loadingAnim": "trident_rocket",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day5.ogg",
+      "bubbleGridOffsetX": "-44",
+      "objective": "bubblesToBlast-93",
+      "forceBubbles": [
+        "pink",
+        "green",
+        "blue",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-30": {
+      "displayName": "LEVEL 30",
+      "Mission": "30",
+      "BubbleMap": "30",
+      "hudAnim": "bar4",
+      "pathMission": "10",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "levelTime": "3:40",
+      "loadingAnim": "trident_disco",
+      "giftBox": "arrangement-1:10",
+      "musicPath": "audio/bubblePopper/music/day6.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "green",
+        "pink",
+        "yellow",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-31": {
+      "displayName": "LEVEL 31",
+      "Mission": "31",
+      "BubbleMap": "31",
+      "hudAnim": "bar4",
+      "pathMission": "11",
+      "noOfTurns": "35",
+      "loadingAnim": "rocket_bomb",
+      "musicPath": "audio/bubblePopper/music/day1.ogg",
+      "giftBox": "party-1:25",
+      "objective": "bubblesToBlast-93",
+      "helpPanel": "objective",
+      "forceBubbles": [
+        "blue",
+        "green",
+        "yellow",
+        "pink"
+      ],
+      "bubbleGridOffsetX": "-44",
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-32": {
+      "displayName": "LEVEL 32",
+      "Mission": "32",
+      "BubbleMap": "32",
+      "hudAnim": "bar4",
+      "pathMission": "12",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "loadingAnim": "trident_disco",
+      "musicPath": "audio/bubblePopper/music/day2.ogg",
+      "forceBubbles": [
+        "yellow",
+        "green",
+        "blue",
+        "pink"
+      ],
+      "bubbleGridOffsetX": "-44",
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-33": {
+      "displayName": "LEVEL 33",
+      "Mission": "33",
+      "BubbleMap": "33",
+      "hudAnim": "bar4",
+      "pathMission": "13",
+      "objective": "bubblesToBlast-94",
+      "helpPanel": "objective",
+      "noOfTurns": "35",
+      "loadingAnim": "trident_rocket",
+      "giftBox": "bird-1:20",
+      "musicPath": "audio/bubblePopper/music/day3.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "yellow",
+        "pink",
+        "green",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-34": {
+      "displayName": "LEVEL 34",
+      "Mission": "34",
+      "BubbleMap": "34",
+      "hudAnim": "bar4",
+      "pathMission": "14",
+      "levelTime": "3:45",
+      "noOfTurns": "35",
+      "loadingAnim": "rocket_bomb",
+      "musicPath": "audio/bubblePopper/music/day4.ogg",
+      "objective": "bubblesToBlast-94",
+      "helpPanel": "objective",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "blue",
+        "yellow",
+        "pink",
+        "green"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-35": {
+      "displayName": "LEVEL 35",
+      "Mission": "35",
+      "BubbleMap": "35",
+      "hudAnim": "bar4",
+      "pathMission": "15",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "loadingAnim": "trident_rocket",
+      "musicPath": "audio/bubblePopper/music/day5.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "green",
+        "blue",
+        "pink",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-36": {
+      "displayName": "LEVEL 36",
+      "Mission": "36",
+      "BubbleMap": "36",
+      "hudAnim": "bar4",
+      "pathMission": "16",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "loadingAnim": "trident_disco",
+      "musicPath": "audio/bubblePopper/music/day6.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "blue",
+        "green",
+        "yellow",
+        "pink"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-37": {
+      "displayName": "LEVEL 37",
+      "Mission": "37",
+      "BubbleMap": "37",
+      "hudAnim": "bar4",
+      "pathMission": "17",
+      "objective": "bubblesToBlast-94",
+      "helpPanel": "objective",
+      "noOfTurns": "35",
+      "giftBox": "party-1:40",
+      "loadingAnim": "rocket_bomb",
+      "musicPath": "audio/bubblePopper/music/day1.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "blue",
+        "yellow",
+        "pink",
+        "green"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-38": {
+      "displayName": "LEVEL 38",
+      "Mission": "38",
+      "BubbleMap": "38",
+      "hudAnim": "bar4",
+      "pathMission": "18",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "loadingAnim": "trident_disco",
+      "musicPath": "audio/bubblePopper/music/day2.ogg",
+      "levelTime": "3:50",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "green",
+        "blue",
+        "pink",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-39": {
+      "displayName": "LEVEL 39",
+      "Mission": "39",
+      "BubbleMap": "39",
+      "hudAnim": "bar4",
+      "pathMission": "19",
+      "noOfTurns": "35",
+      "loadingAnim": "trident_rocket",
+      "musicPath": "audio/bubblePopper/music/day3.ogg",
+      "bubbleGridOffsetX": "-44",
+      "objective": "bubblesToBlast-94",
+      "helpPanel": "objective",
+      "forceBubbles": [
+        "pink",
+        "blue",
+        "yellow",
+        "green"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-40": {
+      "displayName": "LEVEL 40",
+      "Mission": "40",
+      "BubbleMap": "40",
+      "hudAnim": "bar4",
+      "pathMission": "20",
+      "noOfTurns": "35",
+      "loadingAnim": "rocket_bomb",
+      "musicPath": "audio/bubblePopper/music/day4.ogg",
+      "bubbleGridOffsetX": "-44",
+      "objective": "bubblesToBlast-96",
+      "helpPanel": "objective",
+      "forceBubbles": [
+        "pink",
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-41": {
+      "displayName": "LEVEL 41",
+      "Mission": "41",
+      "BubbleMap": "41",
+      "hudAnim": "bar4",
+      "pathMission": "01",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "noOfTurns": "35",
+      "giftBox": "bird-1:40",
+      "loadingAnim": "trident_rocket",
+      "musicPath": "audio/bubblePopper/music/day5.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "green",
+        "pink",
+        "yellow",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-42": {
+      "displayName": "LEVEL 42",
+      "Mission": "42",
+      "BubbleMap": "42",
+      "hudAnim": "bar4",
+      "pathMission": "02",
+      "objective": "bubblesToBlast-96",
+      "helpPanel": "objective",
+      "noOfTurns": "35",
+      "loadingAnim": "trident_disco",
+      "musicPath": "audio/bubblePopper/music/day6.ogg",
+      "levelTime": "4:10",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "blue",
+        "green",
+        "yellow",
+        "pink"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-43": {
+      "displayName": "LEVEL 43",
+      "Mission": "43",
+      "BubbleMap": "43",
+      "hudAnim": "bar4",
+      "pathMission": "03",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "noOfTurns": "35",
+      "loadingAnim": "rocket_bomb",
+      "giftBox": "arrangement-1:30",
+      "musicPath": "audio/bubblePopper/music/day1.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "blue",
+        "pink",
+        "green",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-44": {
+      "displayName": "LEVEL 44",
+      "Mission": "44",
+      "BubbleMap": "44",
+      "hudAnim": "bar4",
+      "pathMission": "04",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "levelTime": "4:00",
+      "loadingAnim": "trident_disco",
+      "musicPath": "audio/bubblePopper/music/day2.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "yellow",
+        "green",
+        "blue",
+        "pink"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-45": {
+      "displayName": "LEVEL 45",
+      "Mission": "45",
+      "BubbleMap": "45",
+      "hudAnim": "bar4",
+      "pathMission": "05",
+      "noOfTurns": "35",
+      "loadingAnim": "trident_rocket",
+      "musicPath": "audio/bubblePopper/music/day3.ogg",
+      "bubbleGridOffsetX": "-44",
+      "objective": "bubblesToBlast-96",
+      "helpPanel": "objective",
+      "forceBubbles": [
+        "blue",
+        "yellow",
+        "green",
+        "pink"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-46": {
+      "displayName": "LEVEL 46",
+      "Mission": "46",
+      "BubbleMap": "46",
+      "hudAnim": "bar4",
+      "pathMission": "06",
+      "noOfTurns": "35",
+      "loadingAnim": "rocket_bomb",
+      "musicPath": "audio/bubblePopper/music/day4.ogg",
+      "levelTime": "4:00",
+      "bubbleGridOffsetX": "-44",
+      "giftBox": "party-1:35",
+      "objective": "bubblesToBlast-96",
+      "helpPanel": "objective",
+      "forceBubbles": [
+        "green",
+        "yellow",
+        "pink",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-47": {
+      "displayName": "LEVEL 47",
+      "Mission": "47",
+      "BubbleMap": "47",
+      "hudAnim": "bar4",
+      "pathMission": "07",
+      "noOfTurns": "35",
+      "loadingAnim": "trident_disco",
+      "musicPath": "audio/bubblePopper/music/day5.ogg",
+      "bubbleGridOffsetX": "-44",
+      "objective": "rescueAnimals-100",
+      "helpPanel": "objective",
+      "forceBubbles": [
+        "green",
+        "blue",
+        "pink",
+        "yellow"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-48": {
+      "displayName": "LEVEL 48",
+      "Mission": "48",
+      "BubbleMap": "48",
+      "hudAnim": "bar4",
+      "pathMission": "08",
+      "noOfTurns": "35",
+      "objective": "bubblesToBlast-96",
+      "helpPanel": "objective",
+      "loadingAnim": "trident_rocket",
+      "giftBox": "bird-1:45",
+      "musicPath": "audio/bubblePopper/music/day6.ogg",
+      "levelTime": "4:00",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "green",
+        "yellow",
+        "pink",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-49": {
+      "displayName": "LEVEL 49",
+      "Mission": "49",
+      "BubbleMap": "49",
+      "hudAnim": "bar4",
+      "pathMission": "09",
+      "noOfTurns": "35",
+      "objective": "bubblesToBlast-96",
+      "helpPanel": "objective",
+      "loadingAnim": "rocket_bomb",
+      "musicPath": "audio/bubblePopper/music/day1.ogg",
+      "bubbleGridOffsetX": "-44",
+      "forceBubbles": [
+        "yellow",
+        "pink",
+        "green",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-50": {
+      "displayName": "LEVEL 50",
+      "Mission": "50",
+      "BubbleMap": "50",
+      "hudAnim": "bar4",
+      "pathMission": "10",
+      "levelTime": "3:30",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "trident_rocket",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day2.ogg",
+      "forceBubbles": [
+        "pink",
+        "blue",
+        "green",
+        "blue"
+      ],
+      "heuristic": [
+        "quantityRank = 1 & probability = 80",
+        "quantityRank = 2 & probability = 90",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-51": {
+      "displayName": "LEVEL 51",
+      "Mission": "51",
+      "BubbleMap": "51",
+      "hudAnim": "bar4",
+      "pathMission": "10",
+      "noOfTurns": "35",
+      "objective": "bubblesToBlast-96",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "trident_disco",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day3.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-52": {
+      "displayName": "LEVEL 52",
+      "Mission": "52",
+      "BubbleMap": "52",
+      "hudAnim": "bar4",
+      "pathMission": "10",
+      "levelTime": "3:50",
+      "noOfTurns": "35",
+      "objective": "bubblesToBlast-96",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "rocket_bomb",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day4.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-53": {
+      "displayName": "LEVEL 53",
+      "Mission": "53",
+      "BubbleMap": "53",
+      "hudAnim": "bar4",
+      "pathMission": "11",
+      "noOfTurns": "35",
+      "objective": "bubblesToBlast-96",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "trident_rocket",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day5.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-54": {
+      "displayName": "LEVEL 54",
+      "Mission": "54",
+      "BubbleMap": "54",
+      "hudAnim": "bar4",
+      "pathMission": "11",
+      "levelTime": "4:00",
+      "noOfTurns": "35",
+      "objective": "bubblesToBlast-96",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "trident_disco",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day6.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-55": {
+      "displayName": "LEVEL 55",
+      "Mission": "55",
+      "BubbleMap": "55",
+      "hudAnim": "bar4",
+      "pathMission": "11",
+      "noOfTurns": "35",
+      "objective": "bubblesToBlast-96",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "giantBomb",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/night.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-56": {
+      "displayName": "LEVEL 56",
+      "Mission": "56",
+      "BubbleMap": "56",
+      "hudAnim": "bar4",
+      "pathMission": "12",
+      "noOfTurns": "35",
+      "objective": "bubblesToBlast-96",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "trident_rocket",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day1.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-57": {
+      "displayName": "LEVEL 57",
+      "Mission": "57",
+      "BubbleMap": "57",
+      "hudAnim": "bar4",
+      "pathMission": "12",
+      "noOfTurns": "35",
+      "objective": "bubblesToBlast-96",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "trident_disco",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day2.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-58": {
+      "displayName": "LEVEL 58",
+      "Mission": "58",
+      "BubbleMap": "58",
+      "hudAnim": "bar4",
+      "pathMission": "12",
+      "levelTime": "3:50",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "rocket_bomb",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day3.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-59": {
+      "displayName": "LEVEL 59",
+      "Mission": "59",
+      "BubbleMap": "59",
+      "hudAnim": "bar4",
+      "pathMission": "13",
+      "levelTime": "3:50",
+      "noOfTurns": "35",
+      "objective": "bubblesToBlast-96",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "giantBomb",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day4.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-60": {
+      "displayName": "LEVEL 60",
+      "Mission": "60",
+      "BubbleMap": "60",
+      "hudAnim": "bar4",
+      "pathMission": "13",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "trident_disco",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day5.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-61": {
+      "displayName": "LEVEL 61",
+      "Mission": "61",
+      "BubbleMap": "61",
+      "hudAnim": "bar4",
+      "pathMission": "13",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "trident_rocket",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day6.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-62": {
+      "displayName": "LEVEL 62",
+      "Mission": "62",
+      "BubbleMap": "62",
+      "hudAnim": "bar4",
+      "pathMission": "14",
+      "levelTime": "3:30",
+      "noOfTurns": "35",
+      "objective": "bubblesToBlast-96",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "rocket_bomb",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/night.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-63": {
+      "displayName": "LEVEL 63",
+      "Mission": "63",
+      "BubbleMap": "63",
+      "hudAnim": "bar4",
+      "pathMission": "14",
+      "noOfTurns": "35",
+      "objective": "bubblesToBlast-96",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "trident_disco",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day1.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-64": {
+      "displayName": "LEVEL 64",
+      "Mission": "64",
+      "BubbleMap": "64",
+      "hudAnim": "bar4",
+      "pathMission": "14",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "trident_rocket",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day2.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-65": {
+      "displayName": "LEVEL 65",
+      "Mission": "65",
+      "BubbleMap": "65",
+      "hudAnim": "bar4",
+      "pathMission": "15",
+      "levelTime": "3:30",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "giantBomb",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day3.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-66": {
+      "displayName": "LEVEL 66",
+      "Mission": "66",
+      "BubbleMap": "66",
+      "hudAnim": "bar4",
+      "pathMission": "15",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "trident_rocket",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day4.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-67": {
+      "displayName": "LEVEL 67",
+      "Mission": "67",
+      "BubbleMap": "67",
+      "hudAnim": "bar4",
+      "pathMission": "15",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "trident_disco",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day5.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-68": {
+      "displayName": "LEVEL 68",
+      "Mission": "68",
+      "BubbleMap": "68",
+      "hudAnim": "bar4",
+      "pathMission": "16",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "rocket_bomb",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day6.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-69": {
+      "displayName": "LEVEL 69",
+      "Mission": "69",
+      "BubbleMap": "69",
+      "hudAnim": "bar4",
+      "pathMission": "16",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "giantBomb",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/night.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    },
+    "1-70": {
+      "displayName": "LEVEL 70",
+      "Mission": "70",
+      "BubbleMap": "70",
+      "hudAnim": "bar4",
+      "pathMission": "16",
+      "levelTime": "3:30",
+      "noOfTurns": "35",
+      "objective": "rescueAnimals-100",
+      "bubbleGridOffsetX": "-44",
+      "loadingAnim": "trident_disco",
+      "helpPanel": "objective",
+      "musicPath": "audio/bubblePopper/music/day1.ogg",
+      "heuristic": [
+        "quantityRank = 1 & probability = 70",
+        "quantityRank = 2 & probability = 95",
+        "proportional & probability = 100"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+HP                        ;500                                           ;
+speed                     ;2                                             ;
+acidicBodyDamage          ;40                                            ;
+gravity                   ;0.5                                           ;
+maxDownwardVelocity       ;15                                            ;
+range                     ;300                                           ;
+facePlayer                ;true                                          ;
+timeBetweenEnemySpawn     ;2                                             ;
+dieVelocityX              ;4                                             ;'
+dieVelocityY              ;4                                             ;
+dieBlinkTime              ;1                                             ;
+
+// AerialAI boss variables
+fireBallDamage            ;10                                            ;
+maxHalfSpreadFireBalls    ;8                                             ;
+maxHalfSpreadFireBallWaves;10                                            ;
+maxFullSpreadFireBalls    ;10                                            ;
+maxFullSpreadFireBallWaves;5                                             ;
+maxMagneticFireBallShots  ;3                                             ;
+spreadAngleRangeMin       ;180                                           ;
+spreadAngleRangeMax       ;360                                           ;
+magneticBulletSpeed       ;3                                             ;
+magneticBulletRadius      ;135                                           ;
+playerChaseSpeed          ;0.02                                          ;
+intervalBetweenAttacks    ;1                                             ;
+dieBlastTime              ;0.3                                           ;
+randomBlasts              ;inAirExplosionBIG,smallBlast,launcherExplosion;
+bigBlast                  ;normalExplosion1                              ;
+walkTargetX               ;0
+energyBallImpact          ;timelineFX/air/enemyChaserImpact1
+
+//--- Boss Scene
+isBossScene               ;false
+cinematicNode1            ;Cinematic_Node.019
+cinematicNode3            ;Cinematic_Node.021

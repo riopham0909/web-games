@@ -1,0 +1,6 @@
+dieBlinkTime;0.5
+bigBlast;groundExplosion
+dieBlastTimer;0.4
+gravity;0.5
+maxDownwardVelocity;15
+blinkLoop;1

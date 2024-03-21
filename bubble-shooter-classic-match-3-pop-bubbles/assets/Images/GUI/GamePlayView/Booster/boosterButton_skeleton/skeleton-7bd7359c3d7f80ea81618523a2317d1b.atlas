@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boosterCircle
+  rotate: false
+  xy: 127, 56
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+boosterCircle1
+  rotate: false
+  xy: 127, 56
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+cost
+  rotate: false
+  xy: 199, 92
+  size: 88, 35
+  orig: 88, 35
+  offset: 0, 0
+  index: -1
+count
+  rotate: false
+  xy: 260, 46
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+glove
+  rotate: true
+  xy: 395, 82
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 1, 4
+  size: 125, 123
+  orig: 125, 123
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 199, 31
+  size: 60, 60
+  orig: 64, 64
+  offset: 3, 3
+  index: -1
+lock
+  rotate: true
+  xy: 288, 81
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+paintingBrush
+  rotate: true
+  xy: 127, 1
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+rainbow
+  rotate: false
+  xy: 446, 78
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+sawBlade
+  rotate: true
+  xy: 342, 81
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1

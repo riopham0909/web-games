@@ -1,0 +1,5 @@
+HP;1
+damage;100
+gravity;0.5f
+maxDownwardVelocity;6
+damageMultiplier;0.1

@@ -1,0 +1,17 @@
+HP;2
+speed;5
+damage;1
+speed;0
+gravity;0.5
+maxDownwardVelocity;15
+dieVelocityX;13
+dieVelocityY;8
+dieBlinkTime;1
+rangeDistance;700-800
+standLoop;1
+attackLoop;2
+jumpSpeed;5
+jumpHeight;8
+grenadePathType;high
+grenadeSpeed;8.6
+grenadeGravity;0.12

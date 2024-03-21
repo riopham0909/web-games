@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coinPanel
+  rotate: false
+  xy: 1, 1
+  size: 98, 34
+  orig: 98, 34
+  offset: 0, 0
+  index: -1
+goal
+  rotate: false
+  xy: 1, 36
+  size: 286, 77
+  orig: 286, 77
+  offset: 0, 0
+  index: -1

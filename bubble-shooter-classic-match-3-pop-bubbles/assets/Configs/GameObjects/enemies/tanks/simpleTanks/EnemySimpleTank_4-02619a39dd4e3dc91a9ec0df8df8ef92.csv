@@ -1,0 +1,14 @@
+HP;100
+speed;2
+acidicBodyDamage;1
+bulletDamage;3
+gravity;0.5
+maxDownwardVelocity;8
+range;700
+dieVelocityX;2
+dieVelocityY;6
+dieBlinkTime;1
+grenadePathType;high
+grenadeSpeed;10
+grenadeGravity;0.15
+attackLoop;2

@@ -1,0 +1,514 @@
+{
+   "info" : {
+      "Area1" : {
+         "BossChallenge" : {
+            "Waves" : "1",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "cashMultiplier" : ".1",
+            "xpMultiplier" : ".1",
+            "cash" : "500",
+            "gold" : "1",
+            "staminaCost" : "1",
+            "riflePower" : "1200",
+            "pistolPower" : "800",
+            "meleePower" : "1500"
+         },
+         "TimeChallenge" : {
+            "Waves" : "2,2,3",
+            "Timer" : "240,240,300",
+            "hpMultiplier" : ".4",
+            "xpMultiplier" : "1",
+            "cashMultiplier" : "1",
+            "cash" : "500",
+            "gold" : "1",
+            "staminaCost" : "1",
+            "riflePower" : "1200",
+            "pistolPower" : "800",
+            "meleePower" : "1500"
+         },
+         "WaveChallenge" : {
+            "Waves" : "2,2,3",
+            "Timer" : "-999",
+            "hpMultiplier" : ".4",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "500",
+            "gold" : "1",
+            "staminaCost" : "1",
+            "riflePower" : "1200",
+            "pistolPower" : "800",
+            "meleePower" : "1500"
+         },
+         "Story" : {
+            "Waves" : "-999",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "xpMultiplier" : "1",
+            "cashMultiplier" : "1",
+            "cash" : "100",
+            "gold" : "200",
+            "staminaCost" : "1"
+         }
+      },
+      "Area2" : {
+         "BossChallenge" : {
+            "Waves" : "1",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "cashMultiplier" : ".1",
+            "xpMultiplier" : ".1",
+            "cash" : "800",
+            "gold" : "2",
+            "staminaCost" : "1",
+            "riflePower" : "2900",
+            "pistolPower" : "1400",
+            "meleePower" : "2000"
+         },
+         "TimeChallenge" : {
+            "Waves" : "2,2,3",
+            "Timer" : "240,240,300",
+            "hpMultiplier" : "1.1",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "800",
+            "gold" : "2",
+            "staminaCost" : "1",
+            "riflePower" : "2900",
+            "pistolPower" : "1400",
+            "meleePower" : "2000"
+         },
+         "WaveChallenge" : {
+            "Waves" : "2,2,3",
+            "Timer" : "-999",
+            "hpMultiplier" : "1.1",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "800",
+            "gold" : "2",
+            "staminaCost" : "1",
+            "riflePower" : "2900",
+            "pistolPower" : "1400",
+            "meleePower" : "2000"
+         },
+         "Story" : {
+            "Waves" : "-999",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "xpMultiplier" : "1",
+            "cashMultiplier" : "1",
+            "cash" : "100",
+            "gold" : "200",
+            "staminaCost" : "1"
+         }
+      },
+      "Area3" : {
+         "BossChallenge" : {
+            "Waves" : "1",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "cashMultiplier" : ".1",
+            "xpMultiplier" : ".1",
+            "cash" : "1000",
+            "gold" : "2",
+            "staminaCost" : "1",
+            "riflePower" : "4500",
+            "pistolPower" : "2000",
+            "meleePower" : "3200"
+         },
+         "TimeChallenge" : {
+            "Waves" : "2,3,3",
+            "Timer" : "240,240,300",
+            "hpMultiplier" : "1.6",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "1000",
+            "gold" : "2",
+            "staminaCost" : "1",
+            "riflePower" : "4500",
+            "pistolPower" : "2000",
+            "meleePower" : "3200"
+         },
+         "WaveChallenge" : {
+            "Waves" : "2,3,3",
+            "Timer" : "-999",
+            "hpMultiplier" : "1.6",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "1000",
+            "gold" : "2",
+            "staminaCost" : "1",
+            "riflePower" : "4500",
+            "pistolPower" : "2000",
+            "meleePower" : "3200"
+         },
+         "Story" : {
+            "Waves" : "-999",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "xpMultiplier" : "1",
+            "cashMultiplier" : "1",
+            "cash" : "100",
+            "gold" : "200",
+            "staminaCost" : "1"
+         }
+      },
+      "Area4" : {
+         "BossChallenge" : {
+            "Waves" : "1",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "cashMultiplier" : ".1",
+            "xpMultiplier" : ".1",
+            "cash" : "1500",
+            "gold" : "3",
+            "staminaCost" : "1",
+            "riflePower" : "7000",
+            "pistolPower" : "3500",
+            "meleePower" : "4500"
+         },
+         "TimeChallenge" : {
+            "Waves" : "3,3,4",
+            "Timer" : "300,300,300",
+            "hpMultiplier" : "2.7",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "1500",
+            "gold" : "3",
+            "staminaCost" : "1",
+            "riflePower" : "7000",
+            "pistolPower" : "3500",
+            "meleePower" : "4500"
+         },
+         "WaveChallenge" : {
+            "Waves" : "3,3,4",
+            "Timer" : "300,300,300",
+            "hpMultiplier" : "2.7",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "1500",
+            "gold" : "3",
+            "staminaCost" : "1",
+            "riflePower" : "7000",
+            "pistolPower" : "3500",
+            "meleePower" : "4500"
+         },
+         "Story" : {
+            "Waves" : "-999",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "xpMultiplier" : "1",
+            "cashMultiplier" : "1",
+            "cash" : "100",
+            "gold" : "200",
+            "staminaCost" : "1"
+         }
+      },
+      "Area5" : {
+         "BossChallenge" : {
+            "Waves" : "1",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "cashMultiplier" : ".1",
+            "xpMultiplier" : ".1",
+            "cash" : "1800",
+            "gold" : "3",
+            "staminaCost" : "2",
+            "riflePower" : "8500",
+            "pistolPower" : "4000",
+            "meleePower" : "6000"
+         },
+         "TimeChallenge" : {
+            "Waves" : "3,4,4",
+            "Timer" : "300,360,360",
+            "hpMultiplier" : "3.5",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "1800",
+            "gold" : "3",
+            "staminaCost" : "2",
+            "riflePower" : "8500",
+            "pistolPower" : "4000",
+            "meleePower" : "6000"
+         },
+         "WaveChallenge" : {
+            "Waves" : "3,4,4",
+            "Timer" : "-999",
+            "hpMultiplier" : "3.5",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "1800",
+            "gold" : "3",
+            "staminaCost" : "2",
+            "riflePower" : "8500",
+            "pistolPower" : "4000",
+            "meleePower" : "6000"
+         },
+         "Story" : {
+            "Waves" : "-999",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "xpMultiplier" : "1",
+            "cashMultiplier" : "1",
+            "cash" : "100",
+            "gold" : "200",
+            "staminaCost" : "1"
+         }
+      },
+      "Area6" : {
+         "BossChallenge" : {
+            "Waves" : "1",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "cashMultiplier" : ".1",
+            "xpMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "4",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "TimeChallenge" : {
+            "Waves" : "4,4,4",
+            "Timer" : "360,360,360",
+            "hpMultiplier" : "4",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "4",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "WaveChallenge" : {
+            "Waves" : "4,4,4",
+            "Timer" : "-999",
+            "hpMultiplier" : "4",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "4",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "Story" : {
+            "Waves" : "-999",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "xpMultiplier" : "1",
+            "cashMultiplier" : "1",
+            "cash" : "100",
+            "gold" : "200",
+            "staminaCost" : "1"
+         }
+      },
+      "Area7" : {
+         "BossChallenge" : {
+            "Waves" : "1",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "cashMultiplier" : ".1",
+            "xpMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "4",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "TimeChallenge" : {
+            "Waves" : "4,4,4",
+            "Timer" : "360,360,360",
+            "hpMultiplier" : "4",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "4",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "WaveChallenge" : {
+            "Waves" : "4,4,4",
+            "Timer" : "-999",
+            "hpMultiplier" : "4",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "4",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "Story" : {
+            "Waves" : "-999",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "xpMultiplier" : "1",
+            "cashMultiplier" : "1",
+            "cash" : "100",
+            "gold" : "200",
+            "staminaCost" : "1"
+         }
+      },
+      "Area8" : {
+         "BossChallenge" : {
+            "Waves" : "1",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "cashMultiplier" : ".1",
+            "xpMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "6",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "TimeChallenge" : {
+            "Waves" : "4,4,4",
+            "Timer" : "360,360,360",
+            "hpMultiplier" : "4",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "6",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "WaveChallenge" : {
+            "Waves" : "4,4,4",
+            "Timer" : "-999",
+            "hpMultiplier" : "4",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "6",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "Story" : {
+            "Waves" : "-999",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "xpMultiplier" : "1",
+            "cashMultiplier" : "1",
+            "cash" : "100",
+            "gold" : "200",
+            "staminaCost" : "1"
+         }
+      },
+      "Area9" : {
+         "BossChallenge" : {
+            "Waves" : "1",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "cashMultiplier" : ".1",
+            "xpMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "8",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "TimeChallenge" : {
+            "Waves" : "4,4,4",
+            "Timer" : "360,360,360",
+            "hpMultiplier" : "4",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "8",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "WaveChallenge" : {
+            "Waves" : "4,4,4",
+            "Timer" : "-999",
+            "hpMultiplier" : "4",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "8",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "Story" : {
+            "Waves" : "-999",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "xpMultiplier" : "1",
+            "cashMultiplier" : "1",
+            "cash" : "100",
+            "gold" : "200",
+            "staminaCost" : "1"
+         }
+      },
+      "Area10" : {
+         "BossChallenge" : {
+            "Waves" : "1",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "cashMultiplier" : ".1",
+            "xpMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "8",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "TimeChallenge" : {
+            "Waves" : "4,4,4",
+            "Timer" : "360,360,360",
+            "hpMultiplier" : "4",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "8",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "WaveChallenge" : {
+            "Waves" : "4,4,4",
+            "Timer" : "-999",
+            "hpMultiplier" : "4",
+            "xpMultiplier" : ".1",
+            "cashMultiplier" : ".1",
+            "cash" : "2000",
+            "gold" : "8",
+            "staminaCost" : "2",
+            "riflePower" : "11000",
+            "pistolPower" : "4500",
+            "meleePower" : "6500"
+         },
+         "Story" : {
+            "Waves" : "-999",
+            "Timer" : "-999",
+            "hpMultiplier" : "1",
+            "xpMultiplier" : "1",
+            "cashMultiplier" : "1",
+            "cash" : "100",
+            "gold" : "200",
+            "staminaCost" : "1"
+         }
+      }
+   }
+}

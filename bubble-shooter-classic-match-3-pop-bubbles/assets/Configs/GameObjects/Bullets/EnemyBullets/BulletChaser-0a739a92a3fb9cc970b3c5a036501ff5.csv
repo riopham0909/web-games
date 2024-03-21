@@ -1,0 +1,8 @@
+HP                           ;1
+speed                        ;5
+angularVelocity              ;0.03
+initialSpeed                 ;5
+moveStraightTime             ;1
+configInitialMoveStraightTime;1
+isDestroyable                ;true
+bulletLifeTimer              ;400

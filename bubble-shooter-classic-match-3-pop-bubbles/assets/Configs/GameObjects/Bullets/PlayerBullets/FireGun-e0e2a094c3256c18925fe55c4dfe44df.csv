@@ -1,0 +1,9 @@
+HP                 ;99999
+maxDownwardVelocity;8
+speed              ;25
+gravity            ;0.2
+angularVelocity    ;8
+radius             ;80
+isDestroyable      ;false
+anim               ;playerTrail/fireGun
+criticalAnim       ;playerTrail/fireGun_CR

@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+#footer
+{
+	position: fixed;
+   bottom: 0;
+   width: 100%;
+   background-color: white;
+}
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+</style>
+<script type="text/javascript">
+function userConsent(consent) {
+        Android.getConsentFromWebView(consent);
+    }
+	
+	function openinBrowser(url) {
+        Android.openInBrowser(url);
+    }
+
+function changeContent()
+{
+	document.getElementById("cont").innerHTML="<br><h2 style=\"text-align:center;\">We value your privacy</h2><br><p>You may see advertisement/content that is less relevant to you.</p>";
+	document.getElementById("demo").innerHTML="<button style=\"font-weight: 500;\" type=\"button\" onclick=\"changeContentOnBack()\" class=\"column btn-secondary\">BACK</button><button style=\"font-weight: 500;\" id=\"agreeBtn\" type=\"button\" onclick=\"userConsent(false)\" class=\"column btn-primary\">OK</button>";
+}
+
+function changeContentOnBack()
+{
+	document.getElementById("cont").innerHTML="<br><h2 style=\"text-align:center;\">We value your privacy</h2><br><p>We and our partners collect and use your personal data such as device advertising ID, IP address, latitude/longitude information regarding the device to personalize content and ads, provide social media features, analyse our services / products.</p><p>You can change your choice at any time at our <a onclick=\"openinBrowser(\'http://renderedideas.com/privacy\')\" href=\"#\">Privacy Policy </a>page.</p><p><a onclick=\"openinBrowser(\'http://renderedideas.com/privacy\')\" href=\"#\">Learn more at our privacy policy page.</a></p>";
+	document.getElementById("demo").innerHTML="<button style=\"font-weight: 500;\" type=\"button\" onclick=\"changeContent()\" class=\"column btn-secondary\">I DO NOT ACCEPT</button><button style=\"font-weight: 500;\" id=\"agreeBtn\" type=\"button\" onclick=\"userConsent(true)\" class=\"column btn-primary\">I ACCEPT</button>";
+}
+
+</script>
+  </head>
+  <body>
+  <div class="container">
+	<div id="cont" style="padding-bottom:50px; overflow: auto;" class="col-xs-12">
+	<br>
+		<h3 style="text-align:center;">We value your privacy</h3>
+		<br>
+		<p>We and our partners collect and use your personal data such as device advertising ID, IP address, latitude/longitude information regarding the device to personalize content and ads, provide social media features, analyse our services / products.</p>
+        <p>You can change your choice at any time in the Credits/About Screen</p>
+		<p><a onclick="openinBrowser("http://renderedideas.com/privacy.html")" href="#">Learn more at our privacy policy page.</a></p>
+       
+</div>
+</div>
+<div id="footer">
+<div id="demo" class="row">
+	<button style="font-weight: 500;" type="button" onclick="changeContent()" class="column btn-secondary">I DO NOT ACCEPT</button>
+    <button style="font-weight: 500;" type="button" onclick="userConsent(true)" class="column btn-primary">I ACCEPT</button>
+</div>
+</div>
+</body>
+</html>

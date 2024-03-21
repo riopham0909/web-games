@@ -1,0 +1,9 @@
+phase1HP        ;200
+phase2HP        ;200
+phase3HP        ;200
+speed           ;15
+gravity         ;2
+acidicBodyDamage;2
+walkTargetX     ;0
+restTimer       ;0.4
+bulletDamage    ;1

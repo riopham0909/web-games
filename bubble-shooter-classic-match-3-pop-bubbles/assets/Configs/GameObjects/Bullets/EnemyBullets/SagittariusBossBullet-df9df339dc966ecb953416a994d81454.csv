@@ -1,0 +1,3 @@
+HP;999 //Indestructible Bullet
+isDestroyable;true
+bulletImpact;pistol_impact6

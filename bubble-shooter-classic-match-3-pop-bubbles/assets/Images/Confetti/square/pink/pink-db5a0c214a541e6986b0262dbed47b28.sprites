@@ -1,0 +1,11 @@
+<img name="partyShoot3.png">
+
+	<spr name="1.png" x="0" y="40" w="20" h="19" fx="0" fy="0" fw="20" fh="19">
+	<spr name="2.png" x="0" y="19" w="7" h="19" fx="0" fy="0" fw="7" fh="19">
+	<spr name="3.png" x="46" y="0" w="17" h="16" fx="0" fy="0" fw="17" fh="16">
+	<spr name="4.png" x="0" y="0" w="26" h="13" fx="0" fy="0" fw="26" fh="13">
+	<spr name="5.png" x="26" y="0" w="20" h="19" fx="0" fy="0" fw="20" fh="19">
+	<spr name="6.png" x="0" y="40" w="20" h="19" fx="0" fy="0" fw="20" fh="19">
+	<spr name="7.png" x="46" y="16" w="14" h="24" fx="0" fy="0" fw="14" fh="24">
+</img>
+

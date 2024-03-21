@@ -1,0 +1,13 @@
+HP;25
+hpShield;20
+damage;1
+speed;4
+gravity;0.5
+maxDownwardVelocity;1
+range;800
+rangeY             ;10
+dieVelocityX;2
+dieVelocityY;6
+dieBlinkTime;1
+attackSpeedTimer;2
+bulletSpeed        ;3

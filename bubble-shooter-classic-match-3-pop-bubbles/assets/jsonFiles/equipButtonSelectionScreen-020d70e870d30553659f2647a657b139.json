@@ -1,0 +1,33 @@
+{
+   "buy" : {
+      "off" : {},
+      "on" : {
+         "custom" : "hideBackPanel",
+         "playCinematic|1" : "Cinematic_Node.002",
+         "playCinematic|3" : "Cinematic_Node.008",
+         "playCinematic|2" : "Cinematic_Node.005",
+         "custom|1" : "insideUpgradeDiplay",
+         "playSound" : "157"
+      }
+   },
+   "singleStateToggle" : {
+      "off" : {},
+      "on" : {
+         "custom" : "showEquip"
+      },
+      "toggle" : "",
+      "data" : "isEquipped",
+      "checkCondition" : "isEquipped"
+   },
+   "equipToggle" : {
+      "on" : {
+         "equip" : "current",
+         "playSound" : "158"
+      },
+      "off" : "",
+      "toggle" : "",
+      "restrictOff" : "",
+      "data" : "isEquipped",
+      "checkCondition" : "isEquipped"
+   }
+}

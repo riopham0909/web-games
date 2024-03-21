@@ -1,0 +1,27 @@
+runSpeedX              ;17
+runSpeedY              ;14
+swimSpeed             ;10
+gatlingSpeedMultiplier;0.9f
+dieSpeed              ;8
+hoverboardSpeed       ;10
+flyUpwardVelocity     ;-2
+jumpHeightVehicleIn   ;20
+timeToIdle            ;10
+swimUpwardVelocity    ;8
+gravity               ;1
+maxVelocityY          ;13
+jumpHeight            ;21
+gatlingJumpHeight     ;23
+parachuteSpeedX       ;2
+skipColliderTime      ;0.5
+blinkCounterTime      ;0.05
+hurtBlinkTime         ;3
+adrenalineTime        ;5
+throwTime             ;3
+visible               ;true
+antiGravitySpeed      ;10
+
+// -- Grenade
+grenadeThrowAngle     ;45
+grenadeThrowSpeedX    ;30
+grenadeThrowSpeedY    ;15

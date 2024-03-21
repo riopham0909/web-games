@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tree_1leaves
+  rotate: true
+  xy: 2, 2
+  size: 237, 265
+  orig: 237, 265
+  offset: 0, 0
+  index: -1
+tree_1trunk
+  rotate: false
+  xy: 269, 174
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1

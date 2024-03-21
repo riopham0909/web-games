@@ -1,0 +1,55 @@
+{
+   "itemPercentagesInCrates" : {
+      "commonLootCrate" : {
+         "commonItem" : "80%",
+         "rareItem" : "20%",
+         "epicItem" : "0%",
+         "legendaryItem" : "0%"
+      },
+      "rareLootCrate" : {
+         "commonItem" : "48%",
+         "rareItem" : "40%",
+         "epicItem" : "12%",
+         "legendaryItem" : "0%"
+      },
+      "legendaryLootCrate" : {
+         "commonItem" : "0%",
+         "rareItem" : "48%",
+         "epicItem" : "34%",
+         "legendaryItem" : "18%"
+      }
+   },
+   "rewardPercentagesInItems" : {
+      "commonItem" : {
+         "RegularCurrency|100" : "12%",
+         "RegularCurrency|150" : "12%",
+         "PremiumCurrency|1" : "11%",
+         "WeaponPart|1" : "65%"
+      },
+      "rareItem" : {
+         "RegularCurrency|1000" : "9%",
+         "PremiumCurrency|3" : "9%",
+         "Skill|1" : "8%",
+         "adrenaline|1" : "8%",
+         "airstrike|1" : "8%",
+         "energyDrink|1" : "8%",
+         "WeaponPart|1" : "50%"
+      },
+      "epicItem" : {
+         "RegularCurrency|3000" : "7%",
+         "RegularCurrency|2500" : "7%",
+         "PremiumCurrency|10" : "7%",
+         "chaserDrone|1" : "7%",
+         "machineGunDrone|1" : "7%",
+         "WeaponPart|1" : "65%"
+      },
+      "legendaryItem" : {
+         "PremiumCurrency|25" : "25%",
+         "WeaponPart|1" : "75%"
+      }
+   },
+   "IMPORTANT NOTES" : {
+      "note" : "If \"WeaponPart\" is present, it should be the last item in that category",
+      "note2" : "Percentages should add up to 100"
+   }
+}

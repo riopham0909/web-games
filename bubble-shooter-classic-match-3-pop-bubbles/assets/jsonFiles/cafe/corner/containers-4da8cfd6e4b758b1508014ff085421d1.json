@@ -1,0 +1,2005 @@
+{
+   "burgerTheme" : {
+      "burgerPlate" : {
+         "idleAnim" : "burger_container_patty_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "burger_patty"
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.4f"
+      },
+      "hotdogPlate" : {
+         "idleAnim" : "hotdog_container_patty_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "hotdog_patty"
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.4f"
+      },
+      "eggPlate" : {
+         "idleAnim" : "egg_container_patty_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "egg_patty"
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.4f"
+      },
+      "pan" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "stove1",
+               "timerBones" : "timer1",
+               "animation" : "stove1_idle",
+               "cookingTime" : "3",
+               "burningTime" : "100",
+               "price" : "150",
+               "levelToUnlockAt" : "1",
+               "drawOrderSlot" : "stove1"
+            },
+            "2" : {
+               "slots" : "2",
+               "bones" : "stove1,stove2",
+               "timerBones" : "timer1,timer2",
+               "animation" : "stove2_idle",
+               "cookingTime" : "3",
+               "burningTime" : "100",
+               "price" : "150",
+               "levelToUnlockAt" : "1",
+               "drawOrderSlot" : "stove1,stove2"
+            },
+            "3" : {
+               "slots" : "3",
+               "bones" : "stove1,stove2,stove3",
+               "timerBones" : "timer1,timer2,timer3",
+               "animation" : "stove3_idle",
+               "cookingTime" : "3",
+               "burningTime" : "100",
+               "price" : "150",
+               "levelToUnlockAt" : "10",
+               "drawOrderSlot" : "stove1,stove2,stove3"
+            },
+            "4" : {
+               "slots" : "4",
+               "bones" : "stove1,stove2,stove3,stove4",
+               "timerBones" : "timer1,timer2,timer3,timer4",
+               "animation" : "stove4_idle",
+               "cookingTime" : "3",
+               "burningTime" : "100",
+               "price" : "150",
+               "levelToUnlockAt" : "20",
+               "drawOrderSlot" : "stove1,stove2,stove3,stove4"
+            }
+         },
+         "info" : {
+            "totalBones" : "stove1,stove2,stove3,stove4",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/container_skeleton",
+            "startUpgradeAt" : "2"
+         },
+         "scale" : "0.4f",
+         "wobble" : "false",
+         "cookingSound" : "audio/surrounding/eggFrying.ogg",
+         "useSlotXForWaitressDestination" : "true",
+         "waitressDestinationOffsetX" : "-150"
+      },
+      "bun1" : {
+         "idleAnim" : "bun1_idle",
+         "clickAnim" : "bun1_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/container_skeleton"
+         },
+         "scale" : "0.3f"
+      },
+      "bun2" : {
+         "idleAnim" : "bun2_idle",
+         "clickAnim" : "bun2_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/container_skeleton"
+         },
+         "scale" : "0.3f"
+      },
+      "bun3" : {
+         "idleAnim" : "bun3_idle",
+         "clickAnim" : "bun3_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/container_skeleton"
+         },
+         "scale" : "0.3f"
+      },
+      "bun4" : {
+         "idleAnim" : "bun4_idle",
+         "clickAnim" : "bun4_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/container_skeleton"
+         },
+         "scale" : "0.3f"
+      },
+      "lettuce" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_lettuce_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.35f"
+      },
+      "cheese" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_cheese_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.35f"
+      },
+      "bacon" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_bacon_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.4f"
+      },
+      "tomato" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_tomato_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.4f"
+      },
+      "cheetos" : {
+         "idleAnim" : "container_cheetos_enter",
+         "clickAnim" : "container_cheetos_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_cheetos"
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.35f"
+      },
+      "chips" : {
+         "idleAnim" : "container_chips_idle",
+         "clickAnim" : "container_chips_enter",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_chips"
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.35f"
+      },
+      "fries" : {
+         "idleAnim" : "container_fries_enter",
+         "clickAnim" : "container_fries_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_fries"
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.35f"
+      },
+      "eggRolls" : {
+         "idleAnim" : "container_eggRolls_enter",
+         "clickAnim" : "container_eggRolls_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_eggRolls"
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.35f"
+      },
+      "iceCreamSandwich" : {
+         "idleAnim" : "container_iceCreamSandwich_enter",
+         "clickAnim" : "container_iceCreamSandwich_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_iceCreamSandwich"
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.35f"
+      },
+      "popcorn" : {
+         "idleAnim" : "container_popcorn_enter",
+         "clickAnim" : "container_popcorn_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_popcorn"
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.35f"
+      },
+      "samosas" : {
+         "idleAnim" : "container_samosas_enter",
+         "clickAnim" : "container_samosas_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_samosas"
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.35f"
+      },
+      "cookies" : {
+         "idleAnim" : "container_cookies_enter",
+         "clickAnim" : "container_cookies_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_cookies"
+            },
+            "path" : "Images/GameObjects/Food/burger"
+         },
+         "scale" : "0.35f"
+      },
+      "colaContainer" : {
+         "levels" : {
+            "1" : {
+               "animation" : "cola_container_level1_idle",
+               "makingAnimation" : "cola_container_level1_making"
+            },
+            "2" : {
+               "animation" : "cola_container_level2_idle",
+               "makingAnimation" : "cola_container_level2_making"
+            },
+            "3" : {
+               "animation" : "cola_container_level3_idle",
+               "makingAnimation" : "cola_container_level3_making"
+            },
+            "4" : {
+               "animation" : "cola_container_level4_idle",
+               "makingAnimation" : "cola_container_level4_making"
+            }
+         },
+         "info" : {
+            "tapAction" : {
+               "createFood" : "colaJuice"
+            },
+            "path" : "Images/GameObjects/Food/container_skeleton"
+         },
+         "scale" : "0.4f",
+         "autoFill" : "true",
+         "showInQuickShop" : "true"
+      },
+      "orangeContainer" : {
+         "levels" : {
+            "1" : {
+               "animation" : "orangeJuice_container_level1_idle",
+               "makingAnimation" : "orangeJuice_container_level1_making"
+            },
+            "2" : {
+               "animation" : "orangeJuice_container_level2_idle",
+               "makingAnimation" : "orangeJuice_container_level2_making"
+            },
+            "3" : {
+               "animation" : "orangeJuice_container_level3_idle",
+               "makingAnimation" : "orangeJuice_container_level3_making"
+            },
+            "4" : {
+               "animation" : "orangeJuice_container_level4_idle",
+               "makingAnimation" : "orangeJuice_container_level4_making"
+            }
+         },
+         "info" : {
+            "tapAction" : {
+               "createFood" : "orangeJuice"
+            },
+            "path" : "Images/GameObjects/Food/container_skeleton"
+         },
+         "scale" : "0.4f",
+         "autoFill" : "true",
+         "showInQuickShop" : "true"
+      },
+      "colaJuicePlate" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "glass1",
+               "timerBones" : "timer1",
+               "animation" : "colaJuiceLevel1_idle",
+               "cookingTime" : "3",
+               "price" : "0"
+            },
+            "2" : {
+               "slots" : "2",
+               "bones" : "glass1,glass2",
+               "timerBones" : "timer1,timer2",
+               "animation" : "colaJuiceLevel2_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "3" : {
+               "slots" : "3",
+               "bones" : "glass1,glass2,glass3",
+               "timerBones" : "timer1,timer2,timer3",
+               "animation" : "colaJuiceLevel3_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "4" : {
+               "slots" : "4",
+               "bones" : "glass1,glass2,glass3,glass4",
+               "timerBones" : "timer1,timer2,timer3,timer4",
+               "animation" : "colaJuiceLevel4_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            }
+         },
+         "info" : {
+            "totalBones" : "glass1,glass2,glass3,glass4",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/drinkPlate"
+         },
+         "scale" : "0.4f"
+      },
+      "orangeJuicePlate" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "glass1",
+               "timerBones" : "timer1",
+               "animation" : "orangeJuiceLevel1_idle",
+               "cookingTime" : "3",
+               "price" : "0"
+            },
+            "2" : {
+               "slots" : "2",
+               "bones" : "glass1,glass2",
+               "timerBones" : "timer1,timer2",
+               "animation" : "orangeJuiceLevel2_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "3" : {
+               "slots" : "3",
+               "bones" : "glass1,glass2,glass3",
+               "timerBones" : "timer1,timer2,timer3",
+               "animation" : "orangeJuiceLevel3_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "4" : {
+               "slots" : "4",
+               "bones" : "glass1,glass2,glass3,glass4",
+               "timerBones" : "timer1,timer2,timer3,timer4",
+               "animation" : "orangeJuiceLevel4_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            }
+         },
+         "info" : {
+            "totalBones" : "glass1,glass2,glass3,glass4",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/drinkPlate"
+         },
+         "scale" : "0.4f"
+      }
+   },
+   "donutTheme" : {
+      "donutPlate" : {
+         "idleAnim" : "donut_container_patty_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "donut_patty"
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.7f"
+      },
+      "puffPlate" : {
+         "idleAnim" : "puff_container_patty_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "puff_patty"
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.7f"
+      },
+      "wafflePlate" : {
+         "idleAnim" : "waffle_container_patty_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "waffle_patty"
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.7f"
+      },
+      "donutPan" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "stove1",
+               "timerBones" : "timer1",
+               "animation" : "stove1_idle",
+               "cookingTime" : "4",
+               "burningTime" : "100",
+               "price" : "0",
+               "levelToUnlockAt" : "1",
+               "drawOrderSlot" : "stove1"
+            },
+            "2" : {
+               "slots" : "2",
+               "bones" : "stove1,stove2",
+               "timerBones" : "timer1,timer2",
+               "animation" : "stove2_idle",
+               "cookingTime" : "3",
+               "burningTime" : "100",
+               "price" : "150",
+               "levelToUnlockAt" : "1",
+               "drawOrderSlot" : "stove1,stove2"
+            },
+            "3" : {
+               "slots" : "3",
+               "bones" : "stove1,stove2,stove3",
+               "timerBones" : "timer1,timer2,timer3",
+               "animation" : "stove3_idle",
+               "cookingTime" : "3",
+               "burningTime" : "100",
+               "price" : "150",
+               "levelToUnlockAt" : "10",
+               "drawOrderSlot" : "stove1,stove2,stove3"
+            },
+            "4" : {
+               "slots" : "4",
+               "bones" : "stove1,stove2,stove3,stove4",
+               "timerBones" : "timer1,timer2,timer3,timer4",
+               "animation" : "stove4_idle",
+               "cookingTime" : "3",
+               "burningTime" : "100",
+               "price" : "150",
+               "levelToUnlockAt" : "20",
+               "drawOrderSlot" : "stove1,stove2,stove3,stove4"
+            }
+         },
+         "info" : {
+            "totalBones" : "stove1,stove2,stove3,stove4",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/donutContainer_skeleton"
+         },
+         "scale" : "0.3f",
+         "wobble" : "false",
+         "cookingSound" : "audio/surrounding/eggFrying.ogg",
+         "useSlotXForWaitressDestination" : "true",
+         "waitressDestinationOffsetX" : "-150"
+      },
+      "cream1" : {
+         "idleAnim" : "cream1_idle",
+         "clickAnim" : "cream1_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/donutContainer_skeleton"
+         },
+         "scale" : "0.7f"
+      },
+      "cream2" : {
+         "idleAnim" : "cream2_idle",
+         "clickAnim" : "cream2_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/donutContainer_skeleton"
+         },
+         "scale" : "0.7f"
+      },
+      "cream3" : {
+         "idleAnim" : "cream3_idle",
+         "clickAnim" : "cream3_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/donutContainer_skeleton"
+         },
+         "scale" : "0.7f"
+      },
+      "cream4" : {
+         "idleAnim" : "cream4_idle",
+         "clickAnim" : "cream4_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/donutContainer_skeleton"
+         },
+         "scale" : "0.7f"
+      },
+      "sprinkle" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_sprinkle_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.7f"
+      },
+      "bluetoping" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_bluetoping_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.7f"
+      },
+      "coconut" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_coconut_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.7f"
+      },
+      "orange" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_orange_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.7f"
+      },
+      "candy" : {
+         "idleAnim" : "container_candy_enter",
+         "clickAnim" : "container_candy_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_candy"
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.35f"
+      },
+      "jelly" : {
+         "idleAnim" : "container_jelly_idle",
+         "clickAnim" : "container_jelly_enter",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_jelly"
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.35f"
+      },
+      "lollipop" : {
+         "idleAnim" : "container_lollipop_enter",
+         "clickAnim" : "container_lollipop_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_lollipop"
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.35f"
+      },
+      "pastry" : {
+         "idleAnim" : "container_pastry_enter",
+         "clickAnim" : "container_pastry_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_pastry"
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.35f"
+      },
+      "applePie" : {
+         "idleAnim" : "container_applePie_enter",
+         "clickAnim" : "container_applePie_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_applePie"
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.35f"
+      },
+      "brownie" : {
+         "idleAnim" : "container_brownie_idle",
+         "clickAnim" : "container_brownie_enter",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_brownie"
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.35f"
+      },
+      "cupcake" : {
+         "idleAnim" : "container_cupcake_enter",
+         "clickAnim" : "container_cupcake_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_cupcake"
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.35f"
+      },
+      "jimjam" : {
+         "idleAnim" : "container_jimjam_enter",
+         "clickAnim" : "container_jimjam_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_jimjam"
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.35f"
+      },
+      "pudding" : {
+         "idleAnim" : "container_pudding_enter",
+         "clickAnim" : "container_pudding_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_pudding"
+            },
+            "path" : "Images/GameObjects/Food/donut"
+         },
+         "scale" : "0.35f"
+      },
+      "coffee" : {
+         "levels" : {
+            "1" : {
+               "animation" : "coffee_container_level1_idle",
+               "makingAnimation" : "coffee_container_level1_making"
+            },
+            "2" : {
+               "animation" : "coffee_container_level2_idle",
+               "makingAnimation" : "coffee_container_level2_making"
+            },
+            "3" : {
+               "animation" : "coffee_container_level3_idle",
+               "makingAnimation" : "coffee_container_level3_making"
+            },
+            "4" : {
+               "animation" : "coffee_container_level4_idle",
+               "makingAnimation" : "coffee_container_level4_making"
+            }
+         },
+         "info" : {
+            "tapAction" : {
+               "createFood" : "coffee"
+            },
+            "path" : "Images/GameObjects/Food/donutContainer_skeleton"
+         },
+         "scale" : "0.4f",
+         "autoFill" : "true",
+         "showInQuickShop" : "true"
+      },
+      "tea" : {
+         "levels" : {
+            "1" : {
+               "animation" : "tea_container_level1_idle",
+               "makingAnimation" : "tea_container_level1_making"
+            },
+            "2" : {
+               "animation" : "tea_container_level2_idle",
+               "makingAnimation" : "tea_container_level2_making"
+            },
+            "3" : {
+               "animation" : "tea_container_level3_idle",
+               "makingAnimation" : "tea_container_level3_making"
+            },
+            "4" : {
+               "animation" : "tea_container_level4_idle",
+               "makingAnimation" : "tea_container_level4_making"
+            }
+         },
+         "info" : {
+            "tapAction" : {
+               "createFood" : "tea"
+            },
+            "path" : "Images/GameObjects/Food/donutContainer_skeleton"
+         },
+         "scale" : "0.4f",
+         "autoFill" : "true",
+         "showInQuickShop" : "true"
+      },
+      "coffeePlate" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "glass1",
+               "timerBones" : "timer1",
+               "animation" : "coffeeLevel1_idle",
+               "cookingTime" : "3",
+               "price" : "0"
+            },
+            "2" : {
+               "slots" : "2",
+               "bones" : "glass1,glass2",
+               "timerBones" : "timer1,timer2",
+               "animation" : "coffeeLevel2_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "3" : {
+               "slots" : "3",
+               "bones" : "glass1,glass2,glass3",
+               "timerBones" : "timer1,timer2,timer3",
+               "animation" : "coffeeLevel3_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "4" : {
+               "slots" : "4",
+               "bones" : "glass1,glass2,glass3,glass4",
+               "timerBones" : "timer1,timer2,timer3,timer4",
+               "animation" : "coffeeLevel4_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            }
+         },
+         "info" : {
+            "totalBones" : "glass1,glass2,glass3,glass4",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/drinkPlate"
+         },
+         "scale" : "0.4f"
+      },
+      "teaPlate" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "glass1",
+               "timerBones" : "timer1",
+               "animation" : "teaLevel1_idle",
+               "cookingTime" : "3",
+               "price" : "0"
+            },
+            "2" : {
+               "slots" : "2",
+               "bones" : "glass1,glass2",
+               "timerBones" : "timer1,timer2",
+               "animation" : "teaLevel2_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "3" : {
+               "slots" : "3",
+               "bones" : "glass1,glass2,glass3",
+               "timerBones" : "timer1,timer2,timer3",
+               "animation" : "teaLevel3_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "4" : {
+               "slots" : "4",
+               "bones" : "glass1,glass2,glass3,glass4",
+               "timerBones" : "timer1,timer2,timer3,timer4",
+               "animation" : "teaLevel4_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            }
+         },
+         "info" : {
+            "totalBones" : "glass1,glass2,glass3,glass4",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/drinkPlate"
+         },
+         "scale" : "0.4f"
+      }
+   },
+   "juiceTheme" : {
+      "kiwi" : {
+         "idleAnim" : "kiwi_container_patty_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "kiwi_patty"
+            },
+            "path" : "Images/GameObjects/Food/juice"
+         },
+         "scale" : "0.4f"
+      },
+      "mango" : {
+         "idleAnim" : "mango_container_patty_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "mango_patty"
+            },
+            "path" : "Images/GameObjects/Food/juice"
+         },
+         "scale" : "0.4f"
+      },
+      "watermelon" : {
+         "idleAnim" : "watermelon_container_patty_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "watermelon_patty"
+            },
+            "path" : "Images/GameObjects/Food/juice"
+         },
+         "scale" : "0.4f"
+      },
+      "juicePan" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "stove1",
+               "readyBones" : "readyFood1",
+               "timerBones" : "timer1",
+               "animation" : "stove1_machine_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "1",
+               "drawOrderSlot" : "stove1"
+            },
+            "2" : {
+               "slots" : "2",
+               "bones" : "stove1,stove2",
+               "timerBones" : "timer1,timer2",
+               "readyBones" : "readyFood1,readyFood2",
+               "animation" : "stove2_machine_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "1",
+               "drawOrderSlot" : "stove1,stove2"
+            },
+            "3" : {
+               "slots" : "3",
+               "bones" : "stove1,stove2,stove3",
+               "timerBones" : "timer1,timer2,timer3",
+               "readyBones" : "readyFood1,readyFood2,readyFood3",
+               "animation" : "stove3_machine_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "10",
+               "drawOrderSlot" : "stove1,stove2,stove3"
+            },
+            "4" : {
+               "slots" : "4",
+               "bones" : "stove1,stove2,stove3,stove4",
+               "readyBones" : "readyFood1,readyFood2,readyFood3,readyFood4",
+               "timerBones" : "timer1,timer2,timer3,timer4",
+               "animation" : "stove4_machine_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "20",
+               "drawOrderSlot" : "stove1,stove2,stove3,stove4"
+            }
+         },
+         "info" : {
+            "totalBones" : "stove1,stove2,stove3,stove4",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/juiceContainer_skeleton",
+            "startUpgradeAt" : "2"
+         },
+         "scale" : "0.35f",
+         "wobble" : "false",
+         "cookingSound" : "audio\\surrounding\\blender.ogg",
+         "useSlotXForWaitressDestination" : "true",
+         "waitressDestinationOffsetX" : "-150"
+      },
+      "shakeCream1" : {
+         "idleAnim" : "shakeCream1_idle",
+         "clickAnim" : "shakeCream1_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/juiceContainer_skeleton"
+         },
+         "scale" : "0.3f"
+      },
+      "shakeCream2" : {
+         "idleAnim" : "shakeCream2_idle",
+         "clickAnim" : "shakeCream2_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/juiceContainer_skeleton"
+         },
+         "scale" : "0.3f"
+      },
+      "shakeCream3" : {
+         "idleAnim" : "shakeCream3_idle",
+         "clickAnim" : "shakeCream3_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/juiceContainer_skeleton"
+         },
+         "scale" : "0.3f"
+      },
+      "shakeCream4" : {
+         "idleAnim" : "shakeCream4_idle",
+         "clickAnim" : "shakeCream4_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/juiceContainer_skeleton"
+         },
+         "scale" : "0.3f"
+      },
+      "blueberry" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_blueberry_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/juice"
+         },
+         "scale" : "0.4f"
+      },
+      "citrus" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_citrus_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/juice"
+         },
+         "scale" : "0.4f"
+      },
+      "greenBerry" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_greenBerry_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/juice"
+         },
+         "scale" : "0.4f"
+      },
+      "strawberry" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_strawberry_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/juice"
+         },
+         "scale" : "0.4f"
+      },
+      "cottonCandy" : {
+         "idleAnim" : "container_cottonCandy_enter",
+         "clickAnim" : "container_cottonCandy_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_cottonCandy"
+            },
+            "path" : "Images/GameObjects/Food/juice"
+         },
+         "scale" : "0.35f"
+      },
+      "creamRoll" : {
+         "idleAnim" : "container_creamRoll_idle",
+         "clickAnim" : "container_creamRoll_enter",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_creamRoll"
+            },
+            "path" : "Images/GameObjects/Food/juice"
+         },
+         "scale" : "0.35f"
+      },
+      "croissant" : {
+         "idleAnim" : "container_croissant_enter",
+         "clickAnim" : "container_croissant_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_croissant"
+            },
+            "path" : "Images/GameObjects/Food/juice"
+         },
+         "scale" : "0.35f"
+      },
+      "candyPop" : {
+         "idleAnim" : "container_candyPop_enter",
+         "clickAnim" : "container_candyPop_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_candyPop"
+            },
+            "path" : "Images/GameObjects/Food/juice"
+         },
+         "scale" : "0.35f"
+      },
+      "tart" : {
+         "idleAnim" : "container_tart_enter",
+         "clickAnim" : "container_tart_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_tart"
+            },
+            "path" : "Images/GameObjects/Food/juice"
+         },
+         "scale" : "0.35f"
+      },
+      "sandwich" : {
+         "idleAnim" : "container_sandwich_enter",
+         "clickAnim" : "container_sandwich_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_sandwich"
+            },
+            "path" : "Images/GameObjects/Food/juice"
+         },
+         "scale" : "0.35f"
+      },
+      "momo" : {
+         "idleAnim" : "container_momo_enter",
+         "clickAnim" : "container_momo_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_momo"
+            },
+            "path" : "Images/GameObjects/Food/juice"
+         },
+         "scale" : "0.35f"
+      },
+      "caramilBucket" : {
+         "levels" : {
+            "1" : {
+               "animation" : "caramil_container_level1_idle",
+               "makingAnimation" : "caramil_container_level1_making"
+            },
+            "2" : {
+               "animation" : "caramil_container_level2_idle",
+               "makingAnimation" : "caramil_container_level2_making"
+            },
+            "3" : {
+               "animation" : "caramil_container_level3_idle",
+               "makingAnimation" : "caramil_container_level3_making"
+            },
+            "4" : {
+               "animation" : "caramil_container_level4_idle",
+               "makingAnimation" : "caramil_container_level4_making"
+            }
+         },
+         "info" : {
+            "tapAction" : {
+               "createFood" : "caramilBucket"
+            },
+            "path" : "Images/GameObjects/Food/juiceContainer_skeleton"
+         },
+         "scale" : "0.25f",
+         "autoFill" : "true",
+         "showInQuickShop" : "true"
+      },
+      "popcornBucket" : {
+         "levels" : {
+            "1" : {
+               "animation" : "popcorn_container_level1_idle",
+               "makingAnimation" : "popcorn_container_level1_making"
+            },
+            "2" : {
+               "animation" : "popcorn_container_level2_idle",
+               "makingAnimation" : "popcorn_container_level2_making"
+            },
+            "3" : {
+               "animation" : "popcorn_container_level3_idle",
+               "makingAnimation" : "popcorn_container_level3_making"
+            },
+            "4" : {
+               "animation" : "popcorn_container_level4_idle",
+               "makingAnimation" : "popcorn_container_level4_making"
+            }
+         },
+         "info" : {
+            "tapAction" : {
+               "createFood" : "popcornBucket"
+            },
+            "path" : "Images/GameObjects/Food/juiceContainer_skeleton"
+         },
+         "scale" : "0.25f",
+         "autoFill" : "true",
+         "showInQuickShop" : "true"
+      },
+      "caramilBucketPlate" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "glass1",
+               "timerBones" : "timer1",
+               "animation" : "caramilBucketLevel1_idle",
+               "cookingTime" : "3",
+               "price" : "0"
+            },
+            "2" : {
+               "slots" : "2",
+               "bones" : "glass1,glass2",
+               "timerBones" : "timer1,timer2",
+               "animation" : "caramilBucketLevel2_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "3" : {
+               "slots" : "3",
+               "bones" : "glass1,glass2,glass3",
+               "timerBones" : "timer1,timer2,timer3",
+               "animation" : "caramilBucketLevel3_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "4" : {
+               "slots" : "4",
+               "bones" : "glass1,glass2,glass3,glass4",
+               "timerBones" : "timer1,timer2,timer3,timer4",
+               "animation" : "caramilBucketLevel4_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            }
+         },
+         "info" : {
+            "totalBones" : "glass1,glass2,glass3,glass4",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/drinkPlate"
+         },
+         "scale" : "0.4f"
+      },
+      "popcornBucketPlate" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "glass1",
+               "timerBones" : "timer1",
+               "animation" : "popcornBucketLevel1_idle",
+               "cookingTime" : "3",
+               "price" : "0"
+            },
+            "2" : {
+               "slots" : "2",
+               "bones" : "glass1,glass2",
+               "timerBones" : "timer1,timer2",
+               "animation" : "popcornBucketLevel2_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "3" : {
+               "slots" : "3",
+               "bones" : "glass1,glass2,glass3",
+               "timerBones" : "timer1,timer2,timer3",
+               "animation" : "popcornBucketLevel3_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "4" : {
+               "slots" : "4",
+               "bones" : "glass1,glass2,glass3,glass4",
+               "timerBones" : "timer1,timer2,timer3,timer4",
+               "animation" : "popcornBucketLevel4_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            }
+         },
+         "info" : {
+            "totalBones" : "glass1,glass2,glass3,glass4",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/drinkPlate"
+         },
+         "scale" : "0.4f"
+      }
+   },
+   "iceCreamTheme" : {
+      "green" : {
+         "idleAnim" : "green_container_patty_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "green_patty"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.5f"
+      },
+      "yellow" : {
+         "idleAnim" : "yellow_container_patty_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "yellow_patty"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.5f"
+      },
+      "red" : {
+         "idleAnim" : "red_container_patty_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "red_patty"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.5f"
+      },
+      "freezerPan" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "stove1",
+               "timerBones" : "timer1",
+               "animation" : "freezer1_machine_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "1",
+               "drawOrderSlot" : "stove1",
+               "readyBones" : "readyFood1"
+            },
+            "2" : {
+               "slots" : "2",
+               "bones" : "stove1,stove2",
+               "timerBones" : "timer1,timer2",
+               "animation" : "freezer2_machine_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "1",
+               "drawOrderSlot" : "stove1,stove2",
+               "readyBones" : "readyFood1,readyFood2"
+            },
+            "3" : {
+               "slots" : "3",
+               "bones" : "stove1,stove2,stove3",
+               "timerBones" : "timer1,timer2,timer3",
+               "animation" : "freezer3_machine_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "10",
+               "drawOrderSlot" : "stove1,stove2,stove3",
+               "readyBones" : "readyFood1,readyFood2,readyFood3"
+            },
+            "4" : {
+               "slots" : "4",
+               "bones" : "stove1,stove2,stove3,stove4",
+               "timerBones" : "timer1,timer2,timer3,timer4",
+               "animation" : "freezer4_machine_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "20",
+               "drawOrderSlot" : "stove1,stove2,stove3,stove4",
+               "readyBones" : "readyFood1,readyFood2,readyFood3,readyFood4"
+            }
+         },
+         "info" : {
+            "totalBones" : "stove1,stove2,stove3,stove4",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/iceCreamContainer_skeleton",
+            "startUpgradeAt" : "2"
+         },
+         "scale" : "0.15f",
+         "wobble" : "false",
+         "cookingSound" : "audio\\surrounding\\blender.ogg",
+         "useSlotXForWaitressDestination" : "true",
+         "waitressDestinationOffsetX" : "-150"
+      },
+      "cone1" : {
+         "idleAnim" : "cone1_idle",
+         "clickAnim" : "cone1_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/iceCreamContainer_skeleton"
+         },
+         "scale" : "0.3f"
+      },
+      "cone2" : {
+         "idleAnim" : "cone2_idle",
+         "clickAnim" : "cone2_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/iceCreamContainer_skeleton"
+         },
+         "scale" : "0.3f"
+      },
+      "cone3" : {
+         "idleAnim" : "cone3_idle",
+         "clickAnim" : "cone3_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/iceCreamContainer_skeleton"
+         },
+         "scale" : "0.3f"
+      },
+      "cone4" : {
+         "idleAnim" : "cone4_idle",
+         "clickAnim" : "cone4_making",
+         "info" : {
+            "tapAction" : {
+               "modifyFood" : ""
+            },
+            "path" : "Images/GameObjects/Food/iceCreamContainer_skeleton"
+         },
+         "scale" : "0.3f"
+      },
+      "cherry" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_cherry_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.4f"
+      },
+      "chocoSyrup" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_chocoSyrup_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.4f"
+      },
+      "chocostick" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_chocostick_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.4f"
+      },
+      "gem" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "foodPlacement",
+               "timerBones" : "timer1",
+               "animation" : "container_gem_idle",
+               "cookingTime" : "4",
+               "price" : "0"
+            }
+         },
+         "info" : {
+            "totalBones" : "foodPlacement",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.4f"
+      },
+      "biscuit" : {
+         "idleAnim" : "container_biscuit_enter",
+         "clickAnim" : "container_biscuit_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_biscuit"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "custard" : {
+         "idleAnim" : "container_custard_idle",
+         "clickAnim" : "container_custard_enter",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_custard"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "fruitCream" : {
+         "idleAnim" : "container_fruitCream_enter",
+         "clickAnim" : "container_fruitCream_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_fruitCream"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "gulabjamuns" : {
+         "idleAnim" : "container_gulabjamuns_enter",
+         "clickAnim" : "container_gulabjamuns_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_gulabjamuns"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "redChip" : {
+         "idleAnim" : "container_redChip_enter",
+         "clickAnim" : "container_redChip_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_redChip"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "sweet" : {
+         "idleAnim" : "container_sweet_enter",
+         "clickAnim" : "container_sweet_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_sweet"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "brownBiscuit" : {
+         "idleAnim" : "container_brownBiscuit_enter",
+         "clickAnim" : "container_brownBiscuit_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_brownBiscuit"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "greenBiscuit" : {
+         "idleAnim" : "container_greenBiscuit_enter",
+         "clickAnim" : "container_greenBiscuit_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_greenBiscuit"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "cyanChip" : {
+         "idleAnim" : "container_cyanChip_enter",
+         "clickAnim" : "container_cyanChip_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_cyanChip"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "purplechip" : {
+         "idleAnim" : "container_purplechip_enter",
+         "clickAnim" : "container_purplechip_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_purplechip"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "cherryBiscuit" : {
+         "idleAnim" : "container_cherryBiscuit_enter",
+         "clickAnim" : "container_cherryBiscuit_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_cherryBiscuit"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "chocoCookie" : {
+         "idleAnim" : "container_chocoCookie_enter",
+         "clickAnim" : "container_chocoCookie_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_chocoCookie"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "chocoSweet" : {
+         "idleAnim" : "container_chocoSweet_enter",
+         "clickAnim" : "container_chocoSweet_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_chocoSweet"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "coconutwater" : {
+         "idleAnim" : "container_coconutwater_enter",
+         "clickAnim" : "container_coconutwater_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_coconutwater"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "jamBiscuit" : {
+         "idleAnim" : "container_jamBiscuit_enter",
+         "clickAnim" : "container_jamBiscuit_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_jamBiscuit"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "kachori" : {
+         "idleAnim" : "container_kachori_enter",
+         "clickAnim" : "container_kachori_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_kachori"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "shirkhand" : {
+         "idleAnim" : "container_shirkhand_enter",
+         "clickAnim" : "container_shirkhand_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_shirkhand"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.35f"
+      },
+      "bis" : {
+         "idleAnim" : "container_bis_enter",
+         "clickAnim" : "container_bis_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_bis"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.4f"
+      },
+      "gajarHalwa" : {
+         "idleAnim" : "container_gajarHalwa_enter",
+         "clickAnim" : "container_gajarHalwa_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_gajarHalwa"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.4f"
+      },
+      "gift" : {
+         "idleAnim" : "container_gift_enter",
+         "clickAnim" : "container_gift_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_gift"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.4f"
+      },
+      "laddoo" : {
+         "idleAnim" : "container_laddoo_enter",
+         "clickAnim" : "container_laddoo_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_laddoo"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.4f"
+      },
+      "motichoor" : {
+         "idleAnim" : "container_motichoor_enter",
+         "clickAnim" : "container_motichoor_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_motichoor"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.4f"
+      },
+      "pastryCake" : {
+         "idleAnim" : "container_pastryCake_enter",
+         "clickAnim" : "container_pastryCake_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_pastryCake"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.4f"
+      },
+      "taco" : {
+         "idleAnim" : "container_taco_enter",
+         "clickAnim" : "container_taco_idle",
+         "info" : {
+            "tapAction" : {
+               "createFood" : "snacks_taco"
+            },
+            "path" : "Images/GameObjects/Food/iceCream"
+         },
+         "scale" : "0.4f"
+      },
+      "blueJuice" : {
+         "levels" : {
+            "1" : {
+               "animation" : "blueJuice_container_level1_idle",
+               "makingAnimation" : "blueJuice_container_level1_making"
+            },
+            "2" : {
+               "animation" : "blueJuice_container_level2_idle",
+               "makingAnimation" : "blueJuice_container_level2_making"
+            },
+            "3" : {
+               "animation" : "blueJuice_container_level3_idle",
+               "makingAnimation" : "blueJuice_container_level3_making"
+            },
+            "4" : {
+               "animation" : "blueJuice_container_level4_idle",
+               "makingAnimation" : "blueJuice_container_level4_making"
+            }
+         },
+         "info" : {
+            "tapAction" : {
+               "createFood" : "blueJuice"
+            },
+            "path" : "Images/GameObjects/Food/iceCreamContainer_skeleton"
+         },
+         "scale" : "0.2f",
+         "autoFill" : "true",
+         "showInQuickShop" : "true"
+      },
+      "yellowJuice" : {
+         "levels" : {
+            "1" : {
+               "animation" : "yellowJuice_container_level1_idle",
+               "makingAnimation" : "yellowJuice_container_level1_making"
+            },
+            "2" : {
+               "animation" : "yellowJuice_container_level2_idle",
+               "makingAnimation" : "yellowJuice_container_level2_making"
+            },
+            "3" : {
+               "animation" : "yellowJuice_container_level3_idle",
+               "makingAnimation" : "yellowJuice_container_level3_making"
+            },
+            "4" : {
+               "animation" : "yellowJuice_container_level4_idle",
+               "makingAnimation" : "yellowJuice_container_level4_making"
+            }
+         },
+         "info" : {
+            "tapAction" : {
+               "createFood" : "yellowJuice"
+            },
+            "path" : "Images/GameObjects/Food/iceCreamContainer_skeleton"
+         },
+         "scale" : "0.2f",
+         "autoFill" : "true",
+         "showInQuickShop" : "true"
+      },
+      "blueJuicePlate" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "glass1",
+               "timerBones" : "timer1",
+               "animation" : "blueJuiceLevel1_idle",
+               "cookingTime" : "3",
+               "price" : "0"
+            },
+            "2" : {
+               "slots" : "2",
+               "bones" : "glass1,glass2",
+               "timerBones" : "timer1,timer2",
+               "animation" : "blueJuiceLevel2_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "3" : {
+               "slots" : "3",
+               "bones" : "glass1,glass2,glass3",
+               "timerBones" : "timer1,timer2,timer3",
+               "animation" : "blueJuiceLevel3_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "4" : {
+               "slots" : "4",
+               "bones" : "glass1,glass2,glass3,glass4",
+               "timerBones" : "timer1,timer2,timer3,timer4",
+               "animation" : "blueJuiceLevel4_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            }
+         },
+         "info" : {
+            "totalBones" : "glass1,glass2,glass3,glass4",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/drinkPlate"
+         },
+         "scale" : "0.4f"
+      },
+      "yellowJuicePlate" : {
+         "levels" : {
+            "1" : {
+               "slots" : "1",
+               "bones" : "glass1",
+               "timerBones" : "timer1",
+               "animation" : "yellowJuiceLevel1_idle",
+               "cookingTime" : "3",
+               "price" : "0"
+            },
+            "2" : {
+               "slots" : "2",
+               "bones" : "glass1,glass2",
+               "timerBones" : "timer1,timer2",
+               "animation" : "yellowJuiceLevel2_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "3" : {
+               "slots" : "3",
+               "bones" : "glass1,glass2,glass3",
+               "timerBones" : "timer1,timer2,timer3",
+               "animation" : "yellowJuiceLevel3_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            },
+            "4" : {
+               "slots" : "4",
+               "bones" : "glass1,glass2,glass3,glass4",
+               "timerBones" : "timer1,timer2,timer3,timer4",
+               "animation" : "yellowJuiceLevel4_idle",
+               "cookingTime" : "3",
+               "price" : "150",
+               "levelToUnlockAt" : "4"
+            }
+         },
+         "info" : {
+            "totalBones" : "glass1,glass2,glass3,glass4",
+            "tapAction" : {
+               "cook" : ""
+            },
+            "path" : "Images/GameObjects/Food/drinkPlate"
+         },
+         "scale" : "0.4f"
+      }
+   }
+}

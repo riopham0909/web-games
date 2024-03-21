@@ -1,0 +1,38 @@
+HP                          ;1500
+acidicBodyDamage            ;1
+range                       ;1000
+hurtVelocityX               ;3
+smallHurtVelocityX          ;1.5
+standLoop                   ;1
+//---FormationAttack        ;attributes
+formationName               ;trangle3,square,trangle3,square
+objectAnim                  ;energyBall60,energyBall70,energyBall90
+formationAnimationSpeed     ;0.5f
+formationAttackSpeedX       ;5
+//---HP                     ;Regen
+healingPerSec               ;15
+doorOpenDelayTime           ;4
+headWeakSpotHP              ;150
+hpRegenAnimLoop             ;25
+hpRegenStartPercent1        ;50
+hpRegenStartPercent2        ;20
+//---Anticipated            ;Attack
+anticipatedAttackLoop       ;3
+anticipatedAttackBulletSpeed;60
+anticipatedAttackBulletDmg  ;2
+//---Chaser                 ;Attack
+chaserAttackLoop            ;1
+waitingChaserAttackLoop     ;1
+chaserAttackBulletDmg       ;1
+chaserAttackBulletSpeed     ;4
+//---Missile                ;Attack
+markedMissileAttackLoopMin  ;6
+markedMissileAttackLoopMax  ;8
+handWeakSpotHP              ;2
+//                          ;--                                    ;Hand;Smasher
+handSmasherLoop             ;2
+handExplosionVFX            ;timelineFX/air/rocketLauncher
+startAttacks                ;false
+// During Chasing
+chaseAttackLoop             ;1
+chaseLoop                   ;1

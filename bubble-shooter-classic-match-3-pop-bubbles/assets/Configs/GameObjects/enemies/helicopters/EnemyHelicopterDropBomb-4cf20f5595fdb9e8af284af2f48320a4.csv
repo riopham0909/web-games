@@ -1,0 +1,12 @@
+HP                   ;25
+speed                ;5
+damage               ;1
+gravity              ;0.1
+maxDownwardVelocity  ;3
+range                ;20
+facePlayer           ;FALSE
+timeBetweenEnemySpawn;2
+dieVelocityX         ;2
+dieVelocityY         ;4
+dieBlinkTime         ;1
+bombImpactVFX        ;timelineFX/blast_ground/small_bot

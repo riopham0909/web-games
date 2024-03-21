@@ -1,0 +1,53 @@
+{
+   "DailyRewards" : {
+     "1": {
+       "Rewards": {
+         "RegularCurrency": "1500"
+       }
+     },
+     "2": {
+       "Rewards": {
+         "PremiumCurrency": "15"
+       }
+     },
+     "3": {
+       "Rewards": {
+         "RegularCurrency": "3000"
+       }
+     },
+     "4": {
+       "Rewards": {
+         "PremiumCurrency": "20"
+       }
+     },
+     "5": {
+       "Rewards": {
+         "RegularCurrency": "6000"
+       }
+     },
+     "6": {
+       "Rewards": {
+         "PremiumCurrency": "30"
+       }
+     },
+     "7": {
+       "Rewards0": {
+         "grenadeLauncher": "1"
+       },
+       "Rewards1": {
+         "PremiumCurrency": "40",
+         "RegularCurrency": "4000",
+         "EnergyDrink": "2"
+       },
+       "Rewards2": {
+         "PremiumCurrency": "60",
+         "AirStrike": "5",
+         "AdrenalinePack": "2"
+       },
+       "Rewards3": {
+         "PremiumCurrency": "40",
+         "RegularCurrency": "6000"
+         }
+      }
+   }
+}

@@ -1,0 +1,12 @@
+HP;30
+acidicBodyDamage;1
+bulletDamage;40
+speed;2
+gravity;0
+maxDownwardVelocity;8
+range;700
+dieVelocityX;2
+dieVelocityY;6
+dieBlinkTime;1
+attackLoop;1
+standLoop;4

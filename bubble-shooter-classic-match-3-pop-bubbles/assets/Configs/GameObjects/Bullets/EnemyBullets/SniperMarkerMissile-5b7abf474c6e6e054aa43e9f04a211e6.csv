@@ -1,0 +1,9 @@
+HP;1
+speed;30
+damage;5
+count;-1
+timeInterval;1.6f
+range;80
+rangeY;50
+explosionScale;1.5
+isDestroyable;true

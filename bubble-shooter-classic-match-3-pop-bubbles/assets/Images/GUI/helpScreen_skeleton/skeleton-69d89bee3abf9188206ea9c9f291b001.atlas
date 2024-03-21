@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+character
+  rotate: false
+  xy: 575, 89
+  size: 146, 145
+  orig: 152, 148
+  offset: 1, 2
+  index: -1
+matchBubbles
+  rotate: false
+  xy: 575, 235
+  size: 402, 273
+  orig: 406, 275
+  offset: 2, 2
+  index: -1
+metalBallPanel
+  rotate: false
+  xy: 978, 236
+  size: 402, 272
+  orig: 402, 272
+  offset: 0, 0
+  index: -1
+overlay
+  rotate: false
+  xy: 575, 51
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+panel
+  rotate: true
+  xy: 1, 1
+  size: 507, 573
+  orig: 507, 574
+  offset: 0, 0
+  index: -1
+playButton
+  rotate: false
+  xy: 1783, 428
+  size: 199, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+rescueFriend
+  rotate: false
+  xy: 1381, 236
+  size: 401, 272
+  orig: 401, 272
+  offset: 0, 0
+  index: -1

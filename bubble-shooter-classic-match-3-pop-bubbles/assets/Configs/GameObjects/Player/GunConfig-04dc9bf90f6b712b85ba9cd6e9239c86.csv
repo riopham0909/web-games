@@ -1,0 +1,388 @@
+// Muzzle Anims
+
+PistolVFX                               ;playerPistol_muzzle
+MagnumPistolVFX                         ;muzzle18
+MachineGunVFX                           ;playerMachineGun_muzzle
+ShotGunVFX                              ;playerShotGunMuzzle
+HammerGunVFX                            ;playerHammerGun_muzzle
+LaserGunVFX                             ;playerLaser_muzzle
+ThunderGunVFX                           ;playerThunderGun_muzzle
+LightningGunVFX                         ;muzzle26
+WeaponXVFX                              ;playerWeaponX_muzzle
+RocketLauncher1VFX                      ;playerRocketLauncher_muzzle
+RocketLauncher2VFX                      ;playerRocketLauncher_muzzle
+RocketLauncher3VFX                      ;playerRocketLauncher_muzzle
+RocketLauncher4VFX                      ;playerRocketLauncher_muzzle
+GatlingGunVFX                           ;muzzle18
+WideGunVFX                              ;playerWideGun_muzzle
+SuperWideGunVFX                         ;superWideGun_muzzle
+GrenadeLauncherVFX                      ;playerGranedeLauncher_muzzle
+HomingGunVFX                            ;playerChaser_muzzle
+FireGunVFX                              ;playerFireGun_muzzle
+BouncyGunVFX                            ;playerBounceGun_muzzle
+AlienGunVFX                             ;playerOmegaGun_muzzle
+PlasmaGunVFX                            ;playerOmegaGun_muzzle
+NuclearBlasterVFX                       ;playerNuclearBlaster_muzzle
+MachineGun1VFX                          ;playerMachineGun_muzzle1
+MachineGun7VFX                          ;playerMachineGun_muzzle2
+MachineGun8VFX                          ;playerMachineGun_muzzle3
+MachineGun2VFX                          ;playerMachineGun_muzzle4
+MachineGun3VFX                          ;playerMachineGun_muzzle5
+MachineGun6VFX                          ;playerMachineGun_muzzle6
+MachineGun4VFX                          ;playerMachineGun_muzzle7
+MachineGun5VFX                          ;timelineFX/playerMuzzle/mgGun
+ShotGun1VFX                             ;muzzle18
+ShotGun2VFX                             ;muzzle18
+ShotGun3VFX                             ;muzzle18
+ShotGun4VFX                             ;muzzle18
+ShotGun5VFX                             ;muzzle18
+Smg1VFX                                 ;playerSMG_muzzle1
+Smg2VFX                                 ;playerSMG_muzzle2
+Smg3VFX                                 ;playerSMG_muzzle3
+Smg4VFX                                 ;playerSmg_muzzle
+Smg5VFX                                 ;playerSMG_muzzle5
+HandGun1VFX                             ;playerPistol_muzzle1
+HandGun2VFX                             ;playerPistol_muzzle2
+HandGun3VFX                             ;playerPistol_muzzle3
+HandGun4VFX                             ;playerPistol_muzzle4
+HandGun5VFX                             ;playerPistol_muzzle5
+HandGun6VFX                             ;playerPistol_muzzle6
+HandGun7VFX                             ;playerPistol_muzzle7
+HandGun8VFX                             ;playerPistol_muzzle8
+
+// Critical Muzzle Anims
+PistolCriticalVFX                       ;playerPistol_muzzle
+MagnumPistolCriticalVFX                 ;muzzle18
+MachineGunCriticalVFX                   ;playerMachineGun_muzzle
+ShotGunCriticalVFX                      ;playerShotGunMuzzle
+HammerGunCriticalVFX                    ;playerHammerGun_muzzle_CR
+LaserGunCriticalVFX                     ;playerLaser_muzzle_CR
+ThunderGunCriticalVFX                   ;playerThunderGun_muzzle_CR
+LightningGunCriticalVFX                 ;muzzle26
+WeaponXCriticalVFX                      ;playerWeaponX_muzzle_CR
+RocketLauncher1CriticalVFX              ;playerRocketLauncher_muzzle_CR
+RocketLauncher2CriticalVFX              ;playerRocketLauncher_muzzle_CR
+RocketLauncher3CriticalVFX              ;playerRocketLauncher_muzzle_CR
+RocketLauncher4CriticalVFX              ;playerRocketLauncher_muzzle_CR
+GatlingGunCriticalVFX                   ;muzzle18
+WideGunCriticalVFX                      ;playerWideGun_muzzle_CR
+SuperWideGunCriticalVFX                 ;superWideGun_muzzle
+GrenadeLauncherCriticalVFX              ;playerGranedeLauncher_muzzle
+HomingGunCriticalVFX                    ;playerChaser_muzzle_CR
+FireGunCriticalVFX                      ;playerFireGun_muzzle
+BouncyGunCriticalVFX                    ;playerBounceGun_muzzle
+AlienGunCriticalVFX                     ;playerProtonGun_muzzle
+PlasmaGunCriticalVFX                    ;playerOmegaGun_muzzle_CR
+NuclearBlasterCriticalVFX               ;playerNuclearBlaster_muzzle_CR
+MachineGun1CriticalVFX                  ;playerMachineGun_muzzle1
+MachineGun7CriticalVFX                  ;playerMachineGun_muzzle2
+MachineGun8CriticalVFX                  ;playerMachineGun_muzzle3
+MachineGun2CriticalVFX                  ;playerMachineGun_muzzle4
+MachineGun3CriticalVFX                  ;playerMachineGun_muzzle5
+MachineGun6CriticalVFX                  ;playerMachineGun_muzzle6
+MachineGun4CriticalVFX                  ;playerMachineGun_muzzle7
+MachineGun5CriticalVFX                  ;timelineFX/playerMuzzle/mgGun_CR
+ShotGun1CriticalVFX                     ;muzzle18
+ShotGun2CriticalVFX                     ;muzzle18
+ShotGun3CriticalVFX                     ;muzzle18
+ShotGun4CriticalVFX                     ;muzzle18
+ShotGun5CriticalVFX                     ;muzzle18
+Smg1CriticalVFX                         ;playerSmg_muzzle_CR
+Smg2CriticalVFX                         ;playerSmg_muzzle_CR
+Smg3CriticalVFX                         ;playerSmg_muzzle_CR
+Smg4CriticalVFX                         ;playerSmg_muzzle_CR
+Smg5CriticalVFX                         ;playerSmg_muzzle_CR
+HandGun1CriticalVFX                     ;playerPistol_muzzle1
+HandGun2CriticalVFX                     ;playerPistol_muzzle2
+HandGun3CriticalVFX                     ;playerPistol_muzzle3
+HandGun4CriticalVFX                     ;playerPistol_muzzle4
+HandGun5CriticalVFX                     ;playerPistol_muzzle5
+HandGun6CriticalVFX                     ;playerPistol_muzzle6
+HandGun7CriticalVFX                     ;playerPistol_muzzle7
+HandGun8CriticalVFX                     ;playerPistol_muzzle8
+
+// Bullet Anims
+
+PistolBulletAnim                        ;playerPistol
+MagnumPistolBulletAnim                  ;playerPistol
+MachineGunBulletAnim                    ;playerMachineGun
+ShotGunBulletAnim                       ;shotGunBig
+HammerGunBulletAnim                     ;playerHammerGunBullet
+LaserGunBulletAnim                      ;0
+ThunderGunBulletAnim                    ;0
+LightningGunBulletAnim                  ;0
+WeaponXBulletAnim                       ;playerWeaponX
+RocketLauncher1BulletAnim               ;playerRocketLauncher
+RocketLauncher2BulletAnim               ;playerRocketLauncher_def
+RocketLauncher3BulletAnim               ;playerRocketLauncher_def
+RocketLauncher4BulletAnim               ;playerRocketLauncher_def
+GatlingGunBulletAnim                    ;playerGatlingGun
+WideGunBulletAnim                       ;playerWideGun
+SuperWideGunBulletAnim                  ;playerSuperWideGun
+GrenadeLauncherBulletAnim               ;playerGrenadeLauncher
+HomingGunBulletAnim                     ;playerChaser
+FireGunBulletAnim                       ;playerFireBall
+BouncyGunBulletAnim                     ;playerBouncingBullet
+AlienGunBulletAnim                      ;playerProtonBullet
+PlasmaGunBulletAnim                     ;playerOmegaGun
+NuclearBlasterBulletAnim                ;nuclearBlaster
+MachineGun1BulletAnim                   ;playerMachineGun1
+MachineGun7BulletAnim                   ;playerMachineGun2
+MachineGun8BulletAnim                   ;playerMachineGun3
+MachineGun2BulletAnim                   ;playerMachineGun4
+MachineGun3BulletAnim                   ;playerMachineGun5
+MachineGun6BulletAnim                   ;playerMachineGun6
+MachineGun4BulletAnim                   ;playerMachineGun7
+MachineGun5BulletAnim                   ;playerMachineGun8
+ShotGun1BulletAnim                      ;shotGunSmall
+ShotGun2BulletAnim                      ;shotGunSmall
+ShotGun3BulletAnim                      ;shotGunSmall
+ShotGun4BulletAnim                      ;shotGunBig
+ShotGun5BulletAnim                      ;shotGunBig
+Smg1BulletAnim                          ;playerSMG1
+Smg2BulletAnim                          ;playerSMG2
+Smg3BulletAnim                          ;playerSMG3
+Smg4BulletAnim                          ;playerSmg
+Smg5BulletAnim                          ;playerSMG5
+HandGun1BulletAnim                      ;playerPistol1
+HandGun2BulletAnim                      ;playerPistol2
+HandGun3BulletAnim                      ;playerPistol3
+HandGun4BulletAnim                      ;playerPistol4
+HandGun5BulletAnim                      ;playerPistol5
+HandGun6BulletAnim                      ;playerPistol6
+HandGun7BulletAnim                      ;playerPistol7
+HandGun8BulletAnim                      ;playerPistol8
+
+
+// Impact Anims
+
+PistolImpactVFX                         ;playerPistol_impact
+MagnumPistolImpactVFX                   ;impact4
+MachineGunImpactVFX                     ;playerMachineGun_impact
+ShotGunImpactVFX                        ;impact6
+HammerGunImpactVFX                      ;playerHammerGun_impact
+LaserGunImpactVFX                       ;playerLeser_impact
+ThunderGunImpactVFX                     ;playerThunder_impact
+LightningGunImpactVFX                   ;impact9
+WeaponXImpactVFX                        ;timelineFX/air/rocketLauncher_CR
+RocketLauncher1ImpactVFX                ;timelineFX/air/rocketLauncher
+RocketLauncher2ImpactVFX                ;timelineFX/air/rocketLauncher
+RocketLauncher3ImpactVFX                ;timelineFX/air/rocketLauncher
+RocketLauncher4ImpactVFX                ;timelineFX/air/rocketLauncher
+GatlingGunImpactVFX                     ;impact12a
+WideGunImpactVFX                        ;timelineFX/impact/wideGun
+SuperWideGunImpactVFX                   ;superWideGun_impact
+GrenadeLauncherImpactVFX                ;spine/smallBlast
+HomingGunImpactVFX                      ;timelineFX/air/rocketLauncher
+FireGunImpactVFX                        ;playerFireGun_impact
+BouncyGunImpactVFX                      ;playerBounceGun_impact
+AlienGunImpactVFX                       ;playerProtonGun_impact
+PlasmaGunImpactVFX                      ;playerOmegaGun_impact
+NuclearBlasterImpactVFX                 ;playerNuclearBlaster_impact
+MachineGun1ImpactVFX                    ;timelineFX/impact/machineGun
+MachineGun2ImpactVFX                    ;timelineFX/impact/machineGun
+MachineGun3ImpactVFX                    ;timelineFX/impact/machineGun
+MachineGun4ImpactVFX                    ;timelineFX/impact/machineGun
+MachineGun5ImpactVFX                    ;timelineFX/impact/machineGun
+MachineGun6ImpactVFX                    ;timelineFX/impact/machineGun
+MachineGun7ImpactVFX                    ;timelineFX/impact/machineGun
+MachineGun8ImpactVFX                    ;timelineFX/impact/machineGun
+ShotGun1ImpactVFX                       ;---
+ShotGun2ImpactVFX                       ;---
+ShotGun3ImpactVFX                       ;---
+ShotGun4ImpactVFX                       ;---
+ShotGun5ImpactVFX                       ;---
+Smg1ImpactVFX                           ;playerSmg_impact
+Smg2ImpactVFX                           ;playerSmg_impact
+Smg3ImpactVFX                           ;playerSmg_impact
+Smg4ImpactVFX                           ;playerSmg_impact
+Smg5ImpactVFX                           ;playerSmg_impact
+HandGun1ImpactVFX                       ;playerPistol_impact1
+HandGun2ImpactVFX                       ;playerPistol_impact2
+HandGun3ImpactVFX                       ;playerPistol_impact3
+HandGun4ImpactVFX                       ;playerPistol_impact4
+HandGun5ImpactVFX                       ;playerPistol_impact5
+HandGun6ImpactVFX                       ;playerPistol_impact6
+HandGun7ImpactVFX                       ;playerPistol_impact7
+HandGun8ImpactVFX                       ;playerPistol_impact8
+WeaponXImpactVFX                        ;timelineFX/blast/small
+
+
+
+// Critical Bullet Anims
+
+PistolBulletCriticalAnim                ;playerPistol_CR
+MagnumPistolBulletCriticalAnim          ;playerPistol
+MachineGunBulletCriticalAnim            ;playerMachineGun
+ShotGunBulletCriticalAnim               ;shotGunBig
+HammerGunBulletCriticalAnim             ;playerHammerGunBullet_CR
+LaserGunBulletCriticalAnim              ;0
+ThunderGunBulletCriticalAnim            ;0
+LightningGunBulletCriticalAnim          ;0
+WeaponXBulletCriticalAnim               ;playerWeaponX_CR
+RocketLauncher1BulletCriticalAnim       ;playerRocketLauncher_CR
+RocketLauncher2BulletCriticalAnim       ;playerRocketLauncher_def_CR
+RocketLauncher3BulletCriticalAnim       ;playerRocketLauncher_def_CR
+RocketLauncher4BulletCriticalAnim       ;playerRocketLauncher_def_CR
+GatlingGunBulletCriticalAnim            ;playerGatlingGun
+WideGunBulletCriticalAnim               ;playerWideGun_CR
+SuperWideGunBulletCriticalAnim          ;playerSuperWideGun_CR
+GrenadeLauncherBulletCriticalAnim       ;playerGrenadeLauncher_CR
+HomingGunBulletCriticalAnim             ;playerChaser_CR
+FireGunBulletCriticalAnim               ;playerFireBall_CR
+BouncyGunBulletCriticalAnim             ;playerBouncingBullet_CR
+AlienGunBulletCriticalAnim              ;playerProtonBullet_CR
+PlasmaGunBulletCriticalAnim             ;playerOmegaGun_CR
+NuclearBlasterBulletCriticalAnim        ;nuclearBlaster_CR
+MachineGun1BulletCriticalAnim           ;playerMachineGun_CR
+MachineGun2BulletCriticalAnim           ;playerMachineGun_CR
+MachineGun3BulletCriticalAnim           ;playerMachineGun_CR
+MachineGun4BulletCriticalAnim           ;playerMachineGun_CR
+MachineGun5BulletCriticalAnim           ;playerMachineGun_CR
+MachineGun6BulletCriticalAnim           ;playerMachineGun_CR
+MachineGun7BulletCriticalAnim           ;playerMachineGun_CR
+MachineGun8BulletCriticalAnim           ;playerMachineGun_CR
+ShotGun1BulletCriticalAnim              ;shotGunSmall_CR
+ShotGun2BulletCriticalAnim              ;shotGunSmall_CR
+ShotGun3BulletCriticalAnim              ;shotGunSmall_CR
+ShotGun4BulletCriticalAnim              ;shotGunBig_CR
+ShotGun5BulletCriticalAnim              ;shotGunBig_CR
+Smg1BulletCriticalAnim                  ;playerSmg_CR
+Smg2BulletCriticalAnim                  ;playerSmg_CR
+Smg3BulletCriticalAnim                  ;playerSmg_CR
+Smg4BulletCriticalAnim                  ;playerSmg_CR
+Smg5BulletCriticalAnim                  ;playerSmg_CR
+HandGun1BulletCriticalAnim              ;playerPistol_CR
+HandGun2BulletCriticalAnim              ;playerPistol_CR
+HandGun3BulletCriticalAnim              ;playerPistol_CR
+HandGun4BulletCriticalAnim              ;playerPistol_CR
+HandGun5BulletCriticalAnim              ;playerPistol_CR
+HandGun6BulletCriticalAnim              ;playerPistol_CR
+HandGun7BulletCriticalAnim              ;playerPistol_CR
+HandGun8BulletCriticalAnim              ;playerPistol_CR
+
+
+// Critcal Impact Anims
+
+PistolCriticalImpactVFX                 ;playerPistol_impact_CR
+MagnumPistolCriticalImpactVFX           ;impact4
+MachineGunCriticalImpactVFX             ;playerMachineGun_impact_CR
+ShotGunCriticalImpactVFX                ;impact6
+HammerGunCriticalImpactVFX              ;playerHammerGun_impact_CR
+LaserGunCriticalImpactVFX               ;playerLeser_impact_CR
+ThunderGunCriticalImpactVFX             ;playerThunder_impact_CR
+LightningGunCriticalImpactVFX           ;impact9
+WeaponXCriticalImpactVFX                ;timelineFX/blast/small
+RocketLauncher1CriticalImpactVFX        ;timelineFX/air/rocketLauncher_CR
+RocketLauncher2CriticalImpactVFX        ;timelineFX/air/rocketLauncher_CR
+RocketLauncher3CriticalImpactVFX        ;timelineFX/air/rocketLauncher_CR
+RocketLauncher4CriticalImpactVFX        ;timelineFX/air/rocketLauncher_CR
+GatlingGunCriticalImpactVFX             ;impact12
+WideGunCriticalImpactVFX                ;timelineFX/impact/wideGun_CR
+SuperWideGunCriticalImpactVFX           ;playerWideGun_impact_CR
+GrenadeLauncherCriticalImpactVFX        ;spine/smallBlast
+HomingGunCriticalImpactVFX              ;timelineFX/air/rocketLauncher_CR
+FireGunCriticalImpactVFX                ;playerFireGun_impact_CR
+BouncyGunCriticalImpactVFX              ;playerBounceGun_impact
+AlienGunCriticalImpactVFX               ;playerProtonGun_impact_CR
+PlasmaGunCriticalImpactVFX              ;playerOmegaGun_impact_CR
+NuclearBlasterCriticalImpactVFX         ;playerNuclearBlaster_impact_CR
+MachineGun1CriticalImpactVFX            ;playerMachineGun_impact_CR
+MachineGun2CriticalImpactVFX            ;playerMachineGun_impact_CR
+MachineGun3CriticalImpactVFX            ;playerMachineGun_impact_CR
+MachineGun4CriticalImpactVFX            ;playerMachineGun_impact_CR
+MachineGun5CriticalImpactVFX            ;timelineFX/impact/machineGunCR
+MachineGun6CriticalImpactVFX            ;timelineFX/impact/machineGun_CR
+MachineGun7CriticalImpactVFX            ;timelineFX/impact/machineGun_CR
+MachineGun8CriticalImpactVFX            ;timelineFX/impact/machineGun_CR
+ShotGun1CriticalImpactVFX               ;---
+ShotGun2CriticalImpactVFX               ;---
+ShotGun3CriticalImpactVFX               ;---
+ShotGun4CriticalImpactVFX               ;---
+ShotGun5CriticalImpactVFX               ;---
+Smg1CriticalImpactVFX                   ;playerSmg_impact_CR
+Smg2CriticalImpactVFX                   ;playerSmg_impact_CR
+Smg3CriticalImpactVFX                   ;playerSmg_impact_CR
+Smg4CriticalImpactVFX                   ;playerSmg_impact_CR
+Smg5CriticalImpactVFX                   ;playerSmg_impact_CR
+HandGun1CriticalImpactVFX               ;playerPistol_impact_CR
+HandGun2CriticalImpactVFX               ;playerPistol_impact_CR
+HandGun3CriticalImpactVFX               ;playerPistol_impact_CR
+HandGun4CriticalImpactVFX               ;playerPistol_impact_CR
+HandGun5CriticalImpactVFX               ;playerPistol_impact_CR
+HandGun6CriticalImpactVFX               ;playerPistol_impact_CR
+HandGun7CriticalImpactVFX               ;playerPistol_impact_CR
+HandGun8CriticalImpactVFX               ;playerPistol_impact_CR
+
+// Water Impact Anims
+
+WeaponXWaterImpactVFX                   ;timelineFX/waterExplosion/water_rocketLauncher_CR
+RocketLauncher1WaterImpactVFX           ;timelineFX/waterExplosion/water_rocketLauncher
+HomingGunWaterImpactVFX                 ;timelineFX/waterExplosion/water_rocketLauncher
+
+
+// Water Critical Impact Anims
+
+WeaponXWaterCriticalImpactVFX           ;timelineFX/waterExplosion/water_rocketLauncher_CR
+RocketLauncher1WaterCriticalImpactVFX   ;timelineFX/waterExplosion/water_rocketLauncher_CR
+HomingGunWaterCriticalImpactVFX         ;timelineFX/waterExplosion/water_rocketLauncher_CR
+
+//-------- Trail ParticleEffect
+RocketLauncher1Trail                    ;playerTrail/rocketLauncher
+HomingGunTrail                          ;playerTrail/chaser
+HammerGunTrail                          ;playerTrail/hammer
+WeaponXTrail                            ;
+PlasmaGunTrail                          ;playerTrail/OmegaGun
+MachineGun5Trail                        ;
+WideGunTrail                            ;
+
+
+
+//-------- Critical Trail ParticleEffect
+RocketLauncher1CriticalTrail            ;playerTrail/rocketLauncher_CR
+HomingGunCriticalTrail                  ;playerTrail/rocketLauncher_CR
+HammerGunCriticalTrail                  ;playerTrail/hammer_CR
+WeaponXCriticalTrail                    ;
+PlasmaGunCriticalTrail                  ;playerTrail/OmegaGun_CR
+NuclearBlasterCriticalTrail             ;playerTrail/NuclearBlaster_CR
+MachineGun5CriticalTrail                ;
+WideGunCriticalTrail                    ;
+
+//-------- Water ParticleEffect
+RocketLauncher1WaterTrail               ;waterTrail/waterRocketLauncher
+HomingGunWaterTrail                     ;waterTrail/waterPlayerChaser
+HammerGunWaterTrail                     ;playerTrail/hammer
+WeaponXWaterTrail                       ;waterTrail/waterPlayerChaser
+PlasmaGunWaterTrail                     ;playerTrail/OmegaGun
+
+
+//-------- Water Critical ParticleEffect
+RocketLauncher1CriticalWaterTrail       ;waterTrail/waterRocketLauncher_CR
+HomingGunCriticalWaterTrail             ;waterTrail/waterPlayerChaser_CR
+HammerGunCriticalWaterTrail             ;playerTrail/hammer_CR
+WeaponXCriticalWaterTrail               ;waterTrail/waterPlayerChaser_CR
+PlasmaGunCriticalWaterTrail             ;playerTrail/OmegaGun_CR
+NuclearBlasterCriticalWaterTrail        ;playerTrail/NuclearBlaster_CR
+
+// --------- Charging VFX
+MachineGun5ChargingVFX                  ;timelineFX/charge/machineGun
+Smg4ChargingVFX                         ;timelineFX/charge/smg
+RocketLauncher1ChargingVFX              ;timelineFX/charge/rocketLauncher
+HomingGunChargingVFX                    ;timelineFX/charge/chaser
+HammerGunChargingVFX                    ;timelineFX/charge/hammer
+WeaponXChargingVFX                      ;timelineFX/charge/WeaponX
+PlasmaGunChargingVFX                    ;timelineFX/charge/omega
+NuclearBlasterChargingVFX               ;timelineFX/charge/nuclearBlaster
+ShotGun5ChargingVFX                     ;timelineFX/charge/shotGun
+FireGunChargingVFX                      ;timelineFX/charge/fireGun
+LaserGunChargingVFX                     ;timelineFX/charge/laser
+ThunderGunChargingVFX                   ;timelineFX/charge/thunder
+WideGunChargingVFX                      ;timelineFX/charge/wideGun
+
+//-----Grenade Launcher
+// For Horizontal Shoot
+minSpeed                                ;25
+maxSpeed                                ;50
+// For Upward Shoot
+height                                  ;400
+range                                   ;100

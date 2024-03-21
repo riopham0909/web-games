@@ -1,0 +1,7 @@
+HP;9999
+damage;100
+damageMultiplier;15
+gravity;2
+maxDownwardVelocity;8
+timeInterval;3
+restTimer;2

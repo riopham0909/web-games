@@ -1,0 +1,17 @@
+
+// bullet anim name|;cam shake values on die
+//playerSmg         ;camShakeBigEarthquake
+jellyfish2_bullet         ;camShakeVeryTiny
+smallGuy                  ;camShakeSmall
+airStrike2.3              ;camShakeSmall
+CE_comodo                 ;camShakeSmall
+rocket4                   ;camShakeTiny
+rocket5                   ;camShakeTiny
+rocket10                  ;camShakeTiny
+rocket11_ninja            ;camShakeVeryTiny
+rocket14                  ;camShakeMedium
+rocket5_MS               ;camShakeVeryTiny
+rocket15                  ;camShakeVeryTiny
+energyBall12              ;camShakeSmall
+energyBall8               ;camShakeSmall
+giantRobo_fireBall        ;camShakeSmall

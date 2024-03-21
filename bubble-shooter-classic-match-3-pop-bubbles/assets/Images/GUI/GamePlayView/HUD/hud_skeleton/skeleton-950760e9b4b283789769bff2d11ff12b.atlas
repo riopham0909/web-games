@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3way
+  rotate: false
+  xy: 586, 41
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 784, 56
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+ballBase
+  rotate: false
+  xy: 277, 31
+  size: 155, 56
+  orig: 155, 56
+  offset: 0, 0
+  index: -1
+ballBase2
+  rotate: false
+  xy: 1, 19
+  size: 172, 40
+  orig: 172, 40
+  offset: 0, 0
+  index: -1
+balls
+  rotate: false
+  xy: 686, 47
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+bar
+  rotate: true
+  xy: 1003, 122
+  size: 133, 20
+  orig: 133, 20
+  offset: 0, 0
+  index: -1
+basePowerPanel
+  rotate: false
+  xy: 433, 49
+  size: 152, 38
+  orig: 152, 38
+  offset: 0, 0
+  index: -1
+blueFill
+  rotate: false
+  xy: 650, 101
+  size: 133, 20
+  orig: 133, 20
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 636, 31
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+colorSquare
+  rotate: false
+  xy: 216, 8
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 1, 88
+  size: 634, 6
+  orig: 634, 6
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 1, 95
+  size: 648, 160
+  orig: 648, 160
+  offset: 0, 0
+  index: -1
+panelExtention1
+  rotate: true
+  xy: 869, 75
+  size: 180, 133
+  orig: 180, 133
+  offset: 0, 0
+  index: -1
+panelExtention2
+  rotate: false
+  xy: 650, 122
+  size: 218, 133
+  orig: 218, 133
+  offset: 0, 0
+  index: -1
+panelExtention3
+  rotate: false
+  xy: 650, 122
+  size: 218, 133
+  orig: 218, 133
+  offset: 0, 0
+  index: -1
+pinkFill
+  rotate: false
+  xy: 433, 28
+  size: 133, 20
+  orig: 133, 20
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 174, 1
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+starBase
+  rotate: false
+  xy: 1, 60
+  size: 275, 27
+  orig: 275, 27
+  offset: 0, 0
+  index: -1
+tiger
+  rotate: false
+  xy: 720, 48
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+timerIcon
+  rotate: true
+  xy: 268, 1
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+yellowFill
+  rotate: false
+  xy: 650, 80
+  size: 133, 20
+  orig: 133, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,35 @@
+gravity                         ;0.8
+explosionFrameWidth             ;600
+explosionFrameHeight            ;600
+explosionFrameDamage            ;20
+explosionFrameCriticalDamage    ;40
+damage                          ;20
+criticalDamage                  ;40
+grenadeAnimationName            ;playerGrenade
+grenadeCriticalAnimationName    ;playerGrenade_CR
+
+groundHitBlastLand              ;timelineFX/grenade/grenade_player
+groundHitBlastCriticalLand      ;timelineFX/grenade/grenade_player_CR
+
+airBlastLand                    ;timelineFX/grenade/airGrenade_player
+airBlastCriticalLand            ;timelineFX/grenade/airGrenade_player_CR
+
+groundHitBlastWater             ;timelineFX/waterExplosion/waterExplosion_playerGrenade
+groundHitBlastCriticalWater     ;timelineFX/waterExplosion/waterExplosion_playerGrenade_CR
+
+airBlastWater                   ;timelineFX/waterExplosion/waterExplosion_airPlayerGrenade
+airBlastCriticalWater           ;timelineFX/waterExplosion/waterExplosion_airPlayerGrenade_CR
+
+groundHitBlastLandScale         ;2.5
+groundHitBlastCriticalLandScale ;3.5
+
+airBlastLandScale               ;2.5
+airBlastCriticalLandScale       ;3.5
+
+groundHitBlastWaterScale        ;2.5
+groundHitBlastCriticalWaterScale;3.5
+
+airBlastWaterScale              ;2.5
+airBlastCriticalWaterScale      ;3.5
+
+

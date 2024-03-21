@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1649,782
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ballBase
+  rotate: false
+  xy: 2, 26
+  size: 201, 73
+  orig: 201, 73
+  offset: 0, 0
+  index: -1
+coin
+  rotate: true
+  xy: 479, 31
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+completed
+  rotate: false
+  xy: 546, 12
+  size: 257, 35
+  orig: 257, 35
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 2, 2
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 598, 49
+  size: 122, 139
+  orig: 122, 139
+  offset: 0, 0
+  index: -1
+nextLevel
+  rotate: false
+  xy: 722, 52
+  size: 347, 136
+  orig: 347, 136
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 2, 101
+  size: 565, 679
+  orig: 565, 679
+  offset: 0, 0
+  index: -1
+rainBow
+  rotate: false
+  xy: 1157, 67
+  size: 413, 217
+  orig: 413, 217
+  offset: 0, 0
+  index: -1
+score
+  rotate: false
+  xy: 805, 15
+  size: 172, 35
+  orig: 172, 35
+  offset: 0, 0
+  index: -1
+spark1
+  rotate: true
+  xy: 1157, 286
+  size: 494, 490
+  orig: 494, 490
+  offset: 0, 0
+  index: -1
+spark2
+  rotate: true
+  xy: 569, 190
+  size: 590, 586
+  orig: 590, 586
+  offset: 0, 0
+  index: -1
+tinyStar
+  rotate: false
+  xy: 546, 49
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+watchAds
+  rotate: false
+  xy: 205, 30
+  size: 272, 69
+  orig: 272, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,18 @@
+runSpeedTank         ;10
+maxHPTank            ;5
+maxAmmoTank          ;-1
+machineGunLerpSpeed  ;10
+maxTimeToGetOut      ;0.5
+maxTimeToTint        ;0.13
+originalVelXLerpSpeed;0.1
+machineGunDamage     ;1.4
+missileDamage        ;7
+machineGunOffset     ;7
+bouncyBallImpactVFX  ;timelineFX/air/enemyChaserImpact
+//------             ;
+dieVelocityX         ;2
+dieVelocityY         ;6
+dieBlinkTime         ;0.5
+dieBlast             ;smallBlast
+dieBlastTimer        ;0.4
+hurtBlinkTime        ;2

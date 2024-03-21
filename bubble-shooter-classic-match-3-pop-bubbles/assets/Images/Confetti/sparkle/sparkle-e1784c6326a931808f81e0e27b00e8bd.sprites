@@ -1,0 +1,6 @@
+<img name="partyShoot3.png">
+
+	<spr name="sparkle1.png" x="0" y="37" w="27" h="26" fx="0" fy="0" fw="27" fh="26">
+	<spr name="sparkle2.png" x="0" y="0" w="36" h="37" fx="1" fy="1" fw="38" fh="39">
+</img>
+

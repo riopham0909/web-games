@@ -1,0 +1,6 @@
+HP                 ;1
+speed              ;5
+damage             ;1
+gravity            ;0.5f
+maxDownwardVelocity;8
+explosionVFX       ;timelineFX/blast/small

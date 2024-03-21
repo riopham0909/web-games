@@ -1,0 +1,11 @@
+HP;25
+hpShield;20
+damage;40
+speed;10
+gravity;0.5
+maxDownwardVelocity;6
+range;200
+dieVelocityX;2
+dieVelocityY;6
+dieBlinkTime;1
+pathFacingDirection;1

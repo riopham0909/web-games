@@ -1,0 +1,5 @@
+HP;1
+maxDownwardVelocity;8
+speed;12
+gravity;0.2
+isDestroyable;true

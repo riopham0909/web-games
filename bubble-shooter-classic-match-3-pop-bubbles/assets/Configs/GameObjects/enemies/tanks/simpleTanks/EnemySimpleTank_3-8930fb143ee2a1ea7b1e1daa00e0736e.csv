@@ -1,0 +1,12 @@
+HP                 ;15
+speed              ;3
+acidicBodyDamage   ;1
+bulletDamage       ;3
+gravity            ;0.5
+maxDownwardVelocity;8
+range              ;700
+dieVelocityX       ;2
+dieVelocityY       ;6
+dieBlinkTime       ;1
+attackLoop         ;3
+bouncyBallImpactVFX;timelineFX/air/enemyChaserImpact

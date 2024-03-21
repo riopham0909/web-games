@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blueRay
+  rotate: false
+  xy: 331, 196
+  size: 149, 310
+  orig: 149, 310
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 481, 345
+  size: 221, 161
+  orig: 221, 161
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 703, 468
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+levelFailed
+  rotate: false
+  xy: 481, 323
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1
+nextLevel
+  rotate: false
+  xy: 1, 30
+  size: 202, 79
+  orig: 202, 79
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 1, 110
+  size: 329, 396
+  orig: 329, 396
+  offset: 0, 0
+  index: -1
+score
+  rotate: false
+  xy: 331, 174
+  size: 100, 21
+  orig: 100, 21
+  offset: 0, 0
+  index: -1
+waterDrops
+  rotate: false
+  xy: 1, 1
+  size: 2, 28
+  orig: 2, 28
+  offset: 0, 0
+  index: -1

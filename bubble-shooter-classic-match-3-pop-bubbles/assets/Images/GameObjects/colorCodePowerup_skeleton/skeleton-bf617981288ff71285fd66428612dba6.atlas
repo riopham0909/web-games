@@ -1,0 +1,307 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3way
+  rotate: false
+  xy: 711, 627
+  size: 127, 118
+  orig: 127, 118
+  offset: 0, 0
+  index: -1
+3way_3way
+  rotate: false
+  xy: 442, 629
+  size: 134, 129
+  orig: 134, 129
+  offset: 0, 0
+  index: -1
+3way_3way_shoot
+  rotate: true
+  xy: 1, 20
+  size: 64, 142
+  orig: 64, 142
+  offset: 0, 0
+  index: -1
+3way_shoot
+  rotate: true
+  xy: 196, 246
+  size: 46, 122
+  orig: 46, 122
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 543, 307
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 577, 630
+  size: 133, 125
+  orig: 165, 141
+  offset: 20, 7
+  index: -1
+a3
+  rotate: false
+  xy: 1, 85
+  size: 163, 170
+  orig: 165, 187
+  offset: 0, 11
+  index: -1
+a4
+  rotate: false
+  xy: 240, 425
+  size: 82, 78
+  orig: 99, 99
+  offset: 8, 14
+  index: -1
+bomb
+  rotate: true
+  xy: 196, 293
+  size: 130, 128
+  orig: 130, 128
+  offset: 0, 0
+  index: -1
+bomb_3way
+  rotate: false
+  xy: 823, 875
+  size: 180, 146
+  orig: 180, 146
+  offset: 0, 0
+  index: -1
+bomb_bomb
+  rotate: false
+  xy: 270, 626
+  size: 171, 147
+  orig: 171, 161
+  offset: 0, 7
+  index: -1
+bomb_colorSquare
+  rotate: false
+  xy: 297, 867
+  size: 288, 154
+  orig: 288, 154
+  offset: 0, 0
+  index: -1
+colorSquare
+  rotate: false
+  xy: 746, 746
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+colorSquare/01
+  rotate: false
+  xy: 478, 759
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+colorSquare/02
+  rotate: false
+  xy: 839, 637
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/03
+  rotate: false
+  xy: 165, 137
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/04
+  rotate: false
+  xy: 165, 28
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/05
+  rotate: false
+  xy: 274, 137
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/06
+  rotate: false
+  xy: 274, 28
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/07
+  rotate: false
+  xy: 240, 504
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/08
+  rotate: false
+  xy: 349, 517
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/09
+  rotate: false
+  xy: 458, 520
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/10
+  rotate: false
+  xy: 349, 408
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/11
+  rotate: false
+  xy: 458, 411
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/12
+  rotate: false
+  xy: 325, 299
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/13
+  rotate: false
+  xy: 434, 299
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/14
+  rotate: false
+  xy: 383, 190
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/15
+  rotate: false
+  xy: 383, 81
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/16
+  rotate: false
+  xy: 492, 190
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare/17
+  rotate: false
+  xy: 492, 81
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+colorSquare_3way
+  rotate: false
+  xy: 1, 808
+  size: 295, 213
+  orig: 295, 213
+  offset: 0, 0
+  index: -1
+colorSquare_colorSquare
+  rotate: false
+  xy: 875, 746
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fireBall
+  rotate: true
+  xy: 297, 774
+  size: 92, 180
+  orig: 105, 182
+  offset: 5, 0
+  index: -1
+fireBall_3way
+  rotate: false
+  xy: 1, 256
+  size: 194, 167
+  orig: 194, 167
+  offset: 0, 0
+  index: -1
+fireBall_bomb
+  rotate: false
+  xy: 1, 424
+  size: 238, 188
+  orig: 238, 188
+  offset: 0, 0
+  index: -1
+fireBall_colorSquare
+  rotate: false
+  xy: 1, 613
+  size: 268, 194
+  orig: 268, 194
+  offset: 0, 0
+  index: -1
+fireBall_fireBall
+  rotate: true
+  xy: 586, 916
+  size: 105, 236
+  orig: 105, 236
+  offset: 0, 0
+  index: -1
+flame/flame1
+  rotate: false
+  xy: 1, 1
+  size: 15, 18
+  orig: 46, 36
+  offset: 16, 9
+  index: -1
+flame/flame2
+  rotate: true
+  xy: 270, 779
+  size: 28, 24
+  orig: 46, 36
+  offset: 9, 6
+  index: -1
+flame/flame3
+  rotate: false
+  xy: 746, 883
+  size: 30, 32
+  orig: 46, 36
+  offset: 8, 2
+  index: -1
+flame/flame4
+  rotate: true
+  xy: 319, 246
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+flame/glow
+  rotate: false
+  xy: 948, 673
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+glowBubble
+  rotate: false
+  xy: 586, 756
+  size: 159, 159
+  orig: 160, 160
+  offset: 0, 1
+  index: -1

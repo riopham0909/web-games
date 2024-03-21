@@ -1,0 +1,777 @@
+{
+   "burgerTheme" : {
+      "burger_patty" : {
+         "scale" : "0.4",
+         "orderPanelScale" : "0.35f",
+         "path" : "Images/GameObjects/Food/burger",
+         "stages" : [ "raw", "pan", "bun1,bun2,bun3,bun4", "cheese,lettuce,bacon,tomato" ],
+         "stagesCost" : [ "5", "5", "10", "10" ],
+         "handOffsetY" : "-30",
+         "attachments" : {
+            "cheese" : {
+               "food_topping" : "burger_food_topping_cheese"
+            },
+            "lettuce" : {
+               "food_topping" : "burger_food_topping_lettuce"
+            },
+            "bacon" : {
+               "food_topping" : "burger_food_topping_bacon"
+            },
+            "tomato" : {
+               "food_topping" : "burger_food_topping_tomato"
+            }
+         },
+         "canBeServedRaw" : "false"
+      },
+      "hotdog_patty" : {
+         "scale" : "0.3",
+         "orderPanelScale" : "0.3f",
+         "path" : "Images/GameObjects/Food/burger",
+         "stages" : [ "raw", "pan", "bun1,bun2,bun3,bun4", "cheese,lettuce,bacon,tomato" ],
+         "stagesCost" : [ "5", "5", "10", "10" ],
+         "handOffsetY" : "-30",
+         "attachments" : {
+            "cheese" : {
+               "food_topping" : "hotdog_food_topping_cheese"
+            },
+            "lettuce" : {
+               "food_topping" : "hotdog_food_topping_lettuce"
+            },
+            "bacon" : {
+               "food_topping" : "hotdog_food_topping_bacon"
+            },
+            "tomato" : {
+               "food_topping" : "hotdog_food_topping_tomato"
+            }
+         },
+         "canBeServedRaw" : "false"
+      },
+      "egg_patty" : {
+         "scale" : "0.3",
+         "orderPanelScale" : "0.28f",
+         "path" : "Images/GameObjects/Food/burger",
+         "stages" : [ "raw", "pan", "bun1,bun2,bun3,bun4", "cheese,lettuce,bacon,tomato" ],
+         "stagesCost" : [ "5", "5", "10", "10" ],
+         "handOffsetY" : "-30",
+         "attachments" : {
+            "cheese" : {
+               "food_topping" : "egg_food_topping_cheese"
+            },
+            "lettuce" : {
+               "food_topping" : "egg_food_topping_lettuce"
+            },
+            "bacon" : {
+               "food_topping" : "egg_food_topping_bacon"
+            },
+            "tomato" : {
+               "food_topping" : "egg_food_topping_tomato"
+            }
+         },
+         "canBeServedRaw" : "false"
+      },
+      "snacks_fries" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.55f",
+         "path" : "Images/GameObjects/Food/burger",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_chips" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.55f",
+         "path" : "Images/GameObjects/Food/burger",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_cheetos" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.55f",
+         "path" : "Images/GameObjects/Food/burger",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_cookies" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.55f",
+         "path" : "Images/GameObjects/Food/burger",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_eggRolls" : {
+         "scale" : "0.35",
+         "orderPanelScale" : "0.3f",
+         "path" : "Images/GameObjects/Food/burger",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_iceCreamSandwich" : {
+         "scale" : "0.3",
+         "orderPanelScale" : "0.35f",
+         "path" : "Images/GameObjects/Food/burger",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_popcorn" : {
+         "scale" : "0.35",
+         "orderPanelScale" : "0.35f",
+         "path" : "Images/GameObjects/Food/burger",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_samosas" : {
+         "scale" : "0.35",
+         "orderPanelScale" : "0.3f",
+         "path" : "Images/GameObjects/Food/burger",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "orangeJuice" : {
+         "scale" : "0.4",
+         "orderPanelScale" : "0.42f",
+         "path" : "Images/GameObjects/Food/burger",
+         "canBeServedRaw" : "false",
+         "stages" : [ "raw", "orangeJuicePlate" ],
+         "stagesCost" : [ "10", "10" ],
+         "handOffsetY" : "-50"
+      },
+      "colaJuice" : {
+         "scale" : "0.4",
+         "orderPanelScale" : "0.42f",
+         "path" : "Images/GameObjects/Food/burger",
+         "canBeServedRaw" : "false",
+         "stages" : [ "raw", "colaJuicePlate" ],
+         "stagesCost" : [ 10, 10 ],
+         "handOffsetY" : "-50"
+      }
+   },
+   "donutTheme" : {
+      "donut_patty" : {
+         "scale" : "0.35",
+         "orderPanelScale" : "0.32f",
+         "path" : "Images/GameObjects/Food/donut",
+         "stages" : [
+            "raw",
+            "donutPan",
+            "cream1,cream2,cream3,cream4",
+            "sprinkle,bluetoping,coconut,orange"
+         ],
+         "stagesCost" : [ "5", "5", "10", "10" ],
+         "handOffsetY" : "-30",
+         "attachments" : {
+            "sprinkle" : {
+               "food_topping" : "donut_food_topping_sprinkle"
+            },
+            "bluetoping" : {
+               "food_topping" : "donut_food_topping_bluetoping"
+            },
+            "coconut" : {
+               "food_topping" : "donut_food_topping_coconut"
+            },
+            "orange" : {
+               "food_topping" : "donut_food_topping_orange"
+            }
+         },
+         "canBeServedRaw" : "false"
+      },
+      "puff_patty" : {
+         "scale" : "0.35",
+         "orderPanelScale" : "0.4f",
+         "path" : "Images/GameObjects/Food/donut",
+         "stages" : [
+            "raw",
+            "donutPan",
+            "cream1,cream2,cream3,cream4",
+            "sprinkle,bluetoping,coconut,orange"
+         ],
+         "stagesCost" : [ "5", "5", "10", "10" ],
+         "handOffsetY" : "-30",
+         "attachments" : {
+            "sprinkle" : {
+               "food_topping" : "puff_food_topping_sprinkle"
+            },
+            "bluetoping" : {
+               "food_topping" : "puff_food_topping_bluetoping"
+            },
+            "coconut" : {
+               "food_topping" : "puff_food_topping_coconut"
+            },
+            "orange" : {
+               "food_topping" : "puff_food_topping_orange"
+            }
+         },
+         "canBeServedRaw" : "false"
+      },
+      "waffle_patty" : {
+         "scale" : "0.35",
+         "orderPanelScale" : "0.42f",
+         "path" : "Images/GameObjects/Food/donut",
+         "stages" : [
+            "raw",
+            "donutPan",
+            "cream1,cream2,cream3,cream4",
+            "sprinkle,bluetoping,coconut,orange"
+         ],
+         "stagesCost" : [ "5", "5", "10", "10" ],
+         "handOffsetY" : "-30",
+         "attachments" : {
+            "sprinkle" : {
+               "food_topping" : "waffle_food_topping_sprinkle"
+            },
+            "bluetoping" : {
+               "food_topping" : "waffle_food_topping_bluetoping"
+            },
+            "coconut" : {
+               "food_topping" : "waffle_food_topping_coconut"
+            },
+            "orange" : {
+               "food_topping" : "waffle_food_topping_orange"
+            }
+         },
+         "canBeServedRaw" : "false"
+      },
+      "snacks_candy" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/donut",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_jelly" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/donut",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_lollipop" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/donut",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_pastry" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.45f",
+         "path" : "Images/GameObjects/Food/donut",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_applePie" : {
+         "scale" : "0.45",
+         "orderPanelScale" : "0.4f",
+         "path" : "Images/GameObjects/Food/donut",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_brownie" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/donut",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_cupcake" : {
+         "scale" : "0.45",
+         "orderPanelScale" : "0.45f",
+         "path" : "Images/GameObjects/Food/donut",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_jimjam" : {
+         "scale" : "0.45",
+         "orderPanelScale" : "0.42f",
+         "path" : "Images/GameObjects/Food/donut",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ]
+      },
+      "snacks_pudding" : {
+         "scale" : "0.3",
+         "orderPanelScale" : "0.3f",
+         "path" : "Images/GameObjects/Food/donut",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "tea" : {
+         "scale" : "0.2",
+         "orderPanelScale" : "0.22f",
+         "path" : "Images/GameObjects/Food/donut",
+         "canBeServedRaw" : "false",
+         "stages" : [ "raw", "teaPlate" ],
+         "stagesCost" : [ "10", "10" ],
+         "handOffsetY" : "-30"
+      },
+      "coffee" : {
+         "scale" : "0.2",
+         "orderPanelScale" : "0.22f",
+         "path" : "Images/GameObjects/Food/donut",
+         "canBeServedRaw" : "false",
+         "stages" : [ "raw", "coffeePlate" ],
+         "stagesCost" : [ 10, 10 ],
+         "handOffsetY" : "-30"
+      }
+   },
+   "juiceTheme" : {
+      "kiwi_patty" : {
+         "scale" : "0.2",
+         "orderPanelScale" : "0.18f",
+         "path" : "Images/GameObjects/Food/juice",
+         "stages" : [
+            "raw",
+            "juicePan",
+            "shakeCream1,shakeCream2,shakeCream3,shakeCream4",
+            "blueberry,citrus,greenBerry,strawberry"
+         ],
+         "stagesCost" : [ "5", "5", "10", "10" ],
+         "handOffsetY" : "-30",
+         "attachments" : {
+            "blueberry" : {
+               "food_topping" : "kiwi_food_topping_blueBerry"
+            },
+            "citrus" : {
+               "food_topping" : "kiwi_food_topping_citrus"
+            },
+            "greenBerry" : {
+               "food_topping" : "kiwi_food_topping_greenBerrry"
+            },
+            "strawberry" : {
+               "food_topping" : "kiwi_food_topping_strawberry"
+            }
+         },
+         "canBeServedRaw" : "false"
+      },
+      "mango_patty" : {
+         "scale" : "0.2",
+         "orderPanelScale" : "0.18f",
+         "path" : "Images/GameObjects/Food/juice",
+         "stages" : [
+            "raw",
+            "juicePan",
+            "shakeCream1,shakeCream2,shakeCream3,shakeCream4",
+            "blueberry,citrus,greenBerry,strawberry"
+         ],
+         "stagesCost" : [ "5", "5", "10", "10" ],
+         "handOffsetY" : "-30",
+         "attachments" : {
+            "blueberry" : {
+               "food_topping" : "mango_food_topping_blueBerry"
+            },
+            "citrus" : {
+               "food_topping" : "mango_food_topping_citrus"
+            },
+            "greenBerry" : {
+               "food_topping" : "mango_food_topping_greenBerrry"
+            },
+            "strawberry" : {
+               "food_topping" : "mango_food_topping_strawberry"
+            }
+         },
+         "canBeServedRaw" : "false"
+      },
+      "watermelon_patty" : {
+         "scale" : "0.2",
+         "orderPanelScale" : "0.18f",
+         "path" : "Images/GameObjects/Food/juice",
+         "stages" : [
+            "raw",
+            "juicePan",
+            "shakeCream1,shakeCream2,shakeCream3,shakeCream4",
+            "blueberry,citrus,greenBerry,strawberry"
+         ],
+         "stagesCost" : [ "5", "5", "10", "10" ],
+         "handOffsetY" : "-30",
+         "attachments" : {
+            "blueberry" : {
+               "food_topping" : "watermelon_food_topping_blueBerry"
+            },
+            "citrus" : {
+               "food_topping" : "watermelon_food_topping_citrus"
+            },
+            "greenBerry" : {
+               "food_topping" : "watermelon_food_topping_greenBerrry"
+            },
+            "strawberry" : {
+               "food_topping" : "watermelon_food_topping_strawberry"
+            }
+         },
+         "canBeServedRaw" : "false"
+      },
+      "snacks_cottonCandy" : {
+         "scale" : "0.4",
+         "orderPanelScale" : "0.3f",
+         "path" : "Images/GameObjects/Food/juice",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_creamRoll" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.47f",
+         "path" : "Images/GameObjects/Food/juice",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_croissant" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.47f",
+         "path" : "Images/GameObjects/Food/juice",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_candyPop" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/juice",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_tart" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/juice",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_sandwich" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/juice",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_momo" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/juice",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "caramilBucket" : {
+         "scale" : "0.25",
+         "orderPanelScale" : "0.2f",
+         "path" : "Images/GameObjects/Food/juice",
+         "canBeServedRaw" : "false",
+         "stages" : [ "raw", "caramilBucketPlate" ],
+         "stagesCost" : [ "10", "10" ],
+         "handOffsetY" : "-30"
+      },
+      "popcornBucket" : {
+         "scale" : "0.25",
+         "orderPanelScale" : "0.2f",
+         "path" : "Images/GameObjects/Food/juice",
+         "canBeServedRaw" : "false",
+         "stages" : [ "raw", "popcornBucketPlate" ],
+         "stagesCost" : [ 10, 10 ],
+         "handOffsetY" : "-30"
+      }
+   },
+   "iceCreamTheme" : {
+      "green_patty" : {
+         "scale" : "0.22",
+         "orderPanelScale" : "0.20f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [
+            "raw",
+            "freezerPan",
+            "cone1,cone2,cone3,cone4",
+            "cherry,chocoSyrup,chocostick,gem"
+         ],
+         "stagesCost" : [ "5", "5", "10", "10" ],
+         "handOffsetY" : "-30",
+         "attachments" : {
+            "cherry" : {
+               "food_topping" : "green_food_topping_cherry"
+            },
+            "chocoSyrup" : {
+               "food_topping" : "green_food_topping_chocoSyrup"
+            },
+            "chocostick" : {
+               "food_topping" : "green_food_topping_chocostick"
+            },
+            "gem" : {
+               "food_topping" : "green_food_topping_gem"
+            }
+         },
+         "canBeServedRaw" : "false"
+      },
+      "yellow_patty" : {
+         "scale" : "0.22",
+         "orderPanelScale" : "0.20f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [
+            "raw",
+            "freezerPan",
+            "cone1,cone2,cone3,cone4",
+            "cherry,chocoSyrup,chocostick,gem"
+         ],
+         "stagesCost" : [ "5", "5", "10", "10" ],
+         "attachments" : {
+            "cherry" : {
+               "food_topping" : "yellow_food_topping_cherry"
+            },
+            "chocoSyrup" : {
+               "food_topping" : "yellow_food_topping_chocoSyrup"
+            },
+            "chocostick" : {
+               "food_topping" : "yellow_food_topping_chocostick"
+            },
+            "gem" : {
+               "food_topping" : "yellow_food_topping_gem"
+            }
+         },
+         "canBeServedRaw" : "false"
+      },
+      "red_patty" : {
+         "scale" : "0.22",
+         "orderPanelScale" : "0.20f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [
+            "raw",
+            "freezerPan",
+            "cone1,cone2,cone3,cone4",
+            "cherry,chocoSyrup,chocostick,gem"
+         ],
+         "stagesCost" : [ "5", "5", "10", "10" ],
+         "handOffsetY" : "-30",
+         "attachments" : {
+            "cherry" : {
+               "food_topping" : "red_food_topping_cherry"
+            },
+            "chocoSyrup" : {
+               "food_topping" : "red_food_topping_chocoSyrup"
+            },
+            "chocostick" : {
+               "food_topping" : "red_food_topping_chocostick"
+            },
+            "gem" : {
+               "food_topping" : "red_food_topping_gem"
+            }
+         },
+         "canBeServedRaw" : "false"
+      },
+      "snacks_custard" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.47f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_fruitCream" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.47f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_gulabjamuns" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_redChip" : {
+         "scale" : "0.45",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_cyanChip" : {
+         "scale" : "0.45",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_purplechip" : {
+         "scale" : "0.45",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_sweet" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_biscuit" : {
+         "scale" : "0.3",
+         "orderPanelScale" : "0.4f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ]
+      },
+      "snacks_brownBiscuit" : {
+         "scale" : "0.3",
+         "orderPanelScale" : "0.4f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_greenBiscuit" : {
+         "scale" : "0.3",
+         "orderPanelScale" : "0.4f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_cherryBiscuit" : {
+         "scale" : "0.5",
+         "orderPanelScale" : "0.45f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_chocoCookie" : {
+         "scale" : "0.55",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_coconutwater" : {
+         "scale" : "0.55",
+         "orderPanelScale" : "0.35f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_jamBiscuit" : {
+         "scale" : "0.45",
+         "orderPanelScale" : "0.4f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_kachori" : {
+         "scale" : "0.55",
+         "orderPanelScale" : "0.4f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_shirkhand" : {
+         "scale" : "0.35",
+         "orderPanelScale" : "0.35f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_chocoSweet" : {
+         "scale" : "0.55",
+         "orderPanelScale" : "0.5f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ],
+         "handOffsetY" : "-30"
+      },
+      "snacks_bis" : {
+         "scale" : "0.4",
+         "orderPanelScale" : "0.3f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ]
+      },
+      "snacks_gajarHalwa" : {
+         "scale" : "0.4",
+         "orderPanelScale" : "0.3f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ]
+      },
+      "snacks_gift" : {
+         "scale" : "0.4",
+         "orderPanelScale" : "0.3f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ]
+      },
+      "snacks_laddoo" : {
+         "scale" : "0.4",
+         "orderPanelScale" : "0.3f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ]
+      },
+      "snacks_motichoor" : {
+         "scale" : "0.4",
+         "orderPanelScale" : "0.3f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ]
+      },
+      "snacks_pastryCake" : {
+         "scale" : "0.4",
+         "orderPanelScale" : "0.3f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ]
+      },
+      "snacks_taco" : {
+         "scale" : "0.4",
+         "orderPanelScale" : "0.3f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "stages" : [ "raw" ],
+         "stagesCost" : [ "10" ]
+      },
+      "blueJuice" : {
+         "scale" : "0.55",
+         "orderPanelScale" : "0.55f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "canBeServedRaw" : "false",
+         "stages" : [ "raw", "blueJuicePlate" ],
+         "stagesCost" : [ "10", "10" ],
+         "handOffsetY" : "-30"
+      },
+      "yellowJuice" : {
+         "scale" : "0.55",
+         "orderPanelScale" : "0.55f",
+         "path" : "Images/GameObjects/Food/iceCream",
+         "canBeServedRaw" : "false",
+         "stages" : [ "raw", "yellowJuicePlate" ],
+         "stagesCost" : [ 10, 10 ],
+         "handOffsetY" : "-30"
+      }
+   }
+}

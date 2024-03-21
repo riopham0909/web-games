@@ -1,0 +1,342 @@
+
+skeleton.png
+size: 32,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 9, 13
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+connect
+  rotate: false
+  xy: 3, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/3way
+  rotate: false
+  xy: 5, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/3way_3way
+  rotate: false
+  xy: 7, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/arrangementPowerup
+  rotate: false
+  xy: 12, 13
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+powerups/babyMonkey
+  rotate: false
+  xy: 3, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/babyPanda
+  rotate: false
+  xy: 5, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/babyPig
+  rotate: false
+  xy: 7, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/babyRabbit
+  rotate: false
+  xy: 9, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/babyTiger
+  rotate: false
+  xy: 7, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/bird
+  rotate: false
+  xy: 15, 13
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+powerups/bomb
+  rotate: false
+  xy: 9, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/bomb_3way
+  rotate: false
+  xy: 11, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/bomb_bomb
+  rotate: false
+  xy: 9, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/bomb_colorSquare
+  rotate: false
+  xy: 11, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/boxingGloveBooster
+  rotate: false
+  xy: 13, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/colorSquare_3way
+  rotate: false
+  xy: 11, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/colorSquare_colorSquare
+  rotate: false
+  xy: 13, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/explosion
+  rotate: false
+  xy: 30, 13
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+powerups/fireBall
+  rotate: false
+  xy: 15, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/fireBall_3way
+  rotate: false
+  xy: 13, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/fireBall_bomb
+  rotate: false
+  xy: 15, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/fireBall_colorSquare
+  rotate: false
+  xy: 17, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/fireBall_fireBall
+  rotate: false
+  xy: 15, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/hammer
+  rotate: false
+  xy: 17, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/paintBrushBooster
+  rotate: false
+  xy: 18, 13
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+powerups/partyPopper
+  rotate: false
+  xy: 21, 13
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+powerups/rocket
+  rotate: false
+  xy: 19, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+powerups/sawbladeBooster
+  rotate: false
+  xy: 24, 13
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+smallTiger/ear
+  rotate: false
+  xy: 1, 4
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+smallTiger/feet
+  rotate: false
+  xy: 17, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+smallTiger/fluffyHand
+  rotate: false
+  xy: 19, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+smallTiger/head
+  rotate: false
+  xy: 1, 12
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+smallTiger/leftEyeBall
+  rotate: false
+  xy: 21, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+smallTiger/leftEyeBallBase
+  rotate: false
+  xy: 19, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+smallTiger/leftHand
+  rotate: false
+  xy: 3, 9
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+smallTiger/leftLeg
+  rotate: false
+  xy: 5, 10
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+smallTiger/lens
+  rotate: false
+  xy: 21, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+smallTiger/lens2
+  rotate: false
+  xy: 21, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+smallTiger/lowerJaw
+  rotate: false
+  xy: 23, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+smallTiger/mouth
+  rotate: false
+  xy: 21, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+smallTiger/rightEyeBall
+  rotate: false
+  xy: 23, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+smallTiger/rightEyeBallBase
+  rotate: false
+  xy: 25, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+smallTiger/rightLeg
+  rotate: false
+  xy: 23, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+smallTiger/tail
+  rotate: false
+  xy: 1, 7
+  size: 1, 4
+  orig: 1, 4
+  offset: 0, 0
+  index: -1
+smallTiger/torso
+  rotate: false
+  xy: 27, 13
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+treasureBox
+  rotate: false
+  xy: 5, 13
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 1, 1
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1

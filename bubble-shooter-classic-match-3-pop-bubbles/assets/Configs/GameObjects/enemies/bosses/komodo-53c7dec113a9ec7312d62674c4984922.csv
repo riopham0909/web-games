@@ -1,0 +1,25 @@
+HP                    ;1000
+speed                 ;20
+gravity               ;2
+maxDownwardVelocity   ;6
+acidicBodyDamage      ;1
+range                 ;10 //used to check if player is under laser
+restTimer             ;0.5f
+removeOnExplosion     ;false
+//vehicle_mode        ;
+missileAttackGunHP    ;100
+airAttackGunHP        ;100
+missileAttackDamage   ;1
+airAttackDamage       ;1
+//dino_mode           ;
+grenadeDamage         ;1
+bounceBallDamage      ;1
+spiralAttackDamage    ;1
+//heli_mode           ;
+smallBulletDamage     ;1
+rotationalBulletDamage;1
+laserDamage           ;1
+airGunExplosionVFX    ;timelineFX/templates_inAir/inAir_small
+missileGunExplosionVFX;timelineFX/blast_ground/small_bot
+bouncyBallImpactVFX   ;timelineFX/air/enemyChaserImpact
+backBodyExplosionVFX  ;timelineFX/air/enemyChaserImpact

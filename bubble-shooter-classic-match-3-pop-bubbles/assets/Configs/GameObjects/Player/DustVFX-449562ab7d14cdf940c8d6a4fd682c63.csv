@@ -1,0 +1,75 @@
+
+//Level.........       ;......dustVFX
+runLevel1              ;timelineFX/impact/player_run_red
+runLevel2              ;timelineFX/impact/player_run
+runLevel3              ;timelineFX/impact/player_run
+runLevel4              ;timelineFX/impact/player_run
+runLevel5              ;timelineFX/impact/player_run
+runLevel6              ;timelineFX/impact/player_run
+runLevel7              ;timelineFX/impact/player_run
+
+//Level.........       ;......Land
+landVFXLevel1          ;playerLand
+landVFXLevel2          ;playerLand2
+landVFXLevel3          ;playerLand2
+landVFXLevel4          ;playerLand2
+landVFXLevel5          ;playerLand2
+landVFXLevel6          ;playerLand2
+landVFXLevel7          ;playerLand2
+
+
+//Level.........       ;......Jump
+jumpLevel1             ;playerJumpStand
+jumpLevel2             ;playerJumpStand2
+jumpLevel3             ;playerJumpStand2
+jumpLevel4             ;playerJumpStand2
+jumpLevel5             ;playerJumpStand2
+jumpLevel6             ;playerJumpStand2
+jumpLevel7             ;playerJumpStand2
+
+//Level...........     ;......Forward Jump
+forwardJumpLevel1      ;playerJumpForward
+forwardJumpLevel2      ;playerJumpForward2
+forwardJumpLevel3      ;playerJumpForward2
+forwardJumpLevel4      ;playerJumpForward2
+forwardJumpLevel5      ;playerJumpForward2
+forwardJumpLevel6      ;playerJumpForward2
+forwardJumpLevel7      ;playerJumpForward2
+
+//Level...........     ;......Jump Trail
+jumpTrailLevel1        ;timelineFX/impact/player_jumpSmoke_red
+jumpTrailLevel2        ;timelineFX/impact/player_jumpSmoke
+jumpTrailLevel3        ;timelineFX/impact/player_jumpSmoke
+jumpTrailLevel4        ;timelineFX/impact/player_jumpSmoke
+jumpTrailLevel5        ;timelineFX/impact/player_jumpSmoke
+jumpTrailLevel6        ;timelineFX/impact/player_jumpSmoke
+jumpTrailLevel7        ;timelineFX/impact/player_jumpSmoke
+
+//Level.........       ;......Jump
+doubleJumpLevel1       ;timelineFX/impact/player_doubleJump_red
+doubleJumpLevel2       ;timelineFX/impact/player_doubleJump
+doubleJumpLevel3       ;timelineFX/impact/player_doubleJump
+doubleJumpLevel4       ;timelineFX/impact/player_doubleJump
+doubleJumpLevel5       ;timelineFX/impact/player_doubleJump
+doubleJumpLevel6       ;timelineFX/impact/player_doubleJump
+doubleJumpLevel7       ;timelineFX/impact/player_doubleJump
+
+//Level...........     ;......Forward Jump
+forwardDoubleJumpLevel1;timelineFX/impact/player_doubleJump_red
+forwardDoubleJumpLevel2;timelineFX/impact/player_doubleJump
+forwardDoubleJumpLevel3;timelineFX/impact/player_doubleJump
+forwardDoubleJumpLevel4;timelineFX/impact/player_doubleJump
+forwardDoubleJumpLevel5;timelineFX/impact/player_doubleJump
+forwardDoubleJumpLevel6;timelineFX/impact/player_doubleJump
+forwardDoubleJumpLevel7;timelineFX/impact/player_doubleJump
+
+//Level...........     ;......Jump Trail
+doubleJumpTrailLevel1  ;timelineFX/impact/player_jumpSmoke_red
+doubleJumpTrailLevel2  ;timelineFX/impact/player_jumpSmoke
+doubleJumpTrailLevel3  ;timelineFX/impact/player_jumpSmoke
+doubleJumpTrailLevel4  ;timelineFX/impact/player_jumpSmoke
+doubleJumpTrailLevel5  ;timelineFX/impact/player_jumpSmoke
+doubleJumpTrailLevel6  ;timelineFX/impact/player_jumpSmoke
+doubleJumpTrailLevel7  ;timelineFX/impact/player_jumpSmoke
+
+

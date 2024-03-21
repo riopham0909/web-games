@@ -1,0 +1,1440 @@
+=====###=====
+type: gameObject
+name: BulletSpawner.037
+position: (1355.714, 954.065, -4.854)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.355, 0.355, 0.355)
+bounds: (-17.745, -17.745, 17.745, 17.745)
+attributes: animation=playerBullet56;spawnInterval=0.2;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=2;destroyBulletsOnDie=false;angleRange=90;playerBullets=true;useWorldRotation=true;namespace=A15;scene_0_values=1355.7135009765625|954.06494140625|-4.853672027587891|270.00000068324533|0.35489746928215027|0.35489746928215027
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.036
+position: (1390.714, 945.827, -4.854)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.355, 0.355, 0.355)
+bounds: (-17.745, -17.745, 17.745, 17.745)
+attributes: animation=playerBullet56;spawnInterval=0.15;bulletSpeedRange=30;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=2;destroyBulletsOnDie=false;angleRange=100;playerBullets=true;useWorldRotation=true;namespace=A15;scene_0_values=1390.7135009765625|945.8267822265625|-4.853671073913574|270.00000068324533|0.35489746928215027|0.35489746928215027
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.034
+position: (1355.714, 932.05, -4.854)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.355, 0.355, 0.355)
+bounds: (-17.745, -17.745, 17.745, 17.745)
+attributes: animation=playerBullet56;spawnInterval=0.1;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=2;destroyBulletsOnDie=false;angleRange=90;playerBullets=true;useWorldRotation=true;namespace=A15;scene_0_values=1355.7135009765625|932.049560546875|-4.853669166564941|270.00000068324533|0.35489746928215027|0.35489746928215027
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.035
+position: (1320.714, 945.827, -4.854)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.355, 0.355, 0.355)
+bounds: (-17.745, -17.745, 17.745, 17.745)
+attributes: animation=playerBullet56;spawnInterval=0.15;bulletSpeedRange=30;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=2;destroyBulletsOnDie=false;angleRange=80;playerBullets=true;useWorldRotation=true;namespace=A15;scene_0_values=1320.7135009765625|945.8267822265625|-4.85366153717041|270.00000068324533|0.35489746928215027|0.35489746928215027
+=====***=====
+=====###=====
+type: mapInfo
+name: Map_info
+position: (999.936, 767.069, -0.0)
+vertices: (-1055.556, -939.026, 0.0),(1055.556, -939.026, 0.0),(1055.556, 939.026, 0.0),(-1055.556, 939.026, 0.0)
+attributes: scene_0_values=999.9360961914062|767.069091796875|-1.678457373088804e-08|0.0|1.0555561780929565|0.17036783695220947
+sceneTimestamp:Scene_exported_05-35-39 PM__07 May
+exportType:ctrl_f8
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P5-4-2.001
+position: (1012.857, 527.075, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.4, 0.4, 0.4)
+bounds: (-20.0, -20.0, 20.0, 20.0)
+attributes: animation=playerBullet25;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;namespace=O;scene_0_values=1012.8566284179688|527.075439453125|13.737382888793945|270.00000068324533|0.4000000059604645|0.4000000059604645
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P5-4-2.002
+position: (988.146, 745.751, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet29;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;namespace=S;scene_0_values=988.146484375|745.7508544921875|13.737382888793945|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P5-4-2.003
+position: (1031.389, 745.751, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet30;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;namespace=S;scene_0_values=1031.38916015625|745.7508544921875|13.737382888793945|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P5-4-3.001
+position: (1023.486, 527.075, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet26;spawnInterval=0.2;angleRange=90;bulletSpeedRange=30;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXGap=180;offsetXNoOfBullets=2;destroyBulletsOnDie=false;namespace=O;scene_0_values=1023.4860229492188|527.075439453125|13.737382888793945|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-3-1.001
+position: (873.574, 706.396, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet35;spawnInterval=0.2;angleRange=90;bulletSpeedRange=20;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;namespace=X;scene_0_values=873.574462890625|706.3955688476562|13.737386703491211|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-3-1.002
+position: (902.485, 706.396, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet36;spawnInterval=0.2;angleRange=90;bulletSpeedRange=20;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;namespace=X;scene_0_values=902.4853515625|706.3955688476562|13.737386703491211|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-3-2.000
+position: (1343.034, 1195.463, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.15, 0.15, 0.15)
+bounds: (-7.5, -7.5, 7.5, 7.5)
+attributes: animation=playerBullet40;spawnInterval=0.1;angleRange=90;bulletSpeedRange=25;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=2;offsetXGap=150;offsetXNoOfBullets=2;destroyBulletsOnDie=false;parent=Player;namespace=A19;scene_0_values=1343.0343017578125|1195.4632568359375|13.737386703491211|270.00000068324533|0.15000000596046448|0.15000000596046448
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-3-2.001
+position: (886.758, 706.702, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.25, 0.25, 0.25)
+bounds: (-12.5, -12.5, 12.5, 12.5)
+attributes: animation=playerBullet37;spawnInterval=0.1;angleRange=90;bulletSpeedRange=25;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXGap=150;offsetXNoOfBullets=2;destroyBulletsOnDie=false;parent=Player;namespace=X;scene_0_values=886.757568359375|706.7017822265625|13.737386703491211|270.00000068324533|0.25|0.25
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P5-5-1.000
+position: (1332.986, 1433.235, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet38;spawnInterval=0.2;angleRange=90,100;bulletSpeedRange=25;parentBone=left;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;namespace=A24;parent=Player;scene_0_values=1332.9857177734375|1433.2347412109375|13.737387657165527|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P5-5-1.001
+position: (989.601, 683.242, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet28;spawnInterval=0.2;angleRange=90,100;bulletSpeedRange=25;parentBone=left;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;namespace=R;scene_0_values=989.6005249023438|683.2420043945312|13.737387657165527|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P5-5-2.000
+position: (1358.379, 1433.235, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet58;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;namespace=A24;parent=Player;scene_0_values=1358.378662109375|1433.2347412109375|13.737387657165527|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P5-5-2.001
+position: (1014.993, 683.242, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet27;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;namespace=R;scene_0_values=1014.9934692382812|683.2420043945312|13.737387657165527|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P5-5-3.000
+position: (1385.456, 1433.235, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet38;spawnInterval=0.2;angleRange=90,80;bulletSpeedRange=25;parentBone=right;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;namespace=A24;parent=Player;scene_0_values=1385.4564208984375|1433.2347412109375|13.737387657165527|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P5-5-3.001
+position: (1042.071, 683.242, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet28;spawnInterval=0.2;angleRange=90,80;bulletSpeedRange=25;parentBone=right;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;namespace=R;scene_0_values=1042.0712890625|683.2420043945312|13.737387657165527|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-2-1.000
+position: (1361.045, 1536.865, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.35, 0.35, 0.35)
+bounds: (-17.497, -17.497, 17.497, 17.497)
+attributes: animation=playerBullet24;spawnInterval=0.2;angleRange=85,80;bulletSpeedRange=25;parentBone=right;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=A26;scene_0_values=1361.04541015625|1536.86474609375|13.73738956451416|270.00000068324533|0.34994813799858093|0.34994813799858093
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-2-1.001
+position: (734.572, 563.05, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.25, 0.25, 0.25)
+bounds: (-12.5, -12.5, 12.5, 12.5)
+attributes: animation=playerBullet41;spawnInterval=0.2;angleRange=90;bulletSpeedRange=25;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=Z;scene_0_values=734.5719604492188|563.0497436523438|13.73738956451416|270.00000068324533|0.25|0.25
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-2-1.002
+position: (752.178, 563.05, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet43;spawnInterval=0.2;angleRange=85,80;bulletSpeedRange=25;parentBone=right;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=Z;scene_0_values=752.177978515625|563.0497436523438|13.73738956451416|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-2-1.003
+position: (715.113, 563.05, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet43;spawnInterval=0.2;angleRange=100,95;bulletSpeedRange=25;parentBone=left;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=Z;scene_0_values=715.1126708984375|563.0497436523438|13.73738956451416|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-2-1.004
+position: (760.31, 749.179, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.35, 0.35, 0.35)
+bounds: (-17.497, -17.497, 17.497, 17.497)
+attributes: animation=playerBullet16;spawnInterval=0.2;angleRange=85,80;bulletSpeedRange=25;parentBone=right;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=A3;scene_0_values=760.3103637695312|749.1793823242188|13.73738956451416|270.00000068324533|0.34994813799858093|0.34994813799858093
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-2-1.005
+position: (723.245, 749.179, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.35, 0.35, 0.35)
+bounds: (-17.497, -17.497, 17.497, 17.497)
+attributes: animation=playerBullet16;spawnInterval=0.2;angleRange=100,95;bulletSpeedRange=25;parentBone=left;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=A3;scene_0_values=723.2450561523438|749.1793823242188|13.73738956451416|270.00000068324533|0.34994813799858093|0.34994813799858093
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-2-1.006
+position: (1323.98, 1536.865, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.35, 0.35, 0.35)
+bounds: (-17.497, -17.497, 17.497, 17.497)
+attributes: animation=playerBullet24;spawnInterval=0.2;angleRange=100,95;bulletSpeedRange=25;parentBone=left;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=A26;scene_0_values=1323.9801025390625|1536.86474609375|13.73738956451416|270.00000068324533|0.34994813799858093|0.34994813799858093
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P5-2-1.001
+position: (736.771, 519.415, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet39;spawnInterval=0.3;angleRange=100,95,90,85,80;bulletSpeedRange=15;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=5;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;parent=Player;isChaser=true;namespace=Y;scene_0_values=736.7705078125|519.4147338867188|13.737411499023438|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-1.000
+position: (1320.84, 1237.791, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet44;spawnInterval=0.08;angleRange=105;bulletSpeedRange=30;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=A20;scene_0_values=1320.8404541015625|1237.7911376953125|13.737421035766602|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-1.001
+position: (711.079, 612.056, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet10;spawnInterval=0.08;angleRange=105;bulletSpeedRange=30;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=A1;scene_0_values=711.0792236328125|612.0558471679688|13.737421035766602|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-2.000
+position: (1326.786, 1237.791, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet48;spawnInterval=0.1;angleRange=95;bulletSpeedRange=30;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=A20;scene_0_values=1326.7855224609375|1237.7911376953125|13.737421035766602|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-2.001
+position: (717.024, 612.056, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet10;spawnInterval=0.1;angleRange=95;bulletSpeedRange=30;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=A1;scene_0_values=717.0242919921875|612.0558471679688|13.737421035766602|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-3.000
+position: (1349.494, 1237.791, 13.737)
+rotation: (0.0, -0.0, 90.0)
+scale: (0.372, 0.372, 0.446)
+bounds: (-18.576, -18.576, 18.576, 18.576)
+attributes: animation=playerBullet18;spawnInterval=0.1;angleRange=90;parentBone=shoot;isAdditiveAnim=false;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;simultaneousBullets=1;namespace=A20;bulletSpeedRange=20;scene_0_values=1349.4942626953125|1237.7911376953125|13.737421035766602|90.00000250447816|0.3715124726295471|0.3715124726295471
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-3.001
+position: (739.733, 612.056, 13.737)
+rotation: (0.0, -0.0, 90.0)
+scale: (0.5, 1.0, 0.6)
+bounds: (-25.0, -50.0, 25.0, 50.0)
+attributes: animation=laser;spawnInterval=0.1;angleRange=90;parentBone=shoot;isAdditiveAnim=false;playerBullets=true;bulletDamage=1;destroyBulletsOnDie=false;parent=Player;spawnLaser=true;laserLenght=1800;dontRotateWithParentBone=true;simultaneousBullets=0;namespace=A1;scene_0_values=739.7330322265625|612.0558471679688|13.737421035766602|90.00000250447816|0.5|1.0
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-3.002
+position: (770.388, 680.346, 13.737)
+rotation: (0.0, -0.0, 90.0)
+scale: (0.6, 0.7, 0.6)
+bounds: (-30.0, -35.0, 30.0, 35.0)
+attributes: animation=laser;spawnInterval=0.1;angleRange=90;parentBone=right;isAdditiveAnim=false;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;parent=Player;spawnLaser=true;laserLenght=1800;dontRotateWithParentBone=true;simultaneousBullets=0;namespace=A2;scene_0_values=770.3884887695312|680.3463745117188|13.737421035766602|90.00000250447816|0.6000000238418579|0.699999988079071
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-3.003
+position: (720.121, 680.346, 13.737)
+rotation: (0.0, -0.0, 90.0)
+scale: (0.6, 0.7, 0.6)
+bounds: (-30.0, -35.0, 30.0, 35.0)
+attributes: animation=laser;spawnInterval=0.1;angleRange=90;parentBone=left;isAdditiveAnim=false;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;parent=Player;spawnLaser=true;laserLenght=1800;dontRotateWithParentBone=true;simultaneousBullets=0;namespace=A2;scene_0_values=720.1212768554688|680.3463745117188|13.737421035766602|90.00000250447816|0.6000000238418579|0.699999988079071
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-3.004
+position: (739.113, 748.89, 13.737)
+rotation: (0.0, -0.0, 90.0)
+scale: (0.6, 0.6, 0.6)
+bounds: (-30.0, -30.0, 30.0, 30.0)
+attributes: animation=thunder;spawnInterval=0.1;angleRange=90;parentBone=shoot;isAdditiveAnim=false;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;parent=Player;spawnLaser=true;laserLenght=1800;dontRotateWithParentBone=true;simultaneousBullets=0;namespace=A3;scene_0_values=739.11328125|748.8904418945312|13.737421035766602|90.00000250447816|0.6000000238418579|0.6000000238418579
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-3.005
+position: (1339.848, 1536.576, 13.737)
+rotation: (0.0, -0.0, 90.0)
+scale: (0.6, 1.0, 0.6)
+bounds: (-30.0, -50.0, 30.0, 50.0)
+attributes: animation=laserBeam;spawnInterval=0.1;angleRange=90;parentBone=shoot;isAdditiveAnim=false;playerBullets=true;bulletDamage=1;destroyBulletsOnDie=false;parent=Player;spawnLaser=true;laserLenght=1800;dontRotateWithParentBone=true;simultaneousBullets=0;namespace=A26;scene_0_values=1339.848388671875|1536.57568359375|13.737421035766602|90.00000250447816|0.6000000238418579|1.0
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-3.006
+position: (1362.315, 1613.928, 13.737)
+rotation: (0.0, -0.0, 90.0)
+scale: (0.6, 0.7, 0.6)
+bounds: (-30.0, -35.0, 30.0, 35.0)
+attributes: animation=laser2;spawnInterval=0.1;angleRange=90;parentBone=right;isAdditiveAnim=false;playerBullets=true;bulletDamage=1;destroyBulletsOnDie=false;parent=Player;spawnLaser=true;laserLenght=1800;dontRotateWithParentBone=true;simultaneousBullets=0;namespace=A27;scene_0_values=1362.315185546875|1613.927734375|13.737421035766602|90.00000250447816|0.6000000238418579|0.699999988079071
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-3.007
+position: (1312.048, 1613.928, 13.737)
+rotation: (0.0, -0.0, 90.0)
+scale: (0.6, 0.7, 0.6)
+bounds: (-30.0, -35.0, 30.0, 35.0)
+attributes: animation=laser2;spawnInterval=0.1;angleRange=90;parentBone=left;isAdditiveAnim=false;playerBullets=true;bulletDamage=1;destroyBulletsOnDie=false;parent=Player;spawnLaser=true;laserLenght=1800;dontRotateWithParentBone=true;simultaneousBullets=0;namespace=A27;scene_0_values=1312.0478515625|1613.927734375|13.737421035766602|90.00000250447816|0.6000000238418579|0.699999988079071
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-4.000
+position: (1372.965, 1238.085, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet48;spawnInterval=0.1;angleRange=85;bulletSpeedRange=30;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=A20;scene_0_values=1372.965087890625|1238.0853271484375|13.737421035766602|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-4.001
+position: (763.204, 612.35, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet10;spawnInterval=0.1;angleRange=85;bulletSpeedRange=30;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=A1;scene_0_values=763.2039184570312|612.35009765625|13.737421035766602|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-5.000
+position: (1378.666, 1238.085, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet44;spawnInterval=0.08;angleRange=75;bulletSpeedRange=30;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=A20;scene_0_values=1378.6661376953125|1238.0853271484375|13.737421035766602|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P4-4-5.001
+position: (766.771, 612.056, 13.737)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet10;spawnInterval=0.08;angleRange=75;bulletSpeedRange=30;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;parent=Player;namespace=A1;scene_0_values=766.7710571289062|612.0558471679688|13.737421035766602|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner
+position: (1029.002, 624.644, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.266, 0.266, 0.266)
+bounds: (-13.283, -13.283, 13.283, 13.283)
+attributes: animation=playerBullet17;spawnInterval=0.1;angleRange=90;bulletSpeedRange=26;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXNoOfBullets=2;offsetXGap=180;activate=false;namespace=Q;scene_0_values=1029.001953125|624.6441650390625|13.999995231628418|270.00000068324533|0.2656524181365967|0.2656524181365967
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.007
+position: (1005.531, 624.644, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.35, 0.35, 0.35)
+bounds: (-17.5, -17.5, 17.5, 17.5)
+attributes: animation=playerBullet4;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;activate=false;namespace=Q;scene_0_values=1005.5308227539062|624.6441650390625|13.999995231628418|270.00000068324533|0.3499999940395355|0.3499999940395355
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.011
+position: (982.822, 624.644, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet17;spawnInterval=0.1;angleRange=90;bulletSpeedRange=25;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXGap=100;offsetXNoOfBullets=2;activate=false;namespace=Q;scene_0_values=982.8223266601562|624.6441650390625|13.999995231628418|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.012
+position: (1045.015, 624.644, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet17;spawnInterval=0.1;angleRange=90;bulletSpeedRange=26;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXNoOfBullets=2;offsetXGap=240;activate=false;namespace=Q;scene_0_values=1045.014892578125|624.6441650390625|13.999995231628418|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.021
+position: (1009.161, 745.444, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet2;spawnInterval=0.1;angleRange=90;bulletSpeedRange=26;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=1;offsetXNoOfBullets=3;offsetXGap=50;activate=false;namespace=S;scene_0_values=1009.1609497070312|745.4444580078125|13.999995231628418|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.061
+position: (1376.935, 1390.272, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.18, 0.18, 0.18)
+bounds: (-8.987, -8.987, 8.987, 8.987)
+attributes: animation=playerBullet29;spawnInterval=0.1;angleRange=90;bulletSpeedRange=26;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXNoOfBullets=2;offsetXGap=180;activate=false;namespace=A23;parent=Player;scene_0_values=1376.93505859375|1390.2716064453125|13.999995231628418|270.00000068324533|0.17974409461021423|0.17974409461021423
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.062
+position: (1353.464, 1390.272, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.4, 0.4, 0.4)
+bounds: (-20.0, -20.0, 20.0, 20.0)
+attributes: animation=enemyBullet68;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;activate=false;namespace=A23;parent=Player;scene_0_values=1353.4638671875|1390.2716064453125|13.999995231628418|270.00000068324533|0.4000000059604645|0.4000000059604645
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.063
+position: (1330.755, 1390.272, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.203, 0.203, 0.203)
+bounds: (-10.149, -10.149, 10.149, 10.149)
+attributes: animation=playerBullet29;spawnInterval=0.1;angleRange=90;bulletSpeedRange=25;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXGap=100;offsetXNoOfBullets=2;activate=false;namespace=A23;parent=Player;scene_0_values=1330.75537109375|1390.2716064453125|13.999995231628418|270.00000068324533|0.20298415422439575|0.20298415422439575
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-4-1
+position: (1551.748, 667.061, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet2;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;namespace=D;scene_0_values=1551.748046875|667.0612182617188|13.999995231628418|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-4-2
+position: (1574.457, 667.061, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet4;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;namespace=D;scene_0_values=1574.45654296875|667.0612182617188|13.999995231628418|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-4-3
+position: (1597.928, 667.061, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet2;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;namespace=D;scene_0_values=1597.927734375|667.0612182617188|13.999995231628418|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P2-4-1
+position: (1336.727, 652.634, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet10;spawnInterval=0.08;angleRange=100;bulletSpeedRange=30;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=1;destroyBulletsOnDie=false;namespace=I;scene_0_values=1336.727294921875|652.6336669921875|13.999995231628418|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P2-4-2
+position: (1342.672, 652.634, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet10;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=1;destroyBulletsOnDie=false;namespace=I;scene_0_values=1342.67236328125|652.6336669921875|13.999995231628418|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P2-4-3
+position: (1365.381, 652.634, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet10;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;namespace=I;scene_0_values=1365.381103515625|652.6336669921875|13.999995231628418|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P2-4-4
+position: (1388.852, 652.634, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet10;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=1;destroyBulletsOnDie=false;namespace=I;scene_0_values=1388.85205078125|652.6336669921875|13.999995231628418|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P2-4-5
+position: (1392.419, 652.634, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet10;spawnInterval=0.08;angleRange=80;bulletSpeedRange=30;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=1;destroyBulletsOnDie=false;namespace=I;scene_0_values=1392.419189453125|652.6336669921875|13.999995231628418|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-4-1
+position: (1122.807, 652.634, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet14;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXGap=50;offsetXNoOfBullets=2;destroyBulletsOnDie=false;namespace=M;scene_0_values=1122.806884765625|652.6336669921875|13.999995231628418|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-4-1.001
+position: (1275.788, 1150.245, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet14;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXGap=100;offsetXNoOfBullets=2;destroyBulletsOnDie=false;namespace=A18;scene_0_values=1275.7884521484375|1150.2447509765625|13.999995231628418|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-4-2
+position: (1136.674, 652.634, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.4, 0.4, 0.4)
+bounds: (-20.0, -20.0, 20.0, 20.0)
+attributes: animation=playerBullet13;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;namespace=M;scene_0_values=1136.67431640625|652.6336669921875|13.999995231628418|270.00000068324533|0.4000000059604645|0.4000000059604645
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-4-3
+position: (1147.304, 652.634, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet13;spawnInterval=0.2;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXGap=180;offsetXNoOfBullets=2;destroyBulletsOnDie=false;namespace=M;scene_0_values=1147.3037109375|652.6336669921875|13.999995231628418|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-4-3.001
+position: (1300.285, 1150.245, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet13;spawnInterval=0.2;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXGap=180;offsetXNoOfBullets=2;destroyBulletsOnDie=false;namespace=A18;scene_0_values=1300.2852783203125|1150.2447509765625|13.999995231628418|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-4-2.002
+position: (901.382, 525.749, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet32;spawnInterval=0.15;angleRange=90;bulletSpeedRange=20;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=5;destroyBulletsOnDie=false;namespace=T;scene_0_values=901.38232421875|525.7486572265625|13.999996185302734|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.000
+position: (1041.433, 575.233, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.4, 0.4, 0.4)
+bounds: (-20.0, -20.0, 20.0, 20.0)
+attributes: animation=playerBullet22;spawnInterval=0.3;angleRange=90;bulletSpeedRange=20;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXGap=100;offsetXNoOfBullets=2;activate=false;namespace=P;scene_0_values=1041.43310546875|575.2333984375|14.0|270.00000068324533|0.4000000059604645|0.4000000059604645
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.001
+position: (1007.01, 575.233, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet20;spawnInterval=0.08;angleRange=90;bulletSpeedRange=35;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=1;offsetXNoOfBullets=3;offsetXGap=90;activate=false;namespace=P;scene_0_values=1007.0098266601562|575.2333984375|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.002
+position: (910.579, 578.173, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.196, 0.196, 0.196)
+bounds: (-9.802, -9.802, 9.802, 9.802)
+attributes: animation=fireBall;spawnInterval=0.1;angleRange=90,85,80;bulletSpeedRange=25;parentBone=right;isAdditiveAnim=true;simultaneousBullets=1;playerBullets=true;bulletDamage=3;namespace=U;scene_0_values=910.57861328125|578.1734008789062|14.0|270.00000068324533|0.19603653252124786|0.19603653252124786
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.003
+position: (858.108, 578.173, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.196, 0.196, 0.196)
+bounds: (-9.802, -9.802, 9.802, 9.802)
+attributes: animation=fireBall;spawnInterval=0.1;angleRange=90,95,100;bulletSpeedRange=25;parentBone=left;isAdditiveAnim=true;simultaneousBullets=1;playerBullets=true;bulletDamage=3;namespace=U;scene_0_values=858.10791015625|578.1734008789062|14.0|270.00000068324533|0.19603653252124786|0.19603653252124786
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.004
+position: (883.501, 578.173, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.327, 0.327, 0.327)
+bounds: (-16.336, -16.336, 16.336, 16.336)
+attributes: animation=fireBall;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parentBone=shoot;isAdditiveAnim=true;simultaneousBullets=1;playerBullets=true;bulletDamage=3;namespace=U;scene_0_values=883.500732421875|578.1734008789062|14.0|270.00000068324533|0.3267275393009186|0.3267275393009186
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.005
+position: (930.068, 706.28, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet38;spawnInterval=0.1;angleRange=85,80,75,70,65,60;bulletSpeedRange=30;parent=Player;parentBone=right;isAdditiveAnim=false;playerBullets=true;bulletDamage=2;namespace=X;scene_0_values=930.067626953125|706.2802124023438|14.0|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.006
+position: (972.761, 575.233, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet20;spawnInterval=0.08;angleRange=90;bulletSpeedRange=35;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXNoOfBullets=2;offsetXGap=220;activate=false;namespace=P;scene_0_values=972.7606201171875|575.2333984375|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.008
+position: (846.258, 706.28, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet38;spawnInterval=0.1;angleRange=95,100,105,110,115,120;bulletSpeedRange=30;parent=Player;parentBone=left;isAdditiveAnim=false;playerBullets=true;bulletDamage=2;namespace=X;scene_0_values=846.25830078125|706.2802124023438|14.0|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.027
+position: (883.501, 620.841, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.25, 0.25, 0.25)
+bounds: (-12.5, -12.5, 12.5, 12.5)
+attributes: animation=playerBullet1;spawnInterval=0.2;angleRange=75,80,85,90,95,100,105;bulletSpeedRange=30;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=7;playerBullets=true;bulletDamage=2;namespace=V;spawnChainlightning=true;lightningAnim=thunderCyan;lightningImpact=impact_blue5;scene_0_values=883.500732421875|620.8409423828125|14.0|270.00000068324533|0.25|0.25
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.028
+position: (883.501, 656.156, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.25, 0.25, 0.25)
+bounds: (-12.5, -12.5, 12.5, 12.5)
+attributes: animation=greenBall;spawnInterval=0.2;angleRange=80,90,100;bulletSpeedRange=30;parentBone=shoot;isAdditiveAnim=true;simultaneousBullets=7;playerBullets=true;bulletDamage=3;namespace=W;spawnChainlightning=true;lightningAnim=thunderGreen;lightningImpact=impact_green10;scene_0_values=883.500732421875|656.15576171875|14.0|270.00000068324533|0.25|0.25
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.041
+position: (400.548, 771.965, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet11;spawnInterval=0.1;angleRange=90,80;bulletSpeedRange=25;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;namespace=A13;scene_0_values=400.5482177734375|771.9654541015625|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.042
+position: (348.078, 771.965, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet11;spawnInterval=0.1;angleRange=90,100;bulletSpeedRange=25;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;namespace=A13;scene_0_values=348.0775146484375|771.9654541015625|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.048
+position: (1368.217, 1195.042, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.15, 0.15, 0.15)
+bounds: (-7.5, -7.5, 7.5, 7.5)
+attributes: animation=playerBullet25;spawnInterval=0.1;angleRange=85,80,75,70,65,60;bulletSpeedRange=30;parent=Player;parentBone=right;isAdditiveAnim=false;playerBullets=true;bulletDamage=2;namespace=A19;scene_0_values=1368.21728515625|1195.0416259765625|14.0|270.00000068324533|0.15000000596046448|0.15000000596046448
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.049
+position: (416.934, 771.965, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet12;spawnInterval=0.1;angleRange=90,85,80,75,70,65,60;bulletSpeedRange=30;parent=Player;parentBone=right;isAdditiveAnim=false;playerBullets=true;bulletDamage=1;namespace=A13;scene_0_values=416.9344482421875|771.9654541015625|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.050
+position: (373.47, 771.965, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet10;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;namespace=A13;scene_0_values=373.4703369140625|771.9654541015625|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.051
+position: (333.125, 771.965, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet12;spawnInterval=0.1;angleRange=90,95,100,105,110,115,120;bulletSpeedRange=30;parent=Player;parentBone=left;isAdditiveAnim=false;playerBullets=true;bulletDamage=1;namespace=A13;scene_0_values=333.1251220703125|771.9654541015625|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.052
+position: (1319.33, 1195.042, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.15, 0.15, 0.15)
+bounds: (-7.5, -7.5, 7.5, 7.5)
+attributes: animation=playerBullet25;spawnInterval=0.1;angleRange=95,100,105,110,115,120;bulletSpeedRange=30;parent=Player;parentBone=left;isAdditiveAnim=false;playerBullets=true;bulletDamage=2;namespace=A19;scene_0_values=1319.3297119140625|1195.0416259765625|14.0|270.00000068324533|0.15000000596046448|0.15000000596046448
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.053
+position: (1378.481, 1282.906, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-9.983, -9.983, 9.983, 9.983)
+attributes: animation=playerBullet25;spawnInterval=0.1;angleRange=90,80;bulletSpeedRange=25;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=1.5;namespace=A21;scene_0_values=1378.4814453125|1282.9056396484375|14.0|270.00000068324533|0.19965092837810516|0.19965092837810516
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.054
+position: (1328.619, 1282.906, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-9.983, -9.983, 9.983, 9.983)
+attributes: animation=playerBullet25;spawnInterval=0.1;angleRange=90,100;bulletSpeedRange=25;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=1.5;namespace=A21;scene_0_values=1328.618896484375|1282.9056396484375|14.0|270.00000068324533|0.19965092837810516|0.19965092837810516
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.055
+position: (1403.64, 1282.906, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet35;spawnInterval=0.1;angleRange=90,85,80,75,70,65,60;bulletSpeedRange=30;parent=Player;parentBone=right;isAdditiveAnim=false;playerBullets=true;bulletDamage=1.5;namespace=A21;scene_0_values=1403.640380859375|1282.9056396484375|14.0|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.056
+position: (1353.537, 1282.906, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet10;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;namespace=A21;scene_0_values=1353.5374755859375|1282.9056396484375|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.057
+position: (1303.945, 1282.906, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet36;spawnInterval=0.1;angleRange=90,95,100,105,110,115,120;bulletSpeedRange=30;parent=Player;parentBone=left;isAdditiveAnim=false;playerBullets=true;bulletDamage=1.5;namespace=A21;scene_0_values=1303.9453125|1282.9056396484375|14.0|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.058
+position: (1381.072, 1337.549, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.196, 0.196, 0.196)
+bounds: (-9.802, -9.802, 9.802, 9.802)
+attributes: animation=greenBall2;spawnInterval=0.1;angleRange=90,85,80;bulletSpeedRange=25;parentBone=right;isAdditiveAnim=true;simultaneousBullets=1;playerBullets=true;bulletDamage=2;namespace=A22;parent=Player;scene_0_values=1381.0716552734375|1337.5487060546875|14.0|270.00000068324533|0.19603653252124786|0.19603653252124786
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.059
+position: (1328.601, 1337.549, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.196, 0.196, 0.196)
+bounds: (-9.802, -9.802, 9.802, 9.802)
+attributes: animation=greenBall2;spawnInterval=0.1;angleRange=90,95,100;bulletSpeedRange=25;parentBone=left;isAdditiveAnim=true;simultaneousBullets=1;playerBullets=true;bulletDamage=2;namespace=A22;parent=Player;scene_0_values=1328.6009521484375|1337.5487060546875|14.0|270.00000068324533|0.19603653252124786|0.19603653252124786
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.060
+position: (1353.994, 1337.549, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.45, 0.45, 0.45)
+bounds: (-22.5, -22.5, 22.5, 22.5)
+attributes: animation=fireBall;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parentBone=shoot;isAdditiveAnim=true;simultaneousBullets=1;playerBullets=true;bulletDamage=2;namespace=A22;parent=Player;scene_0_values=1353.9937744140625|1337.5487060546875|14.0|270.00000068324533|0.44999998807907104|0.44999998807907104
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.065
+position: (1294.044, 1536.865, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.25, 0.25, 0.25)
+bounds: (-12.5, -12.5, 12.5, 12.5)
+attributes: animation=playerBullet26;spawnInterval=0.1;angleRange=90,95,100,105,110,115,120;bulletSpeedRange=30;parent=Player;parentBone=left;isAdditiveAnim=false;playerBullets=true;bulletDamage=1.5;namespace=A26;scene_0_values=1294.0439453125|1536.86474609375|14.0|270.00000068324533|0.25|0.25
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.066
+position: (1393.739, 1536.865, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.25, 0.25, 0.25)
+bounds: (-12.5, -12.5, 12.5, 12.5)
+attributes: animation=playerBullet26;spawnInterval=0.1;angleRange=90,85,80,75,70,65,60;bulletSpeedRange=30;parent=Player;parentBone=right;isAdditiveAnim=false;playerBullets=true;bulletDamage=1.5;namespace=A26;scene_0_values=1393.739013671875|1536.86474609375|14.0|270.00000068324533|0.25|0.25
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.069
+position: (1361.008, 1678.907, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet1;spawnInterval=0.1;angleRange=90,85,80,75,70,65,60;bulletSpeedRange=30;parent=Player;parentBone=right;isAdditiveAnim=false;playerBullets=true;bulletDamage=1.5;namespace=A28;scene_0_values=1361.007568359375|1678.906982421875|14.0|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.070
+position: (1330.061, 1678.907, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet1;spawnInterval=0.1;angleRange=90,95,100,105,110,115,120;bulletSpeedRange=30;parent=Player;parentBone=left;isAdditiveAnim=false;playerBullets=true;bulletDamage=1.5;namespace=A28;scene_0_values=1330.0609130859375|1678.906982421875|14.0|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-5-1
+position: (1532.93, 706.404, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=missile2;spawnInterval=2;angleRange=90;bulletSpeedRange=15;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;isChaser=true;destroyBulletsOnDie=false;namespace=E;scene_0_values=1532.929931640625|706.4038696289062|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-5-1.001
+position: (1318.021, 1011.911, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=missile2;spawnInterval=2;angleRange=40,50;bulletSpeedRange=15;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=3;isChaser=true;destroyBulletsOnDie=false;namespace=A16;scene_0_values=1318.0205078125|1011.9105224609375|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-5-1.002
+position: (1318.021, 1340.414, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=missile2;spawnInterval=2;angleRange=360,340;bulletSpeedRange=15;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=2;isChaser=true;destroyBulletsOnDie=false;namespace=A22;scene_0_values=1318.0205078125|1340.4141845703125|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-5-1.003
+position: (1265.988, 1616.731, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=missile2;spawnInterval=3;angleRange=60;bulletSpeedRange=15;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=1.5;isChaser=true;destroyBulletsOnDie=false;namespace=A27;scene_0_values=1265.9884033203125|1616.73095703125|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-5-2
+position: (1552.305, 706.404, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet6;spawnInterval=0.1;angleRange=90,95,100;bulletSpeedRange=30;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=1;destroyBulletsOnDie=false;namespace=E;scene_0_values=1552.3046875|706.4038696289062|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-5-3
+position: (1575.663, 706.404, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet5;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;namespace=E;scene_0_values=1575.6630859375|706.4038696289062|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-5-4
+position: (1598.484, 706.404, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet6;spawnInterval=0.1;angleRange=90,85,80;bulletSpeedRange=30;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=1;destroyBulletsOnDie=false;namespace=E;scene_0_values=1598.484375|706.4038696289062|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-5-5
+position: (1617.191, 706.404, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=missile2;spawnInterval=2;angleRange=90;bulletSpeedRange=15;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;isChaser=true;destroyBulletsOnDie=false;namespace=E;scene_0_values=1617.19091796875|706.4038696289062|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-5-5.001
+position: (1402.281, 1011.911, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=missile2;spawnInterval=2;angleRange=130,140;bulletSpeedRange=15;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=3;isChaser=true;destroyBulletsOnDie=false;namespace=A16;scene_0_values=1402.281494140625|1011.9105224609375|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-5-5.002
+position: (1402.281, 1340.414, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=missile2;spawnInterval=2;angleRange=200,220;bulletSpeedRange=15;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=2;isChaser=true;destroyBulletsOnDie=false;namespace=A22;scene_0_values=1402.281494140625|1340.4141845703125|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-5-5.003
+position: (1408.715, 1616.731, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=missile2;spawnInterval=3;angleRange=120;bulletSpeedRange=15;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=1.5;isChaser=true;destroyBulletsOnDie=false;namespace=A27;scene_0_values=1408.71484375|1616.73095703125|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P2-5-1
+position: (1341.195, 707.623, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet11;spawnInterval=0.1;angleRange=90,95,100;bulletSpeedRange=25;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;destroyBulletsOnDie=false;namespace=J;scene_0_values=1341.194580078125|707.622802734375|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P2-5-2
+position: (1366.587, 707.623, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet10;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;namespace=J;scene_0_values=1366.58740234375|707.622802734375|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P2-5-3
+position: (1393.665, 707.623, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet11;spawnInterval=0.1;angleRange=90,85,80;bulletSpeedRange=25;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;destroyBulletsOnDie=false;namespace=J;scene_0_values=1393.665283203125|707.622802734375|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-5-1
+position: (1112.488, 707.623, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet14;spawnInterval=0.1;angleRange=90,95,100;bulletSpeedRange=25;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;destroyBulletsOnDie=false;namespace=N;scene_0_values=1112.4876708984375|707.622802734375|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-5-1.001
+position: (1327.746, 1481.784, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.15, 0.15, 0.15)
+bounds: (-7.5, -7.5, 7.5, 7.5)
+attributes: animation=playerBullet59;spawnInterval=0.1;angleRange=90,95,100;bulletSpeedRange=25;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;namespace=A25;scene_0_values=1327.746337890625|1481.7843017578125|14.0|270.00000068324533|0.15000000596046448|0.15000000596046448
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-5-2
+position: (1137.881, 707.623, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.5, 0.5, 0.5)
+bounds: (-25.0, -25.0, 25.0, 25.0)
+attributes: animation=playerBullet15;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;destroyBulletsOnDie=false;namespace=N;scene_0_values=1137.880615234375|707.622802734375|14.0|270.00000068324533|0.5|0.5
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-5-2.001
+position: (1353.139, 1481.784, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.28, 0.28, 0.28)
+bounds: (-14.0, -14.0, 14.0, 14.0)
+attributes: animation=playerBullet41;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=1.5;destroyBulletsOnDie=false;namespace=A25;scene_0_values=1353.13916015625|1481.7843017578125|14.0|270.00000068324533|0.2800000011920929|0.2800000011920929
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-5-3
+position: (1164.958, 707.623, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet14;spawnInterval=0.1;angleRange=90,85,80;bulletSpeedRange=25;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;destroyBulletsOnDie=false;namespace=N;scene_0_values=1164.95849609375|707.622802734375|14.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-5-3.001
+position: (1378.557, 1481.784, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.15, 0.15, 0.15)
+bounds: (-7.5, -7.5, 7.5, 7.5)
+attributes: animation=playerBullet59;spawnInterval=0.1;angleRange=90,85,80;bulletSpeedRange=25;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;namespace=A25;scene_0_values=1378.557373046875|1481.7843017578125|14.0|270.00000068324533|0.15000000596046448|0.15000000596046448
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-1-1
+position: (1573.343, 558.899, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet2;spawnInterval=0.08;angleRange=90;bulletSpeedRange=40;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;offsetXGap=60;offsetXNoOfBullets=3;namespace=A;scene_0_values=1573.34326171875|558.8987426757812|14.000001907348633|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-2-1
+position: (1573.343, 597.314, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet2;spawnInterval=0.1;angleRange=80,85,90,95,100;bulletSpeedRange=40;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=5;playerBullets=true;bulletDamage=1.2;destroyBulletsOnDie=false;namespace=B;spawnChainlightning=true;lightningAnim=thunderBlue;lightningImpact=impact_blue5;scene_0_values=1573.34326171875|597.3135375976562|14.000001907348633|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P2-1-1
+position: (1364.268, 544.471, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet10;spawnInterval=0.1;angleRange=90;bulletSpeedRange=40;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=3;offsetXGap=70;offsetXNoOfBullets=2;destroyBulletsOnDie=false;namespace=F;spawnChainlightning=true;lightningAnim=thunderOrange;lightningImpact=impact_orange3;scene_0_values=1364.267822265625|544.47119140625|14.000001907348633|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P2-2-1
+position: (1364.268, 582.886, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet10;spawnInterval=0.1;angleRange=80,90,100;bulletSpeedRange=40;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=1;offsetXGap=50;offsetXNoOfBullets=3;destroyBulletsOnDie=false;namespace=G;scene_0_values=1364.267822265625|582.885986328125|14.000001907348633|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P2-2-2
+position: (1379.13, 582.886, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet11;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=3;offsetXGap=150;offsetXNoOfBullets=2;destroyBulletsOnDie=false;namespace=G;scene_0_values=1379.13037109375|582.885986328125|14.000001907348633|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-1-1
+position: (1138.542, 533.77, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet13;spawnInterval=0.1;angleRange=90;bulletSpeedRange=40;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=3;offsetXGap=15;offsetXNoOfBullets=2;destroyBulletsOnDie=false;namespace=K;spawnChainlightning=true;lightningAnim=thunderPurple;lightningImpact=impact_p1;scene_0_values=1138.5419921875|533.77001953125|14.000001907348633|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-2-1
+position: (1137.911, 572.185, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet14;spawnInterval=0.1;angleRange=90;bulletSpeedRange=20;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=2;offsetXGap=40;offsetXNoOfBullets=3;destroyBulletsOnDie=false;spawnChainlightning=true;lightningAnim=thunderPurple;namespace=A29;lightningImpact=impact_p1;scene_0_values=1137.9111328125|572.184814453125|14.000001907348633|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-3-1
+position: (1549.654, 631.497, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet9;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;namespace=C;scene_0_values=1549.654296875|631.4969482421875|14.000027656555176|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-3-2
+position: (1572.923, 631.497, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet46;spawnInterval=0.05;angleRange=90;bulletSpeedRange=40;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;namespace=C;scene_0_values=1572.92333984375|631.4969482421875|14.000027656555176|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P1-3-3
+position: (1595.834, 631.497, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet8;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=right;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=2;destroyBulletsOnDie=false;namespace=C;scene_0_values=1595.83447265625|631.4969482421875|14.000027656555176|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P2-3-1
+position: (1363.848, 617.069, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet10;spawnInterval=0.05;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=1;offsetXGap=30;offsetXNoOfBullets=3;destroyBulletsOnDie=false;namespace=H;scene_0_values=1363.847900390625|617.0693969726562|14.000027656555176|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P2-3-2
+position: (1391.195, 617.069, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet10;spawnInterval=0.1;angleRange=90;bulletSpeedRange=40;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXGap=150;offsetXNoOfBullets=2;destroyBulletsOnDie=false;namespace=H;scene_0_values=1391.1953125|617.0693969726562|14.000027656555176|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-3-1
+position: (1123.251, 606.368, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet14;spawnInterval=0.1;angleRange=90;bulletSpeedRange=20;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=1;offsetXGap=30;offsetXNoOfBullets=3;destroyBulletsOnDie=false;namespace=L;scene_0_values=1123.2509765625|606.3682250976562|14.000027656555176|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-3-2
+position: (1150.598, 606.368, 14.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.4, 0.4, 0.4)
+bounds: (-20.0, -20.0, 20.0, 20.0)
+attributes: animation=playerBullet15;spawnInterval=0.1;angleRange=90;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=1.5;offsetXGap=150;offsetXNoOfBullets=2;destroyBulletsOnDie=false;namespace=L;scene_0_values=1150.598388671875|606.3682250976562|14.000027656555176|270.00000068324533|0.4000000059604645|0.4000000059604645
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.029
+position: (1356.801, 878.289, 15.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.594, 0.594, 0.594)
+bounds: (-29.71, -29.71, 29.71, 29.71)
+attributes: animation=playerBullet3;spawnInterval=0.1;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=1.5;destroyBulletsOnDie=false;playerBullets=true;useWorldRotation=true;angleRange=90;namespace=A14;scene_0_values=1356.80078125|878.28857421875|15.0|270.00000068324533|0.5942052006721497|0.5942052006721497
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.030
+position: (1332.836, 878.289, 15.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.402, 0.402, 0.402)
+bounds: (-20.087, -20.087, 20.087, 20.087)
+attributes: animation=playerBullet19;spawnInterval=0.2;bulletSpeedRange=28;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=2;destroyBulletsOnDie=false;playerBullets=true;useWorldRotation=true;angleRange=85;namespace=A14;scene_0_values=1332.8355712890625|878.28857421875|15.0|270.00000068324533|0.40173593163490295|0.40173593163490295
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.031
+position: (1377.108, 878.289, 15.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.402, 0.402, 0.402)
+bounds: (-20.087, -20.087, 20.087, 20.087)
+attributes: animation=playerBullet19;spawnInterval=0.2;bulletSpeedRange=28;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=2;destroyBulletsOnDie=false;playerBullets=true;useWorldRotation=true;angleRange=95;namespace=A14;scene_0_values=1377.10791015625|878.28857421875|15.0|270.00000068324533|0.40173593163490295|0.40173593163490295
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.032
+position: (1408.897, 878.289, 15.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.603, 0.603, 0.603)
+bounds: (-30.13, -30.13, 30.13, 30.13)
+attributes: animation=playerBullet19;spawnInterval=0.1;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=1.5;destroyBulletsOnDie=false;playerBullets=true;useWorldRotation=true;angleRange=100;namespace=A14;scene_0_values=1408.8970947265625|878.28857421875|15.0|270.00000068324533|0.6026039123535156|0.6026039123535156
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.033
+position: (1301.61, 878.289, 15.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.603, 0.603, 0.603)
+bounds: (-30.13, -30.13, 30.13, 30.13)
+attributes: animation=playerBullet19;spawnInterval=0.1;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=1.5;destroyBulletsOnDie=false;playerBullets=true;useWorldRotation=true;angleRange=80;namespace=A14;scene_0_values=1301.6102294921875|878.28857421875|15.0|270.00000068324533|0.6026039123535156|0.6026039123535156
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.038
+position: (1347.212, 1011.911, 15.0)
+rotation: (0.0, -0.0, 0.0)
+scale: (0.45, 0.45, 0.45)
+bounds: (-22.5, -22.5, 22.5, 22.5)
+attributes: animation=playerBullet26;spawnInterval=0.1;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=3;destroyBulletsOnDie=false;angleRange=90;dontRotateWithParentBone=false;playerBullets=true;useWorldRotation=true;namespace=A16;scene_0_values=1347.2115478515625|1011.9105224609375|15.0|0.0|0.44999998807907104|0.44999998807907104
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.039
+position: (1380.023, 1013.18, 15.0)
+rotation: (0.0, -0.0, 0.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=enemyBullet67;spawnInterval=0.1;bulletSpeedRange=32;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=2.5;destroyBulletsOnDie=false;dontRotateWithParentBone=false;playerBullets=true;useWorldRotation=true;angleRange=90;namespace=A16;scene_0_values=1380.022705078125|1013.1798095703125|15.0|0.0|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.040
+position: (1353.497, 1082.691, 15.0)
+rotation: (0.0, -0.0, 0.0)
+scale: (0.5, 0.5, 0.5)
+bounds: (-25.0, -25.0, 25.0, 25.0)
+attributes: animation=fireBall;spawnInterval=0.1;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=true;simultaneousBullets=1;bulletDamage=3;destroyBulletsOnDie=false;angleRange=90;playerBullets=true;useWorldRotation=true;namespace=A17;scene_0_values=1353.4967041015625|1082.6910400390625|15.0|0.0|0.5|0.5
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.043
+position: (1304.801, 1085.454, 15.0)
+rotation: (0.0, -0.0, 0.0)
+scale: (0.473, 0.473, 0.473)
+bounds: (-23.659, -23.667, 23.659, 23.667)
+attributes: animation=playerBullet57;spawnInterval=0.1;bulletSpeedRange=25;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=3;destroyBulletsOnDie=false;angleRange=90;playerBullets=true;useWorldRotation=true;namespace=A17;scene_0_values=1304.8009033203125|1085.454345703125|15.0|0.0|0.47317177057266235|0.4733332395553589
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.044
+position: (1396.721, 1088.571, 15.0)
+rotation: (0.0, -0.0, 0.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.006, -15.011, 15.006, 15.011)
+attributes: animation=playerBullet57;spawnInterval=0.1;bulletSpeedRange=25;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=2;destroyBulletsOnDie=false;angleRange=90;playerBullets=true;useWorldRotation=true;namespace=A17;scene_0_values=1396.72119140625|1088.570556640625|15.0|0.0|0.3001258373260498|0.3002282679080963
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.045
+position: (1362.582, 1148.288, 15.0)
+rotation: (0.0, -0.0, 0.0)
+scale: (0.455, 0.455, 0.455)
+bounds: (-22.768, -22.768, 22.768, 22.768)
+attributes: animation=playerBullet10;spawnInterval=0.1;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=2.5;destroyBulletsOnDie=false;useWorldRotation=true;angleRange=90;dontRotateWithParentBone=false;playerBullets=true;namespace=A18;scene_0_values=1362.58154296875|1148.2879638671875|15.0|0.0|0.455364465713501|0.455364465713501
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.046
+position: (1393.201, 1148.288, 15.0)
+rotation: (0.0, -0.0, 0.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.012, -10.012, 10.012, 10.012)
+attributes: animation=playerBullet50;spawnInterval=0.12;bulletSpeedRange=28;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=1;destroyBulletsOnDie=false;useWorldRotation=true;angleRange=90;dontRotateWithParentBone=false;playerBullets=true;namespace=A18;scene_0_values=1393.2012939453125|1148.2879638671875|15.0|0.0|0.20023219287395477|0.20023219287395477
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.047
+position: (1329.602, 1148.298, 15.0)
+rotation: (0.0, -0.0, 0.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.012, -10.012, 10.012, 10.012)
+attributes: animation=playerBullet51;spawnInterval=0.12;bulletSpeedRange=28;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=1;destroyBulletsOnDie=false;useWorldRotation=true;angleRange=90;dontRotateWithParentBone=false;playerBullets=true;namespace=A18;scene_0_values=1329.601806640625|1148.2979736328125|15.0|0.0|0.20023219287395477|0.20023219287395477
+=====***=====
+=====###=====
+type: gameObject
+name: Player
+position: (90.278, 1412.405, 15.0)
+rotation: (0.0, -0.0, 0.0)
+scale: (0.8, 0.8, 0.8)
+bounds: (-61.6, -38.0, 61.6, 38.0)
+attributes: scene_0_values=90.27777099609375|1412.4046630859375|15.0|0.0|0.800000011920929|0.800000011920929
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.067
+position: (1340.098, 1602.975, 16.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.35, 0.35, 0.35)
+bounds: (-17.5, -17.5, 17.5, 17.5)
+attributes: animation=enemyBullet68;spawnInterval=0.1;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;bulletDamage=2;destroyBulletsOnDie=false;playerBullets=true;useWorldRotation=true;angleRange=90;namespace=A27;scene_0_values=1340.09814453125|1602.974609375|16.0|270.00000068324533|0.3499999940395355|0.3499999940395355
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.P3-4-2.001
+position: (866.08, 525.749, 16.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.2, 0.2, 0.2)
+bounds: (-10.0, -10.0, 10.0, 10.0)
+attributes: animation=playerBullet21;spawnInterval=0.15;angleRange=90;bulletSpeedRange=20;parentBone=left;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=5;destroyBulletsOnDie=false;namespace=T;scene_0_values=866.07958984375|525.7486572265625|16.0|270.00000068324533|0.20000000298023224|0.20000000298023224
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.016
+position: (413.649, 563.493, 29.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet11;activate=true;spawnInterval=0.1;bulletSpeedRange=45;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=3;bulletSpawnerToActivate=0.1-BulletSpawner.017;lifeTime=0.1;angleRange=80,90,100;namespace=A10;scene_0_values=413.64892578125|563.492919921875|28.999990463256836|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.017
+position: (429.801, 563.744, 29.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet11;spawnInterval=0;bulletSpeedRange=20;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=1;angleRange=80,90,100;namespace=A10;scene_0_values=429.8011779785156|563.744140625|28.999990463256836|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.018
+position: (424.553, 617.89, 29.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.5, 0.5, 0.5)
+bounds: (-25.0, -25.0, 25.0, 25.0)
+attributes: animation=playerBullet23;activate=true;spawnInterval=0.1;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;bulletSpawnerToActivate=0.8-BulletSpawner.019;lifeTime=-1;angleRange=90;namespace=A11;scene_0_values=424.5528869628906|617.8902587890625|28.999990463256836|270.00000068324533|0.5|0.5
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.019
+position: (439.413, 618.847, 29.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.15, 0.15, 0.15)
+bounds: (-7.5, -7.5, 7.5, 7.5)
+attributes: animation=playerBullet25;spawnInterval=0;bulletSpeedRange=20;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=3;angleRange=30,150;offsetXGap=50;offsetXNoOfBullets=2;namespace=A11;scene_0_values=439.4128112792969|618.8470458984375|28.999990463256836|270.00000068324533|0.15000000596046448|0.15000000596046448
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.020
+position: (408.351, 690.655, 29.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.5, 0.5, 0.5)
+bounds: (-25.0, -25.0, 25.0, 25.0)
+attributes: animation=playerBullet23;activate=true;spawnInterval=0.2;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=2;bulletSpawnerToActivate=0.6-BulletSpawner.022;lifeTime=-1;angleRange=60,90,120;namespace=A12;scene_0_values=408.3513488769531|690.6552734375|28.999990463256836|270.00000068324533|0.5|0.5
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.022
+position: (428.772, 690.366, 29.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.45, 0.45, 0.45)
+bounds: (-22.5, -22.5, 22.5, 22.5)
+attributes: animation=playerBullet23;spawnInterval=0;bulletSpeedRange=20;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=3;angleRange=90;offsetXGap=50;offsetXNoOfBullets=2;namespace=A12;scene_0_values=428.7717590332031|690.36572265625|28.999990463256836|270.00000068324533|0.45000001788139343|0.45000001788139343
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.023
+position: (531.765, 510.084, 29.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.25, 0.25, 0.25)
+bounds: (-12.5, -12.5, 12.5, 12.5)
+attributes: animation=playerBullet23;activate=true;spawnInterval=0.2;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=5;playerBullets=true;bulletDamage=2;bulletSpawnerToActivate=0.2-BulletSpawner.024;lifeTime=-1;angleRange=30,60,90,120,150;namespace=A4;scene_0_values=531.7649536132812|510.08380126953125|28.999990463256836|270.00000068324533|0.25|0.25
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.024
+position: (550.14, 510.841, 29.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.225, 0.225, 0.225)
+bounds: (-11.25, -11.25, 11.25, 11.25)
+attributes: animation=playerBullet23;spawnInterval=0;bulletSpeedRange=20;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;angleRange=90;namespace=A4;scene_0_values=550.14013671875|510.84088134765625|28.999990463256836|270.00000068324533|0.22500000894069672|0.22500000894069672
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.025
+position: (529.853, 558.258, 29.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet19;activate=true;spawnInterval=0.1;bulletSpeedRange=30;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=2;bulletSpawnerToActivate=0.5-BulletSpawner.026;lifeTime=-1;angleRange=90;offsetXNoOfBullets=3;offsetXGap=50;namespace=A5;scene_0_values=529.8533325195312|558.2578735351562|28.999990463256836|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.026
+position: (555.697, 558.509, 29.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet19;spawnInterval=0;bulletSpeedRange=20;isAdditiveAnim=false;simultaneousBullets=2;playerBullets=true;bulletDamage=3;angleRange=60,120;namespace=A5;scene_0_values=555.6969604492188|558.5090942382812|28.999990463256836|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.009
+position: (536.629, 613.976, 29.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet42;activate=true;spawnInterval=0.2;angleRange=90;bulletSpeedRange=50;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=3;playerBullets=true;bulletDamage=4;changeSpeed=0.2-0.2;offsetXGap=80;offsetXNoOfBullets=3;namespace=A6;spawnChainlightning=true;lightningAnim=thunderGreen;lightningImpact=impact_green10;scene_0_values=536.629150390625|613.9757080078125|29.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.010
+position: (532.453, 678.624, 29.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet11;activate=true;spawnInterval=0.3;angleRange=90;bulletSpeedRange=45;parent=Player;parentBone=shoot;isAdditiveAnim=false;simultaneousBullets=1;playerBullets=true;bulletDamage=3;bulletSpawnerToActivate=0.3-BulletSpawner.013;lifeTime=0.3;namespace=A7;scene_0_values=532.4530029296875|678.6236572265625|29.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.013
+position: (547.633, 679.381, 29.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet11;spawnInterval=0;angleRange=30,45,60,75,90,105,120,135,150;bulletSpeedRange=20;isAdditiveAnim=false;simultaneousBullets=9;playerBullets=true;bulletDamage=2;namespace=A7;scene_0_values=547.6325073242188|679.3807373046875|29.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.014
+position: (539.97, 751.391, 30.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet38;spawnInterval=0.2;angleRange=60,70,80,90,100,110,120;bulletSpeedRange=5;isAdditiveAnim=false;simultaneousBullets=7;playerBullets=true;bulletDamage=3;parent=Player;parentBone=shoot;changeSpeed=0.1-10;namespace=A8;spawnChainlightning=true;lightningAnim=thunderPink;lightningImpact=impact_p1;scene_0_values=539.9700927734375|751.3909912109375|30.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.015
+position: (425.611, 515.445, 30.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.3, 0.3, 0.3)
+bounds: (-15.0, -15.0, 15.0, 15.0)
+attributes: animation=playerBullet25;spawnInterval=0.2;bulletSpeedRange=45;isAdditiveAnim=false;simultaneousBullets=15;playerBullets=true;bulletDamage=5;parent=Player;parentBone=root;omnidirectionalShoot=true;namespace=A9;spawnChainlightning=true;lightningAnim=thunderGreen;lightningImpact=impact_green10;scene_0_values=425.61114501953125|515.4447021484375|30.0|270.00000068324533|0.30000001192092896|0.30000001192092896
+=====***=====
+=====###=====
+type: gameObject
+name: BulletSpawner.068
+position: (1346.02, 1676.537, 30.0)
+rotation: (0.0, -0.0, 270.0)
+scale: (0.1, 0.1, 0.1)
+bounds: (-5.0, -5.0, 5.0, 5.0)
+attributes: animation=playerBullet47;spawnInterval=0.2;angleRange=60,70,80,90,100,110,120;bulletSpeedRange=5;isAdditiveAnim=false;simultaneousBullets=7;playerBullets=true;bulletDamage=2;parent=Player;parentBone=shoot;changeSpeed=0.1-10;namespace=A28;scene_0_values=1346.020263671875|1676.5369873046875|30.0|270.00000068324533|0.10000000149011612|0.10000000149011612
+=====***=====

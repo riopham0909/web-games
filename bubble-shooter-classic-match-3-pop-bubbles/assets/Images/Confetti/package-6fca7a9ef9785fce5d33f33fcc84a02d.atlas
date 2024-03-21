@@ -1,0 +1,90 @@
+
+package.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle/orange/orange
+  rotate: false
+  xy: 82, 6
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+circle/red/red
+  rotate: false
+  xy: 146, 350
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+circle/yellow/yellow
+  rotate: false
+  xy: 146, 210
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+fg/purple/purple
+  rotate: false
+  xy: 6, 82
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fg/yellow/yellow
+  rotate: false
+  xy: 222, 350
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+group/group
+  rotate: false
+  xy: 6, 222
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+sparkle/sparkle
+  rotate: false
+  xy: 298, 338
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+square/blue/blue
+  rotate: false
+  xy: 6, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+square/green/green
+  rotate: false
+  xy: 146, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+square/orange/orange
+  rotate: false
+  xy: 222, 274
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+square/pink/pink
+  rotate: false
+  xy: 298, 414
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+square/red/red
+  rotate: false
+  xy: 222, 198
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

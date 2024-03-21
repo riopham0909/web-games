@@ -1,0 +1,7 @@
+HP;60
+speed;20
+damage;1
+gravity;0.5
+maxDownwardVelocity;8
+timeBetweenEnemySpawn;3
+lerpVelocityToZeroSpeed;0.07

@@ -1,0 +1,251 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+character_happy/ear
+  rotate: true
+  xy: 821, 191
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+character_happy/head
+  rotate: false
+  xy: 1, 75
+  size: 190, 180
+  orig: 190, 180
+  offset: 0, 0
+  index: -1
+character_happy/leftEyeBall
+  rotate: true
+  xy: 294, 1
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+character_happy/leftEyeBallBase
+  rotate: true
+  xy: 639, 72
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+character_happy/leftHandLow
+  rotate: false
+  xy: 383, 151
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+character_happy/leftHandUp
+  rotate: false
+  xy: 639, 127
+  size: 87, 42
+  orig: 87, 42
+  offset: 0, 0
+  index: -1
+character_happy/lens
+  rotate: true
+  xy: 381, 46
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+character_happy/lowerArm
+  rotate: false
+  xy: 1, 15
+  size: 138, 59
+  orig: 138, 59
+  offset: 0, 0
+  index: -1
+character_happy/lowerJaw
+  rotate: false
+  xy: 582, 88
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+character_happy/rightEyeBall
+  rotate: true
+  xy: 977, 224
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+character_happy/rightEyeBallBase
+  rotate: true
+  xy: 232, 1
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+character_happy/tail1
+  rotate: true
+  xy: 704, 68
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+character_happy/tail2
+  rotate: false
+  xy: 232, 43
+  size: 99, 31
+  orig: 99, 31
+  offset: 0, 0
+  index: -1
+character_happy/torso
+  rotate: true
+  xy: 510, 155
+  size: 100, 127
+  orig: 100, 127
+  offset: 0, 0
+  index: -1
+character_happy/upperArm
+  rotate: false
+  xy: 748, 184
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+character_happy/upperJaw
+  rotate: false
+  xy: 748, 134
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+character_sad/backCloseEye
+  rotate: false
+  xy: 410, 15
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+character_sad/eyeBrows
+  rotate: true
+  xy: 373, 1
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+character_sad/eyeLidBack
+  rotate: false
+  xy: 453, 46
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+character_sad/eyeLidFront
+  rotate: false
+  xy: 414, 42
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+character_sad/frontCloseEyes
+  rotate: false
+  xy: 332, 47
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+character_sad/head
+  rotate: false
+  xy: 192, 75
+  size: 190, 180
+  orig: 190, 180
+  offset: 0, 0
+  index: -1
+character_sad/jaw
+  rotate: false
+  xy: 512, 87
+  size: 69, 67
+  orig: 69, 67
+  offset: 0, 0
+  index: -1
+character_sad/leftEyeBallBase2
+  rotate: false
+  xy: 977, 164
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+character_sad/lowerJaw
+  rotate: false
+  xy: 512, 46
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+character_sad/rightEyeBallBase
+  rotate: false
+  xy: 737, 78
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+character_sad/tearFall
+  rotate: true
+  xy: 638, 170
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+character_sad/tears
+  rotate: true
+  xy: 394, 1
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+character_sad/tears2
+  rotate: true
+  xy: 727, 138
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+character_sad/toonCloud
+  rotate: true
+  xy: 771, 81
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+character_sad/upperJaw
+  rotate: false
+  xy: 140, 26
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+character_waiting/cheekHand
+  rotate: false
+  xy: 383, 78
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+character_waiting/lowerArm
+  rotate: true
+  xy: 900, 189
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+character_waiting/rightHand
+  rotate: true
+  xy: 462, 72
+  size: 78, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+character_waiting/tapFinger
+  rotate: false
+  xy: 346, 1
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1

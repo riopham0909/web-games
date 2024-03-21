@@ -1,0 +1,19 @@
+HP                  ;350
+speed               ;5
+gravity             ;5
+rangeY              ;20
+acidicBodyDamage    ;20
+laserDamage         ;5
+bulletDamage        ;5
+trackingTime        ;5
+restTimer           ;0.5
+defenceTime         ;2
+immuneTime          ;2
+weakSpotAnim        ;weakSpot6
+weakSpotBlast       ;smallBlast
+bigBlast            ;inAirExplosionBIG
+//---FormationAttack;attributes
+formationName       ;star,trangle3,square
+objectAnim          ;energyBall126,energyBall107,energyBall111
+bulletImpact        ;energyBall_impact68,energyBall_impact,energyBall_impact
+animationSpeed      ;0.5f

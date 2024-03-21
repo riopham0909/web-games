@@ -1,0 +1,4 @@
+attackLoop   ; 4
+standLoop    ; 2
+dieBlinkTime ;
+bigBlast     ; normalExplosion1

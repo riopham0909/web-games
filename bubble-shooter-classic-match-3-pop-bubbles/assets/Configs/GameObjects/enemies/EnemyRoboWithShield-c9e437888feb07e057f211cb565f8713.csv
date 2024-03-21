@@ -1,0 +1,11 @@
+HP;20
+acidicBodyDamage;1
+bulletDamage;3
+speed;2
+range;3
+dieBlinkTime;1
+gravity;0.5
+maxDownwardVelocity;8
+standLoop;1
+attackLoop;1
+rangeDistance;700-800
