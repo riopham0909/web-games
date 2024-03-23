@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Garden Tales Mahjong 2</title>
+    <link rel="icon" type="image/GIF" href="Icon_512x512.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.01">
+    <script src="sdk/platform-wrapper/AzerionWrapper-2.x.min.js"></script>
+
+    <style>
+      body {
+        margin: 0;
+        background-color: #08b146;
+        overflow: hidden;
+        touch-action: none;
+        background-size: 100%;
+        font-family: sans-serif;
+      }
+
+      #orientation {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        color: white;
+        width: 100%;
+        height: 100%;
+        background-color: black;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        visibility: collapse;
+        z-index: 1000;
+      }
+
+      #orientation h3 {
+        text-align: center;
+        line-height: 1.3em;
+      }
+    </style>
+</head>
+<body>
+  <style id="fonts"></style>
+
+  <div id="orientation">
+    <img src="images/orientation.jpg" alt="Please rotate your device"/>
+    <h3>PLEASE ROTATE<br>YOUR DEVICE</h3>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
