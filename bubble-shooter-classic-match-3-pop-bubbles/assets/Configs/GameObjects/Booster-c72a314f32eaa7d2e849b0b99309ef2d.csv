@@ -1,0 +1,27 @@
+//Airstrike M
+AirStrikeVelocityY			;10
+
+//Magnet N
+MagnetTimer			       ;10
+CoinLerpX			         ;0.05
+CoinLerpY			         ;0.05
+
+
+//Laser L
+LaserTimer			        ;10
+
+
+//Shield B
+ShieldTimer			       ;10
+
+
+//Drone K
+DroneTimer			        ;10
+MovementLerpX			     ;0.2
+MovementLerpY			     ;0.2
+LeftOffsetX          ;120
+RightOffsetX         ;-120
+LeftOffsetY          ;0
+RightOffsetY         ;0
+
+

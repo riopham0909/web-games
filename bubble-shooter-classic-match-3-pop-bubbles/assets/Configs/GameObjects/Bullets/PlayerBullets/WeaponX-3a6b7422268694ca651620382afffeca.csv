@@ -1,0 +1,4 @@
+maxDownwardVelocity;8
+speed              ;50
+chargedSpeed       ;70
+gravity            ;0.2

@@ -1,0 +1,27 @@
+HP                     ;1000 //TotalBossHP
+weakSpotHP             ;400
+gunAndSpawnerHP        ;600
+speed                  ;4
+acidicBodyDamage       ;10
+restTimer              ;2
+hpBarHeight            ;400
+hpBarWidth             ;10
+laserAttackCount       ;4
+formationAttackCount   ;4
+spaceGrabberAttackCount;4
+formationAttackDamage  ;1
+laserAttackDamage      ;1
+removeOnExplosion      ;false
+
+//---FormationAttack   ;attributes
+formationName          ;cross,polygon,swastika1.3,triangle,cross2
+objectAnimation        ;energyBall3,energyBall4,energyBall6,energyBall10,energyBall26
+objectAnimationScale   ;1,0.5,0.5,1,1
+animationSpeed         ;0.3f
+animationVelocityY     ;4
+
+
+//---Bullet            ;Attributes
+bulletSpeed            ;10
+
+//---Boss              ;Scene

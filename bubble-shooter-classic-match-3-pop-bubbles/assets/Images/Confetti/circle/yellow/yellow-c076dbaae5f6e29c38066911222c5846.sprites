@@ -1,0 +1,12 @@
+<img name="partyShoot3.png">
+
+	<spr name="yellow_01.png" x="0" y="19" w="29" h="19" fx="0" fy="0" fw="29" fh="19">
+	<spr name="yellow_02.png" x="0" y="38" w="29" h="12" fx="0" fy="0" fw="29" fh="12">
+	<spr name="yellow_03.png" x="0" y="50" w="20" h="24" fx="0" fy="0" fw="20" fh="24">
+	<spr name="yellow_04.png" x="0" y="0" w="32" h="19" fx="0" fy="0" fw="32" fh="19">
+	<spr name="yellow_05.png" x="32" y="0" w="29" h="20" fx="0" fy="0" fw="29" fh="20">
+	<spr name="yellow_06.png" x="29" y="49" w="20" h="24" fx="0" fy="0" fw="20" fh="24">
+	<spr name="yellow_07.png" x="29" y="36" w="29" h="13" fx="0" fy="0" fw="29" fh="13">
+	<spr name="yellow_08.png" x="29" y="20" w="29" h="16" fx="0" fy="0" fw="29" fh="16">
+</img>
+

@@ -1,0 +1,49 @@
+HP                      ;100
+acidicBodyDamage        ;0
+explosiveDamage									;10
+isSolidBody             ;false
+isImmune                ;false
+dontRotateWithParentBone;false
+ignoreEnemyBullet       ;false
+ignoreBullet            ;false
+ignoreBullets           ;false // same function as ignoreBullet - added because it was used in map
+hurtEnemyAndPlayer      ;false
+dieAnimation            ;die
+visible                 ;true
+targetPlayer            ;false
+ignoreParentBoneScale   ;true
+shakeOnHurt             ;true
+removeBulletSpawnerOnDie;true
+dieVFXType              ;timelineFX/templates_inAir/inAir_medium
+ignoreDamageFromParent  ;false
+shakeOnHurtBig          ;false
+resetRotationOnDie      ;false
+velocityX               ;0
+velocityY               ;0
+moveInScreen            ;false
+vfxBoundsMultiplier     ;1
+critDmgOnly             ;false
+moveInScreenLeftLimit   ;0.05 // percentage of screen
+moveInScreenTopLimit    ;0.05
+moveInScreenRightLimit  ;0.05
+moveInScreenBottomLimit ;0.05
+showWarningIndicator    ;false
+rotateTargetBone        ;false
+rotateTargetBoneLerp    ;0.01f
+trailVfxAnimationNames  ;---
+trailVFXTimer           ;---
+velocityLerp            ;0.01
+fixedTargetBoneRotation	;0
+dieBulletSpawnerToActivate		;null
+isSniper																;false
+dashPlayer														;false
+killAllEnemiesOnDie					;false
+showWarningLine									;false
+enemyDestroyRadius						;1200
+animationDeltaTime 					; 1
+removeIfNoChildren						;false
+parentBoneLerp										;0.05
+entryPathAnim											;---
+entryPathDeltaTime						;1
+ignoreParentBoneTime    ;0
+rotateWithMovement						;false

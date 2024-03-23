@@ -1,0 +1,12 @@
+HP;40
+hpShield;20
+damage;40
+speed;0
+gravity;0.5
+maxDownwardVelocity;8
+dieVelocityX;18
+dieVelocityY;8
+dieBlinkTime;1
+rangeDistance;700-800
+standLoop;3
+attackLoop;3

@@ -1,0 +1,12 @@
+HP              ;250              ;
+acidicBodyDamage;10;
+bulletDamage;2;
+gunRestTime;1.5;
+spawnerRestTime ;0.8
+hpBarHeight;10;
+hpBarWidth;100;
+enemyToSpawn;FlyingObjectEnemy;
+activationTime;1;
+;;
+//---;Bullet;Attributes
+bulletSpeed     ;15               ;

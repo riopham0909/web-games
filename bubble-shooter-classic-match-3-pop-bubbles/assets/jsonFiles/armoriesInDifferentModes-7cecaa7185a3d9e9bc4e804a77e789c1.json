@@ -1,0 +1,114 @@
+{
+  "Saviour": {
+    "primaryGun": {
+      "machineGun1": ""
+    },
+    "pistolGun": {
+      "handGun1": ""
+    },
+    "melee": {
+      "knife": ""
+    },
+    "gadgets": {
+      "airstrike": "1",
+      "adrenaline": "1",
+      "machineGunDrone": "1",
+      "chaserDrone": "1",
+      "heavyDrone": "1"
+    },
+    "priceMultipliers": {
+      "life": "0.2",
+      "adrenaline": "0.2",
+      "airstrike": "0.2",
+      "bullets": "0",
+      "machineGunDrone": "0.1",
+      "chaserDrone": "0.2",
+      "heavyDrone": "0.1"
+    },
+    "defaultLives": "5"
+  },
+  "TimeAttack": {
+    "primaryGun": {
+      "machineGun1": ""
+    },
+    "pistolGun": {
+      "handGun1": ""
+    },
+    "melee": {
+      "knife": ""
+    },
+    "gadgets": {
+      "airstrike": "1",
+      "adrenaline": "1",
+      "machineGunDrone": "1",
+      "chaserDrone": "1",
+      "heavyDrone": "1"
+    },
+    "priceMultipliers": {
+      "life": "0.2",
+      "adrenaline": "0.2",
+      "airstrike": "0.2",
+      "bullets": "0",
+      "machineGunDrone": "0.1",
+      "chaserDrone": "0.2",
+      "heavyDrone": "0.1"
+    },
+    "defaultLives": "5"
+  },
+  "BossRush": {
+    "primaryGun": {
+      "machineGun1": ""
+    },
+    "pistolGun": {
+      "handGun1": ""
+    },
+    "melee": {
+      "knife": ""
+    },
+    "gadgets": {
+      "airstrike": "1",
+      "adrenaline": "1",
+      "machineGunDrone": "1",
+      "chaserDrone": "1",
+      "heavyDrone": "1"
+    },
+    "priceMultipliers": {
+      "life": "0.2",
+      "adrenaline": "0.2",
+      "airstrike": "0.2",
+      "bullets": "0",
+      "machineGunDrone": "0.1",
+      "chaserDrone": "0.2",
+      "heavyDrone": "0.1"
+    },
+    "defaultLives": "5"
+  },
+  "Mercenary": {
+    "primaryGun": {
+      "smg1": ""
+    },
+    "pistolGun": {
+      "handGun1": ""
+    },
+    "melee": {
+      "knife": ""
+    },
+    "gadgets": {
+      "airstrike": "1",
+      "adrenaline": "1",
+      "machineGunDrone": "1",
+      "chaserDrone": "1",
+      "heavyDrone": "1"
+    },
+    "priceMultipliers": {
+      "life": "0.2",
+      "adrenaline": "0.2",
+      "airstrike": "0.2",
+      "bullets": "0",
+      "machineGunDrone": "0.1",
+      "chaserDrone": "0.2",
+      "heavyDrone": "0.1"
+    },
+    "defaultLives": "5"
+  }
+}

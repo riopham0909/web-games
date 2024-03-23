@@ -1,0 +1,433 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 758, 575
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+Wave
+  rotate: false
+  xy: 483, 668
+  size: 86, 32
+  orig: 86, 32
+  offset: 0, 0
+  index: -1
+appron
+  rotate: true
+  xy: 558, 702
+  size: 102, 120
+  orig: 102, 123
+  offset: 0, 3
+  index: -1
+apron
+  rotate: false
+  xy: 1, 692
+  size: 129, 331
+  orig: 129, 331
+  offset: 0, 0
+  index: -1
+apronKnot
+  rotate: true
+  xy: 1002, 778
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 865, 852
+  size: 138, 171
+  orig: 138, 171
+  offset: 0, 0
+  index: -1
+backBrows
+  rotate: true
+  xy: 1004, 947
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+backEyeLid
+  rotate: true
+  xy: 984, 718
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+backHair1
+  rotate: false
+  xy: 91, 256
+  size: 65, 168
+  orig: 65, 168
+  offset: 0, 0
+  index: -1
+backHair2
+  rotate: false
+  xy: 157, 203
+  size: 111, 101
+  orig: 111, 101
+  offset: 0, 0
+  index: -1
+backHair3
+  rotate: true
+  xy: 858, 549
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+backHead
+  rotate: false
+  xy: 354, 791
+  size: 202, 232
+  orig: 215, 250
+  offset: 0, 0
+  index: -1
+backShoes
+  rotate: false
+  xy: 421, 557
+  size: 55, 113
+  orig: 67, 128
+  offset: 6, 2
+  index: -1
+backShoes2
+  rotate: true
+  xy: 640, 589
+  size: 64, 82
+  orig: 71, 82
+  offset: 2, 0
+  index: -1
+backUpperLeg
+  rotate: true
+  xy: 355, 701
+  size: 89, 202
+  orig: 89, 202
+  offset: 0, 0
+  index: -1
+blink
+  rotate: false
+  xy: 869, 718
+  size: 114, 42
+  orig: 114, 42
+  offset: 0, 0
+  index: -1
+bootTop
+  rotate: false
+  xy: 162, 65
+  size: 53, 137
+  orig: 63, 154
+  offset: 5, 1
+  index: -1
+candeceVictorySign
+  rotate: false
+  xy: 723, 578
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+ears
+  rotate: true
+  xy: 91, 208
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+eyeBall
+  rotate: false
+  xy: 869, 663
+  size: 99, 54
+  orig: 99, 54
+  offset: 0, 0
+  index: -1
+fist
+  rotate: false
+  xy: 939, 592
+  size: 38, 70
+  orig: 38, 70
+  offset: 0, 0
+  index: -1
+leftFist
+  rotate: false
+  xy: 939, 592
+  size: 38, 70
+  orig: 38, 70
+  offset: 0, 0
+  index: -1
+fist1
+  rotate: false
+  xy: 810, 701
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+frontFoot
+  rotate: true
+  xy: 162, 1
+  size: 56, 102
+  orig: 56, 102
+  offset: 0, 0
+  index: -1
+frontHair1
+  rotate: false
+  xy: 561, 583
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+frontHair2
+  rotate: false
+  xy: 873, 761
+  size: 128, 90
+  orig: 128, 90
+  offset: 0, 0
+  index: -1
+frontHead
+  rotate: false
+  xy: 131, 785
+  size: 222, 238
+  orig: 222, 238
+  offset: 0, 0
+  index: -1
+frontShoesBack
+  rotate: false
+  xy: 983, 681
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+frontUpperLeg
+  rotate: false
+  xy: 1, 196
+  size: 89, 228
+  orig: 89, 228
+  offset: 0, 0
+  index: -1
+frotnEyeLid
+  rotate: false
+  xy: 477, 544
+  size: 70, 26
+  orig: 119, 53
+  offset: 24, 16
+  index: -1
+hair1
+  rotate: false
+  xy: 216, 58
+  size: 45, 144
+  orig: 45, 144
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 702, 827
+  size: 162, 196
+  orig: 200, 216
+  offset: 0, 19
+  index: -1
+hair3
+  rotate: true
+  xy: 702, 775
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 355, 671
+  size: 29, 127
+  orig: 29, 127
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 1
+  size: 160, 194
+  orig: 160, 194
+  offset: 0, 0
+  index: -1
+heartsighMadison
+  rotate: true
+  xy: 805, 596
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+iceCreamCone
+  rotate: true
+  xy: 666, 654
+  size: 47, 91
+  orig: 47, 91
+  offset: 0, 0
+  index: -1
+leftFistClose
+  rotate: true
+  xy: 801, 547
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+leftHamd
+  rotate: false
+  xy: 477, 571
+  size: 83, 96
+  orig: 84, 113
+  offset: 0, 1
+  index: -1
+leftLowerHand
+  rotate: false
+  xy: 679, 702
+  size: 130, 72
+  orig: 136, 74
+  offset: 0, 0
+  index: -1
+leftLowerLeg
+  rotate: true
+  xy: 131, 688
+  size: 96, 223
+  orig: 96, 223
+  offset: 0, 0
+  index: -1
+lens
+  rotate: false
+  xy: 939, 553
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+lips
+  rotate: true
+  xy: 909, 542
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+lowerEyes
+  rotate: false
+  xy: 561, 572
+  size: 70, 10
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 758, 625
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+normalLips
+  rotate: false
+  xy: 221, 526
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 221, 549
+  size: 138, 128
+  orig: 138, 128
+  offset: 0, 0
+  index: -1
+rightHand
+  rotate: false
+  xy: 350, 555
+  size: 70, 115
+  orig: 78, 125
+  offset: 4, 5
+  index: -1
+rightHandOpen
+  rotate: true
+  xy: 864, 591
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+rightLowerLeg
+  rotate: true
+  xy: 78, 425
+  size: 94, 193
+  orig: 99, 193
+  offset: 4, 0
+  index: -1
+rightThumb
+  rotate: false
+  xy: 983, 650
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+rightUpperArm
+  rotate: true
+  xy: 157, 305
+  size: 119, 110
+  orig: 130, 117
+  offset: 0, 6
+  index: -1
+rightbow
+  rotate: true
+  xy: 969, 664
+  size: 53, 13
+  orig: 72, 16
+  offset: 10, 1
+  index: -1
+sadLips
+  rotate: true
+  xy: 1004, 978
+  size: 45, 16
+  orig: 46, 16
+  offset: 1, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1, 425
+  size: 266, 76
+  orig: 274, 76
+  offset: 4, 0
+  index: -1
+sideShoesBack
+  rotate: true
+  xy: 1002, 809
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+sidefoot
+  rotate: true
+  xy: 272, 431
+  size: 117, 73
+  orig: 121, 115
+  offset: 4, 18
+  index: -1
+skirt
+  rotate: false
+  xy: 557, 805
+  size: 144, 218
+  orig: 144, 218
+  offset: 0, 0
+  index: -1
+smileLips
+  rotate: false
+  xy: 805, 665
+  size: 63, 35
+  orig: 70, 42
+  offset: 7, 6
+  index: -1
+torso
+  rotate: false
+  xy: 78, 520
+  size: 142, 167
+  orig: 142, 167
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 570, 660
+  size: 95, 41
+  orig: 95, 41
+  offset: 0, 0
+  index: -1

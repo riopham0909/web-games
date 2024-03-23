@@ -1,0 +1,38 @@
+{
+   "canUpgrade" : {
+      "off" : {},
+      "on" : {
+         "playSound" : "157",
+         "purchase" : "normalPurchase"
+      }
+   },
+   "canSpeedBuild" : {
+      "on" : {
+         "playSound" : "157",
+         "purchase" : "speedBuild"
+      },
+      "off" : ""
+   },
+   "noInfo" : {
+      "on" : "",
+      "off" : ""
+   },
+   "insufficientUpgradeCredits" : {
+      "off" : {},
+      "on" : {
+         "playSound" : "152",
+         "insufficientCredits" : "Sorry!|You don't have sufficient credits."
+      }
+   },
+   "insufficientSpeedBuildCredits" : {
+      "off" : "",
+      "on" : {
+         "playSound" : "152",
+         "insufficientCredits" : "Sorry|You don't have sufficient credits."
+      }
+   },
+   "slotFull" : {
+      "on" : "",
+      "off" : ""
+   }
+}

@@ -1,0 +1,158 @@
+{
+   "cashPacks" : {
+      "CashPack2" : {
+         "Purchase" : {
+            "Level1" : {
+               "value" : "20000",
+               "upgradeCost" : "0.0, 00, 00",
+               "instantBuildCost" : "0,0,0\r\n\r\n",
+               "speedUPCost" : "0,0,0\r\n",
+               "buildTime" : "00H 00M 00S",
+               "buildTimeInMilliSecondsGold" : "0H 0M 0S"
+            }
+         },
+         "itemInfo" : {
+            "fireRate" : "1",
+            "speedUpCost" : "0,0,0",
+            "displayName" : "Novice Pack",
+            "equipable" : "",
+            "consumable" : "true",
+            "buildCost" : "0,0,1.6",
+            "unlockCost" : "0,0,1.6",
+            "purchaseBuildTime" : "0H 0M 0S",
+            "unlockBuildTime" : "0H 0M 0S",
+            "description" : "This Pack gives 32000 Cash"
+         }
+      },
+      "CashPack1" : {
+         "Purchase" : {
+            "Level1" : {
+               "value" : "7000",
+               "upgradeCost" : "0.0, 00, 00",
+               "instantBuildCost" : "0,0,0\r\n\r\n",
+               "speedUPCost" : "0,0,0",
+               "buildTime" : "00H 00M 00S",
+               "buildTimeInMilliSecondsGold" : "0H 0M 0S"
+            }
+         },
+         "itemInfo" : {
+            "fireRate" : "1",
+            "speedUpCost" : "0,0,0",
+            "displayName" : "Newbie Pack",
+            "buildCost" : "0,0,0.6",
+            "unlockCost" : "0,0,0.6",
+            "purchaseBuildTime" : "0H 0M 0S",
+            "unlockBuildTime" : "0H 0M 0S",
+            "description" : "This Pack gives 10000 Cash"
+         }
+      }
+   },
+   "goldPacks" : {
+      "GoldPack2" : {
+         "Purchase" : {
+            "Level1" : {
+               "value" : "100",
+               "upgradeCost" : "0.0, 00, 00",
+               "instantBuildCost" : "0,0,0\r\n\r\n",
+               "speedUPCost" : "0,0,0\r\n",
+               "buildTime" : "00H 00M 00S",
+               "buildTimeInMilliSecondsGold" : "0H 0M 0S"
+            }
+         },
+         "itemInfo" : {
+            "fireRate" : "1",
+            "speedUpCost" : "0,0,0",
+            "displayName" : "Novice Pack",
+            "equipable" : "",
+            "consumable" : "",
+            "buildCost" : "0,0,1.6",
+            "unlockCost" : "0,0,1.6",
+            "purchaseBuildTime" : "0H 0M 0S",
+            "unlockBuildTime" : "0H 0M 0S",
+            "description" : "This Pack gives 170 Gold"
+         }
+      },
+      "GoldPack1" : {
+         "Purchase" : {
+            "Level1" : {
+               "value" : "35",
+               "upgradeCost" : "0.0, 00, 00",
+               "instantBuildCost" : "0,0,0\r\n\r\n",
+               "speedUPCost" : "0,0,0\r\n",
+               "buildTime" : "00H 00M 00S",
+               "buildTimeInMilliSecondsGold" : "0H 0M 0S"
+            }
+         },
+         "itemInfo" : {
+            "fireRate" : "1",
+            "speedUpCost" : "0,0,0",
+            "displayName" : "Newbie Pack",
+            "equipable" : "",
+            "consumable" : "",
+            "buildCost" : "0,0,0.6",
+            "unlockCost" : "0,0,0.6",
+            "purchaseBuildTime" : "0H 0M 0S",
+            "unlockBuildTime" : "0H 0M 0S",
+            "description" : "This Pack gives 50 Gold"
+         }
+      }
+   },
+   "DailyPacksCash" : {
+      "dailyPackCash1" : {
+         "Purchase" : {
+            "Level1" : {
+               "value" : "4000",
+               "upgradeCost" : "0.0, 00, 00",
+               "instantBuildCost" : "0,0,0\r\n\r\n",
+               "speedUPCost" : "0,0,0\r\n",
+               "buildTime" : "00H 00M 00S",
+               "buildTimeInMilliSecondsGold" : "0H 0M 0S"
+            }
+         },
+         "itemInfo" : {
+            "days" : "7",
+            "amountToGiveEachDay" : "4000",
+            "currency" : "RC",
+            "speedUpCost" : "0,0,0",
+            "displayName" : "Daily Pack",
+            "equipable" : "",
+            "consumable" : "",
+            "buildCost" : "0,0,1",
+            "unlockCost" : "0,0,1",
+            "purchaseBuildTime" : "0H 0M 0S",
+            "unlockBuildTime" : "0H 0M 0S",
+            "description" : "This Pack gives 4000 cash daily for 7 Days.",
+            "comboPackCategory" : "gun"
+         }
+      }
+   },
+   "DailyPacksGold" : {
+      "dailyPackGold1" : {
+         "Purchase" : {
+            "Level1" : {
+               "value" : "20",
+               "upgradeCost" : "0.0, 00, 00",
+               "instantBuildCost" : "0,0,0\r\n\r\n",
+               "speedUPCost" : "0,0,0\r\n",
+               "buildTime" : "00H 00M 00S",
+               "buildTimeInMilliSecondsGold" : "0H 0M 0S"
+            }
+         },
+         "itemInfo" : {
+            "days" : "7",
+            "amountToGiveEachDay" : "20",
+            "currency" : "PC",
+            "speedUpCost" : "0,0,0",
+            "displayName" : "Daily Pack",
+            "equipable" : "",
+            "consumable" : "",
+            "buildCost" : "0,0,1",
+            "unlockCost" : "0,0,1",
+            "purchaseBuildTime" : "0H 0M 0S",
+            "unlockBuildTime" : "0H 0M 0S",
+            "description" : "This Pack gives 20 gold daily for 7 Days.",
+            "comboPackCategory" : "gun"
+         }
+      }
+   }
+}

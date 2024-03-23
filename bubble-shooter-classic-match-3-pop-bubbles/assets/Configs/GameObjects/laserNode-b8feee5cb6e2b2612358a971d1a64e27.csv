@@ -1,0 +1,8 @@
+damage            ;1
+triggerTimer      ;5
+laserDurationTimer;3
+isVisible         ;true
+moveSpeed         ;2
+HP                ;10
+isAnimated        ;true
+explosionVFX      ;spine/inAirExplosionBIG

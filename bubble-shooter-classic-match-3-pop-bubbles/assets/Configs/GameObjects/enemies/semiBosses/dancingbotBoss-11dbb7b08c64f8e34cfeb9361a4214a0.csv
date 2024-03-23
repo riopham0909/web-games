@@ -1,0 +1,29 @@
+HP                          ;250
+speed                       ;2
+acidicBodyDamage            ;1
+bulletDamage                ;1
+gravity                     ;0.5
+maxDownwardVelocity         ;10
+range                       ;300
+facePlayer                  ;true
+timeBetweenEnemySpawn       ;2
+dieVelocityX                ;4
+dieVelocityY                ;4
+dieBlinkTime                ;1
+                            ;
+maxFlyWaves                 ;5
+maxFlyShots                 ;4
+maxStandingBullets          ;10
+fountainAttackLoop          ;40
+rollDuration                ;5
+randomBlasts                ;inAirExplosionBIG,launcherExplosion,normalExplosion1
+bigBlast                    ;normalExplosion1
+dieBlastTime                ;0.4
+walkTargetX                 ;0
+sideCollidingBulletImpactVFX;timelineFX/templates_inAir/inAir_small
+flyingShootMuzzleVFX        ;additiveSpine/antTank_muzzle5
+
+//--- Boss Scene
+isBossScene                 ;false
+cinematicNode1              ;Cinematic_Node.019
+cinematicNode3              ;Cinematic_Node.021

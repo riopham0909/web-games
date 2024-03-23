@@ -1,0 +1,8 @@
+maxDownwardVelocity          ;8
+speed                        ;27
+chargedSpeed                 ;45
+gravity                      ;0.2
+angularVelocity              ;0.2
+criticalAngularVelocity      ;0.3
+configInitialMoveStraightTime;0.05
+bulletLifeTimer              ;5

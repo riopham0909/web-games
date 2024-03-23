@@ -1,0 +1,34 @@
+HP                     ;800                                                 ;
+speed                  ;2                                                   ;
+acidicBodyDamage       ;40                                                  ;
+gravity                ;0.5                                                 ;
+maxDownwardVelocity    ;15                                                  ;
+range                  ;300                                                 ;
+facePlayer             ;true                                                ;
+timeBetweenEnemySpawn  ;2                                                   ;
+dieVelocityX           ;4                                                   ;
+dieVelocityY           ;4                                                   ;
+dieBlinkTime           ;1                                                   ;
+//ninja                ;boss                                                ;variables
+totalNoOfShoot         ;3                                                   ;
+noOfWaits              ;1                                                   ;
+noOfShoot              ;2                                                   ;
+teleportDamageThreshold;2                                                   ;
+noOfJumpAttacks        ;3                                                   ;
+standDuration          ;3                                                   ;
+stunDuration           ;8                                                   ;
+lockInDuration         ;1                                                   ;
+jumpAttackDamage       ;10                                                  ;
+shootDamage            ;10                                                  ;
+chaserDamage           ;10                                                  ;
+dashDamage             ;10                                                  ;
+dieBlastTime           ;0.5                                                 ;
+randomBlasts           ;inAirExplosionBIG,launcherExplosion,normalExplosion1;
+walkTargetX            ;0                                                   ;
+bulletImpact           ;timelineFX/templates_inAir/inAir_small
+                       ;                                                    ;
+//---                  ;For                                                 ;BossScene
+                       ;                                                    ;
+isBossScene            ;false                                               ;
+cinematicNode1         ;Cinematic_Node.019                                  ;
+cinematicNode3         ;Cinematic_Node.021                                  ;

@@ -1,0 +1,13 @@
+HP              ;600              ;;;;    ;     ;         ;     ;          ;      ;
+speed           ;3                ;;;;    ;     ;         ;     ;          ;      ;
+gravity         ;1                ;;;;    ;     ;         ;     ;          ;      ;
+acidicBodyDamage;2                ;;;;    ;     ;         ;     ;          ;      ;
+bulletDamage    ;1                ;;;;    ;     ;         ;     ;          ;      ;
+bulletHP        ;1                ;;;;    ;     ;         ;     ;          ;      ;
+bulletSpeed     ;8                ;;;;    ;     ;         ;     ;          ;      ;
+bulletAnim      ;geminiBullet     ;;;;    ;     ;         ;     ;          ;      ;
+restTimer       ;0.1              ;;;;//to;shoot;bullets  ;in   ;Fly       ;State.;
+attackLoop      ;2                ;;;;//to;start;revolving;after;attackLoop;is    ;over.
+weakSpotAnim    ;weakSpot6        ;;;;    ;     ;         ;     ;          ;      ;
+weakSpotBlast   ;smallBlast       ;;;;    ;     ;         ;     ;          ;      ;
+bigBlast        ;inAirExplosionBIG

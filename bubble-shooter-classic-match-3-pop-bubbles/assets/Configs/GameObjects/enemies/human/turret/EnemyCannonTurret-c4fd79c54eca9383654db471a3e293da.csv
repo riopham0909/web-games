@@ -1,0 +1,12 @@
+HP;15
+damage;1
+speed;4
+gravity;0.5
+maxDownwardVelocity;15
+dieVelocityX;2
+dieVelocityY;6
+dieBlinkTime;1
+rangeDistance;800-900
+standLoop;3
+attackLoop;3
+maxEnemySpawned;6

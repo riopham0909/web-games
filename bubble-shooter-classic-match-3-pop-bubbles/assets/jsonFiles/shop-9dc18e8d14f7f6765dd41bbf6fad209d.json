@@ -1,0 +1,124 @@
+{
+   "goldPacks": {
+      "GoldPack1": {
+         "Purchase": {
+            "Level1": {
+               "value": "2000",
+               "upgradeCost": "0.0, 00, 00",
+               "instantBuildCost": "0,0,0\r\n\r\n",
+               "speedUPCost": "0,0,0\r\n",
+               "buildTime": "00H 00M 00S",
+               "buildTimeInMilliSecondsGold": "0H 0M 0S"
+            }
+         },
+         "itemInfo": {
+            "fireRate": "1",
+            "speedUpCost": "0,0,0",
+            "displayName": "Newbie Pack",
+            "equipable": "",
+            "consumable": "",
+            "buildCost": "0,0,.99",
+            "unlockCost": "0,0,.99",
+            "purchaseBuildTime": "0H 0M 0S",
+            "unlockBuildTime": "0H 0M 0S",
+            "description": "This Pack gives 50 Gold"
+         }
+      },
+      "GoldPack2": {
+         "Purchase": {
+            "Level1": {
+               "value": "5000",
+               "upgradeCost": "0.0, 00, 00",
+               "instantBuildCost": "0,0,0\r\n\r\n",
+               "speedUPCost": "0,0,0\r\n",
+               "buildTime": "00H 00M 00S",
+               "buildTimeInMilliSecondsGold": "0H 0M 0S"
+            }
+         },
+         "itemInfo": {
+            "fireRate": "1",
+            "speedUpCost": "0,0,0",
+            "displayName": "Novice Pack",
+            "equipable": "",
+            "consumable": "",
+            "buildCost": "0,0,1.99",
+            "unlockCost": "0,0,1.99",
+            "purchaseBuildTime": "0H 0M 0S",
+            "unlockBuildTime": "0H 0M 0S",
+            "description": "This Pack gives 170 Gold"
+         }
+      },
+      "GoldPack3": {
+         "Purchase": {
+            "Level1": {
+               "value": "7500",
+               "upgradeCost": "0.0, 00, 00",
+               "instantBuildCost": "0,0,0\r\n\r\n",
+               "speedUPCost": "0,0,0\r\n",
+               "buildTime": "00H 00M 00S",
+               "buildTimeInMilliSecondsGold": "0H 0M 0S"
+            }
+         },
+         "itemInfo": {
+            "fireRate": "1",
+            "speedUpCost": "0,0,0",
+            "displayName": "Rookie Pack",
+            "equipable": "",
+            "consumable": "",
+            "buildCost": "0,0,2.99",
+            "unlockCost": "0,0,2.99",
+            "purchaseBuildTime": "0H 0M 0S",
+            "unlockBuildTime": "0H 0M 0S",
+            "description": "This Pack gives 250 Gold + FREE 80 Gold "
+         }
+      },
+      "GoldPack4": {
+         "Purchase": {
+            "Level1": {
+               "value": "10000",
+               "upgradeCost": "0.0, 00, 00",
+               "instantBuildCost": "0,0,0\r\n\r\n",
+               "speedUPCost": "0,0,0\r\n",
+               "buildTime": "00H 00M 00S",
+               "buildTimeInMilliSecondsGold": "0H 0M 0S"
+            }
+         },
+         "itemInfo": {
+            "fireRate": "1",
+            "speedUpCost": "0,0,0",
+            "displayName": "Expert Pack",
+            "equipable": "",
+            "consumable": "",
+            "buildCost": "0,0,3.99",
+            "unlockCost": "0,0,3.99",
+            "purchaseBuildTime": "0H 0M 0S",
+            "unlockBuildTime": "0H 0M 0S",
+            "description": "This pack gives 500 Gold + FREE 250 Gold "
+         }
+      },
+      "GoldPack5": {
+         "Purchase": {
+            "Level1": {
+               "value": "12500",
+               "upgradeCost": "0.0, 00, 00",
+               "instantBuildCost": "0,0,0\r\n\r\n",
+               "speedUPCost": "0,0,0\r\n",
+               "buildTime": "00H 00M 00S",
+               "buildTimeInMilliSecondsGold": "0H 0M 0S"
+            }
+         },
+         "itemInfo": {
+            "fireRate": "1",
+            "speedUpCost": "0,0,0",
+            "displayName": "Master Pack",
+            "equipable": "",
+            "consumable": "",
+            "buildCost": "0,0,4.99",
+            "unlockCost": "0,0,4.99",
+            "purchaseBuildTime": "0H 0M 0S",
+            "unlockBuildTime": "0H 0M 0S",
+            "description": "This Pack gives 1500 Gold + FREE 1200 Gold "
+         }
+      }
+   }
+}

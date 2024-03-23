@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+butter1/body
+  rotate: false
+  xy: 319, 148
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+butter1/wing1
+  rotate: false
+  xy: 181, 3
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+butter2/body
+  rotate: false
+  xy: 276, 97
+  size: 42, 158
+  orig: 42, 158
+  offset: 0, 0
+  index: -1
+butter2/wing1
+  rotate: true
+  xy: 368, 114
+  size: 141, 142
+  orig: 141, 142
+  offset: 0, 0
+  index: -1
+butter3/body
+  rotate: false
+  xy: 97, 4
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1
+butter3/wing1
+  rotate: false
+  xy: 1, 81
+  size: 166, 174
+  orig: 166, 174
+  offset: 0, 0
+  index: -1
+butter3/wing2
+  rotate: true
+  xy: 368, 11
+  size: 52, 117
+  orig: 52, 117
+  offset: 0, 0
+  index: -1
+butter4/ref
+  rotate: true
+  xy: 1, 1
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+butter4/wing1
+  rotate: false
+  xy: 168, 87
+  size: 107, 168
+  orig: 107, 168
+  offset: 0, 0
+  index: -1
+butter4/wing2
+  rotate: true
+  xy: 368, 64
+  size: 49, 127
+  orig: 49, 127
+  offset: 0, 0
+  index: -1
+butter5/body
+  rotate: false
+  xy: 319, 169
+  size: 46, 86
+  orig: 46, 86
+  offset: 0, 0
+  index: -1
+butter5/wing1
+  rotate: false
+  xy: 278, 5
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1

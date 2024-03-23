@@ -1,0 +1,15 @@
+HP                  ;400
+speed               ;1
+gravity             ;1
+acidicBodyDamage    ;2
+bulletDamage        ;1
+weakSpotAnim        ;weakSpot6
+weakSpotBlast       ;smallBlast
+rangeDistance       ;2500
+rangeAngle          ;95
+idleFlyTime         ;0,0,0
+speed_oneArrow      ;80
+speed_fiveArrows    ;50
+speed_multiArrows   ;50
+arrowDifferenceAngle;8
+bigBlast            ;inAirExplosionBIG

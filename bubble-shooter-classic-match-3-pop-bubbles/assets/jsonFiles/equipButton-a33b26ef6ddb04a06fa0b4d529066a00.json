@@ -1,0 +1,21 @@
+{
+  "buy": {
+      "off" : {},
+    "on": {
+      "purchaseButtonClick": "buy",
+      "playSound": "157"
+      }
+   },
+  "equipToggle": {
+    "on": {
+      "equip": "current",
+      "playSound": "158"
+      },
+    "off": {
+      "playSound": "158"
+    },
+    "toggle": "",
+    "data": "isEquipped",
+    "checkCondition": "isEquipped"
+   }
+}

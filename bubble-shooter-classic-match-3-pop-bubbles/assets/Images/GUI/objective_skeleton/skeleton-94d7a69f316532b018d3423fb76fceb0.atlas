@@ -1,0 +1,167 @@
+
+skeleton.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+char/book
+  rotate: false
+  xy: 1266, 440
+  size: 96, 71
+  orig: 96, 71
+  offset: 0, 0
+  index: -1
+char/eyeball
+  rotate: false
+  xy: 434, 104
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+char/face
+  rotate: false
+  xy: 1079, 339
+  size: 186, 172
+  orig: 186, 172
+  offset: 0, 0
+  index: -1
+char/finger
+  rotate: false
+  xy: 1266, 343
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+char/glasses
+  rotate: false
+  xy: 266, 129
+  size: 195, 81
+  orig: 195, 81
+  offset: 0, 0
+  index: -1
+char/glassesBack
+  rotate: false
+  xy: 462, 146
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+char/hat
+  rotate: false
+  xy: 1, 46
+  size: 264, 164
+  orig: 264, 164
+  offset: 0, 0
+  index: -1
+char/leftBraw
+  rotate: false
+  xy: 1363, 478
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+char/leftEye
+  rotate: true
+  xy: 366, 1
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+char/leftHand
+  rotate: false
+  xy: 1266, 361
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+char/leftPalm
+  rotate: false
+  xy: 64, 7
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+char/leftear
+  rotate: false
+  xy: 366, 47
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+char/mouth
+  rotate: true
+  xy: 1211, 274
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+char/nose
+  rotate: false
+  xy: 1, 5
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+char/rightBraw
+  rotate: false
+  xy: 566, 169
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+char/rightEar
+  rotate: true
+  xy: 1079, 169
+  size: 69, 78
+  orig: 69, 78
+  offset: 0, 0
+  index: -1
+char/rightEye
+  rotate: false
+  xy: 1158, 190
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+char/rightHand
+  rotate: false
+  xy: 462, 163
+  size: 103, 47
+  orig: 103, 47
+  offset: 0, 0
+  index: -1
+char/stick
+  rotate: false
+  xy: 1079, 239
+  size: 131, 99
+  orig: 131, 99
+  offset: 0, 0
+  index: -1
+char/torso
+  rotate: false
+  xy: 266, 1
+  size: 99, 127
+  orig: 99, 127
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 728, 161
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+overlay
+  rotate: false
+  xy: 417, 30
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+rectangle
+  rotate: false
+  xy: 1, 211
+  size: 726, 300
+  orig: 726, 300
+  offset: 0, 0
+  index: -1

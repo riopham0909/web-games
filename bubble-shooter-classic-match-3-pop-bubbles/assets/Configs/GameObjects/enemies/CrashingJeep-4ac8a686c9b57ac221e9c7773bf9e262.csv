@@ -1,0 +1,16 @@
+HP;100
+gravity;0.2
+damage;10
+speed;5
+maxDownwardVelocity;10
+dieVelocityX;10
+dieBlinkTime;1
+
+
+crashTimer;3
+chaseTimer;3
+crashSpeed;15
+type;1
+
+// 0 - direct crashing jeep
+// 1 - left - to - right crashing jeeps

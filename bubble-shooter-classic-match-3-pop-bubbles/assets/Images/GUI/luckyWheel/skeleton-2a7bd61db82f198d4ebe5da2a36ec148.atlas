@@ -1,0 +1,293 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6starfilled
+  rotate: false
+  xy: 98, 35
+  size: 35, 34
+  orig: 64, 64
+  offset: 15, 15
+  index: -1
+coin1
+  rotate: false
+  xy: 146, 79
+  size: 57, 44
+  orig: 75, 75
+  offset: 5, 16
+  index: -1
+coin10
+  rotate: false
+  xy: 146, 125
+  size: 72, 48
+  orig: 75, 75
+  offset: 2, 14
+  index: -1
+panel/conBundle5
+  rotate: false
+  xy: 146, 125
+  size: 72, 48
+  orig: 75, 75
+  offset: 2, 14
+  index: -1
+coin2
+  rotate: true
+  xy: 844, 354
+  size: 58, 42
+  orig: 75, 75
+  offset: 9, 16
+  index: -1
+panel/2coins
+  rotate: true
+  xy: 844, 354
+  size: 58, 42
+  orig: 75, 75
+  offset: 9, 16
+  index: -1
+coin3
+  rotate: true
+  xy: 844, 295
+  size: 57, 42
+  orig: 75, 75
+  offset: 10, 16
+  index: -1
+panel/3coins
+  rotate: true
+  xy: 844, 295
+  size: 57, 42
+  orig: 75, 75
+  offset: 10, 16
+  index: -1
+coin4
+  rotate: true
+  xy: 888, 297
+  size: 57, 34
+  orig: 75, 75
+  offset: 9, 21
+  index: -1
+panel/4coins
+  rotate: true
+  xy: 888, 297
+  size: 57, 34
+  orig: 75, 75
+  offset: 9, 21
+  index: -1
+coin5
+  rotate: true
+  xy: 537, 132
+  size: 55, 29
+  orig: 75, 75
+  offset: 10, 23
+  index: -1
+panel/5coins
+  rotate: true
+  xy: 537, 132
+  size: 55, 29
+  orig: 75, 75
+  offset: 10, 23
+  index: -1
+coin6
+  rotate: true
+  xy: 902, 414
+  size: 57, 35
+  orig: 75, 75
+  offset: 9, 20
+  index: -1
+panel/conBundle1
+  rotate: true
+  xy: 902, 414
+  size: 57, 35
+  orig: 75, 75
+  offset: 9, 20
+  index: -1
+coin7
+  rotate: true
+  xy: 537, 189
+  size: 54, 37
+  orig: 75, 75
+  offset: 11, 19
+  index: -1
+panel/conBundle2
+  rotate: true
+  xy: 537, 189
+  size: 54, 37
+  orig: 75, 75
+  offset: 11, 19
+  index: -1
+coin8
+  rotate: true
+  xy: 888, 356
+  size: 56, 39
+  orig: 75, 75
+  offset: 10, 18
+  index: -1
+panel/conBundle3
+  rotate: true
+  xy: 888, 356
+  size: 56, 39
+  orig: 75, 75
+  offset: 10, 18
+  index: -1
+coin9
+  rotate: false
+  xy: 940, 476
+  size: 71, 34
+  orig: 75, 75
+  offset: 2, 21
+  index: -1
+panel/conBundle4
+  rotate: false
+  xy: 940, 476
+  size: 71, 34
+  orig: 75, 75
+  offset: 2, 21
+  index: -1
+common
+  rotate: false
+  xy: 622, 214
+  size: 35, 34
+  orig: 64, 64
+  offset: 15, 15
+  index: -1
+legendary
+  rotate: true
+  xy: 537, 95
+  size: 35, 34
+  orig: 64, 64
+  offset: 15, 15
+  index: -1
+legendaryStar
+  rotate: false
+  xy: 2, 71
+  size: 142, 142
+  orig: 145, 150
+  offset: 1, 4
+  index: -1
+panel/LUCKY WHEEL
+  rotate: true
+  xy: 815, 293
+  size: 217, 27
+  orig: 217, 27
+  offset: 0, 0
+  index: -1
+panel/claimAd
+  rotate: false
+  xy: 2, 31
+  size: 94, 38
+  orig: 96, 38
+  offset: 1, 0
+  index: -1
+panel/claimFree
+  rotate: false
+  xy: 146, 175
+  size: 94, 38
+  orig: 96, 38
+  offset: 1, 0
+  index: -1
+panel/innerWheel
+  rotate: false
+  xy: 304, 12
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+panel/loseit
+  rotate: false
+  xy: 844, 473
+  size: 94, 37
+  orig: 96, 37
+  offset: 1, 0
+  index: -1
+panel/middleCircle
+  rotate: false
+  xy: 576, 201
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+panel/outerWheel
+  rotate: false
+  xy: 304, 245
+  size: 264, 265
+  orig: 264, 265
+  offset: 0, 0
+  index: -1
+panel/pointer
+  rotate: true
+  xy: 242, 176
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+panel/pricePanel
+  rotate: false
+  xy: 537, 2
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+panel/text
+  rotate: false
+  xy: 570, 250
+  size: 106, 15
+  orig: 106, 15
+  offset: 0, 0
+  index: -1
+rare
+  rotate: true
+  xy: 537, 58
+  size: 35, 34
+  orig: 64, 64
+  offset: 15, 15
+  index: -1
+rare1
+  rotate: false
+  xy: 844, 414
+  size: 56, 57
+  orig: 58, 60
+  offset: 1, 1
+  index: -1
+star1
+  rotate: false
+  xy: 220, 141
+  size: 32, 32
+  orig: 64, 64
+  offset: 16, 16
+  index: -1
+star2
+  rotate: true
+  xy: 537, 21
+  size: 35, 34
+  orig: 64, 64
+  offset: 14, 15
+  index: -1
+star2/3
+  rotate: false
+  xy: 570, 267
+  size: 243, 243
+  orig: 250, 243
+  offset: 7, 0
+  index: -1
+star3
+  rotate: false
+  xy: 254, 142
+  size: 32, 32
+  orig: 64, 64
+  offset: 16, 16
+  index: -1
+star3/1
+  rotate: false
+  xy: 2, 215
+  size: 300, 295
+  orig: 300, 295
+  offset: 0, 0
+  index: -1
+star4
+  rotate: false
+  xy: 815, 259
+  size: 32, 32
+  orig: 64, 64
+  offset: 16, 16
+  index: -1

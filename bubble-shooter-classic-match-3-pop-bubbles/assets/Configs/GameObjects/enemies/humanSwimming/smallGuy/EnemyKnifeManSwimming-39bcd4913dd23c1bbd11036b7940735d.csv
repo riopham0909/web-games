@@ -1,0 +1,15 @@
+HP;2
+speed;4
+damage;40
+gravity;0.5
+maxDownwardVelocity;8
+range;150
+dieVelocityX;18
+dieVelocityY;8
+dieBlinkTime;1
+standTimer;3
+rangeDistance;140-160
+standLoop;1
+attackLoop;1
+jumpSpeed;5
+rangeCenterOffset;0

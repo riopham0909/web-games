@@ -1,0 +1,34 @@
+HP                   ;800
+speed                ;4
+acidicBodyDamage     ;1
+bulletDamage         ;1
+gravity              ;0.1
+maxDownwardVelocity  ;9
+range                ;300
+facePlayer           ;true
+timeBetweenEnemySpawn;1
+dieVelocityX         ;4
+dieVelocityY         ;4
+dieBlinkTime         ;1
+restTimer            ;1
+throwBotsAttackLoop  ;5
+shootMovingDistance  ;145-146
+dashAttackDamage     ;2
+machineAttackDamage  ;2
+grenadePathType      ;high
+grenadeSpeed         ;12
+grenadeGravity       ;0.2
+dieBlastTime         ;0.3
+randomBlasts         ;inAirExplosionBIG,launcherExplosion,normalExplosion1
+bigBlast             ;normalExplosion1
+walkTargetX          ;0
+explosionVFX         ;timelineFX/air/enemyChaserImpact
+roundBulletsInterval ;0.2
+roundBulletSpeed     ;3
+straightBulletSpeed  ;2
+intervalBulletSpeed  ;3
+
+//---Boss Scene
+isBossScene          ;false
+cinematicNode1       ;Cinematic_Node.019
+cinematicNode3       ;Cinematic_Node.021

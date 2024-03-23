@@ -1,0 +1,4 @@
+HP;99999 // Indestructible bullet
+maxDownwardVelocity;8
+speed;16
+gravity;0.2

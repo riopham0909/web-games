@@ -1,0 +1,15 @@
+HP                 ;20
+speed              ;2
+acidicBodyDamage   ;1
+bulletDamage       ;2
+speed              ;2
+gravity            ;0.5
+maxDownwardVelocity;8
+range              ;800
+dieVelocityX       ;2
+dieVelocityY       ;6
+dieBlinkTime       ;0.5
+dieBlast           ;smallBlast
+dieBlastTimer      ;0.4
+attackLoop         ;2
+bulletImpact       ;timelineFX/blast_ground/small_bot

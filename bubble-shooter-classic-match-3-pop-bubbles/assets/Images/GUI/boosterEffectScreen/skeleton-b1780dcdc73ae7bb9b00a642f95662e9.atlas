@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boosterCircle
+  rotate: false
+  xy: 1, 112
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+boosterFrame
+  rotate: true
+  xy: 1, 270
+  size: 540, 1250
+  orig: 540, 1250
+  offset: 0, 0
+  index: -1
+boxingGloveBooster
+  rotate: false
+  xy: 1252, 670
+  size: 124, 140
+  orig: 124, 140
+  offset: 0, 0
+  index: -1
+paintBrushBooster
+  rotate: false
+  xy: 1252, 586
+  size: 100, 83
+  orig: 100, 83
+  offset: 0, 0
+  index: -1
+rainbowbooster
+  rotate: false
+  xy: 159, 169
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sawbladeBooster
+  rotate: false
+  xy: 1, 1
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+spark
+  rotate: false
+  xy: 1377, 784
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1

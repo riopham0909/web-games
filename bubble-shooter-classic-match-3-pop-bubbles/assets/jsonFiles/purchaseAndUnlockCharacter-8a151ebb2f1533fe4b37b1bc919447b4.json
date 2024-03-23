@@ -1,0 +1,32 @@
+{
+   "canUnlock" : {
+      "on" : {
+         "askUser" : "0^Purchase^Do you wannna purchase^purchase>normalPurchase"
+      },
+      "off" : ""
+   },
+   "insufficientUnlockCredits" : {
+      "on" : "",
+      "off" : ""
+   },
+   "canPurchase" : {
+      "on" : {
+         "askUser" : "0^Purchase^Do you wannna purchase^purchase>normalPurchase"
+      },
+      "off" : ""
+   },
+   "insufficientPurchaseCredits" : {
+      "on" : "",
+      "off" : ""
+   },
+   "purchased" : {
+      "on" : {
+         "playCinematic|1" : "Cinematic_Node.002",
+         "playCinematic|2" : "Cinematic_Node.005",
+         "custom" : "hideBackPanel",
+         "changeButtonAction" : "GUI_Button|playCinematic>Cinematic_Node.002,playCinematic>Cinematic_Node.003,playCinematic>Cinematic_Node.004,custom>showAllBackPanel",
+         "playCinematic|3" : "Cinematic_Node.008"
+      },
+      "off" : ""
+   }
+}

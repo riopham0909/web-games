@@ -1,0 +1,14 @@
+HP;25
+speed;20
+damage;1
+gravity;0.5
+maxDownwardVelocity;8
+range;300
+facePlayer;true
+timeBetweenEnemySpawn;3
+type;0
+lerpVelocityToZeroSpeed;0.07
+
+
+//type = 1 for Aerial And Scrolling Level
+//type = 0 for LandLevel

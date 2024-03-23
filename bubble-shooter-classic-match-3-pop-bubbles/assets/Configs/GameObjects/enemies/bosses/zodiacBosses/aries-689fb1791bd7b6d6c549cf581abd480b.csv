@@ -1,0 +1,12 @@
+HP              ;350
+speed           ;8
+gravity         ;10
+rangeY          ;50
+acidicBodyDamage;2
+bulletDamage    ;1
+restTimer       ;0.5
+trackingTime    ;0.5
+ramSpeed        ;60
+weakSpotAnim    ;weakSpot6
+weakSpotBlast   ;smallBlast
+bigBlast        ;inAirExplosionBIG

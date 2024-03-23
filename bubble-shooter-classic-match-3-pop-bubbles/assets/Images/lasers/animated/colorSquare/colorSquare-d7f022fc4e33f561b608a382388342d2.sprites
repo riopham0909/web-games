@@ -1,0 +1,9 @@
+<img name="lazer.png">
+
+	<spr name="1.png" x="3" y="151" w="1606" h="31" fx="0" fy="0" fw="1606" fh="31">
+	<spr name="2.png" x="3" y="114" w="1606" h="31" fx="0" fy="0" fw="1606" fh="31">
+	<spr name="3.png" x="3" y="77" w="1606" h="31" fx="0" fy="0" fw="1606" fh="31">
+	<spr name="4.png" x="3" y="40" w="1606" h="31" fx="0" fy="0" fw="1606" fh="31">
+	<spr name="5.png" x="3" y="3" w="1606" h="31" fx="0" fy="0" fw="1606" fh="31">
+</img>
+

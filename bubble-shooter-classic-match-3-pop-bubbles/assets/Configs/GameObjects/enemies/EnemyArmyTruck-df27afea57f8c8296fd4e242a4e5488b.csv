@@ -1,0 +1,11 @@
+HP;50
+speed;3
+damage;1
+gravity;0.5
+maxDownwardVelocity;8
+rangeDistance;800-900
+facePlayer;true
+timeBetweenEnemySpawn;3
+levelFacingDirection;1
+enemyToSpawn;EnemySimpleStandTank1
+playerChaseDistance;800

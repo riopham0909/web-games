@@ -1,0 +1,10 @@
+HP                 ;10
+damage             ;25
+explosionScale     ;5
+maxDownwardVelocity;10
+gravity            ;1
+explosionWidth     ;800
+explosionHeight    ;800
+vfxType            ;---
+allowClimbing      ;false
+keepCollider       ;false

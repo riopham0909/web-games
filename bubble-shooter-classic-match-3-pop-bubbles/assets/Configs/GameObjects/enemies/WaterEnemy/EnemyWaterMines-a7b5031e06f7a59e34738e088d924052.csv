@@ -1,0 +1,7 @@
+HP          ;9999
+damage      ;2
+range       ;300
+timeInterval;0.5f
+speed       ;2
+vfx         ;timelineFX/waterExplosion/waterExplosion_big_waterMine
+vfxScale    ;3

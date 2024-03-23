@@ -1,0 +1,50 @@
+{
+   "insufficientUpgradeCredits" : {
+      "off" : "",
+      "on" : {
+         "playSound" : "152",
+         "custom" : "calNextUpdateGuiBar",
+         "updateItemInfoToDecoText" : ""
+      }
+   },
+   "canUpgrade" : {
+      "on" : {
+         "playSound" : "157",
+         "custom" : "calNextUpdateGuiBar",
+         "updateItemInfoToDecoText" : "",
+         "playCinematic" : "Cinematic_Node.836"
+      },
+      "off" : ""
+   },
+   "canSpeedBuild" : {
+      "on" : {
+         "playSound" : "157",
+         "custom" : "calNextUpdateGuiBar",
+         "updateItemInfoToDecoText" : ""
+      },
+      "off" : ""
+   },
+   "upgradeFull" : {
+      "on" : {
+        "playSound": "152",
+         "custom" : "calNextUpdateGuiBar",
+         "updateItemInfoToDecoText" : ""
+      },
+      "off" : ""
+   },
+   "insufficientSpeedBuildCredits" : {
+      "off" : "",
+      "on" : {
+         "playSound" : "152",
+         "custom" : "calNextUpdateGuiBar",
+         "updateItemInfoToDecoText" : ""
+      }
+   },
+   "slotFull" : {
+      "off" : "",
+      "on" : {
+         "custom" : "calNextUpdateGuiBar",
+         "updateItemInfoToDecoText" : ""
+      }
+   }
+}

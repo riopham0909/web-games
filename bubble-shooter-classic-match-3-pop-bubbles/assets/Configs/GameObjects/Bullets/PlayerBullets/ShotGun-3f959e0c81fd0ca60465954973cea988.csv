@@ -1,0 +1,6 @@
+HP                 ;99999
+maxDownwardVelocity;8
+speed              ;10
+gravity            ;0.2
+anim               ;timelineFX/playerTrail/shotGun
+criticalAnim       ;timelineFX/playerTrail/shotGun_CR

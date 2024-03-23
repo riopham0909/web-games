@@ -1,0 +1,6 @@
+dontRotateWithParentBone;true
+ignoreParentBoneScale   ;false
+visible                 ;true
+dontRotateWithParent    ;true
+bossBar                 ;false
+fadeOutBar              ;true

@@ -1,0 +1,6 @@
+HP                           ;999 //Indestructible Bullet
+maxDownwardVelocity          ;8
+speed                        ;4
+gravity                      ;0.2
+angularVelocity              ;0.1
+configInitialMoveStraightTime;300   //Time in millis

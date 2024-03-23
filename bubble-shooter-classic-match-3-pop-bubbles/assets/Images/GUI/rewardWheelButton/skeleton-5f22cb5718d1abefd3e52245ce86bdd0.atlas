@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HouseIcon
+  rotate: false
+  xy: 857, 64
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+TruckIcon
+  rotate: false
+  xy: 937, 64
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+big
+  rotate: true
+  xy: 2, 2
+  size: 3, 17
+  orig: 3, 17
+  offset: 0, 0
+  index: -1
+capacityBillboard
+  rotate: false
+  xy: 501, 82
+  size: 134, 88
+  orig: 134, 88
+  offset: 0, 0
+  index: -1
+feverTime
+  rotate: false
+  xy: 348, 186
+  size: 190, 61
+  orig: 190, 61
+  offset: 0, 0
+  index: -1
+levelUpIcon
+  rotate: true
+  xy: 759, 40
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+levelUp_button
+  rotate: false
+  xy: 540, 172
+  size: 157, 75
+  orig: 157, 75
+  offset: 0, 0
+  index: -1
+levelUp_buttonPressed
+  rotate: false
+  xy: 2, 127
+  size: 203, 120
+  orig: 203, 120
+  offset: 0, 0
+  index: -1
+levelUp_button_Grey
+  rotate: false
+  xy: 699, 172
+  size: 157, 75
+  orig: 157, 75
+  offset: 0, 0
+  index: -1
+luckyWheel_icon
+  rotate: true
+  xy: 207, 128
+  size: 119, 139
+  orig: 119, 139
+  offset: 0, 0
+  index: -1
+luckyWheel_innerCircle
+  rotate: false
+  xy: 759, 74
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+noAD_icon
+  rotate: false
+  xy: 637, 50
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+productRectangle
+  rotate: false
+  xy: 858, 144
+  size: 146, 28
+  orig: 146, 28
+  offset: 0, 0
+  index: -1
+small
+  rotate: true
+  xy: 1011, 244
+  size: 3, 11
+  orig: 3, 11
+  offset: 0, 0
+  index: -1
+wareHouseButton
+  rotate: false
+  xy: 858, 174
+  size: 151, 73
+  orig: 151, 73
+  offset: 0, 0
+  index: -1
+wareHouseButton_Grey
+  rotate: false
+  xy: 348, 111
+  size: 151, 73
+  orig: 151, 73
+  offset: 0, 0
+  index: -1
+wareHouseButton_Pressed
+  rotate: false
+  xy: 2, 7
+  size: 197, 118
+  orig: 197, 118
+  offset: 0, 0
+  index: -1

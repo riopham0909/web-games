@@ -1,0 +1,7 @@
+maxDownwardVelocity   ;8
+speed                 ;25
+chargedSpeed          ;25
+gravity               ;0.2
+angularVelocity       ;2
+chargedAngularVelocity;6
+radius                ;150

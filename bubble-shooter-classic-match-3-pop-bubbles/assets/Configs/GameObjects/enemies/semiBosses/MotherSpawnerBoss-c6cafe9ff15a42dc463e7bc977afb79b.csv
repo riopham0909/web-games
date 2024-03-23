@@ -1,0 +1,14 @@
+HP;400
+speed;2
+damage;40
+gravity;0.1
+maxDownwardVelocity;3
+range;300
+dieVelocityX;4
+dieVelocityY;4
+dieBlinkTime;1
+attackSpeedTimer;10
+spawnAttackLoop;2
+dieBlastTime;0.4
+randomBlasts;inAirExplosionBIG,smallBlast,launcherExplosion
+bigBlast;normalExplosion1

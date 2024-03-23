@@ -1,0 +1,160 @@
+
+package.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Booster/boosterButton_skeleton/skeleton
+  rotate: false
+  xy: 6, 100
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+Booster/boosterPanel_skeleton/skeleton
+  rotate: false
+  xy: 6, 240
+  size: 1024, 256
+  orig: 1024, 256
+  offset: 0, 0
+  index: -1
+HUD/amountPanel
+  rotate: false
+  xy: 2078, 274
+  size: 286, 82
+  orig: 286, 82
+  offset: 0, 0
+  index: -1
+HUD/barBase_circle
+  rotate: false
+  xy: 2376, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+HUD/barFill_circle
+  rotate: false
+  xy: 1380, 176
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+HUD/coinPanel
+  rotate: false
+  xy: 1172, 160
+  size: 196, 68
+  orig: 196, 68
+  offset: 0, 0
+  index: -1
+HUD/customerPanel
+  rotate: false
+  xy: 2602, 414
+  size: 286, 82
+  orig: 286, 82
+  offset: 0, 0
+  index: -1
+HUD/customerPanel - Copy
+  rotate: false
+  xy: 6, 6
+  size: 332, 82
+  orig: 332, 82
+  offset: 0, 0
+  index: -1
+HUD/fill
+  rotate: false
+  xy: 2602, 377
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+HUD/fillSide
+  rotate: false
+  xy: 530, 109
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+HUD/greyStar
+  rotate: false
+  xy: 3266, 443
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+HUD/hud_skeleton/skeleton
+  rotate: false
+  xy: 1042, 240
+  size: 1024, 256
+  orig: 1024, 256
+  offset: 0, 0
+  index: -1
+HUD/pause
+  rotate: false
+  xy: 3135, 280
+  size: 93, 85
+  orig: 93, 85
+  offset: 0, 0
+  index: -1
+HUD/purpleStar
+  rotate: false
+  xy: 441, 35
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+HUD/timer
+  rotate: false
+  xy: 2440, 312
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+HUD/timerPanel
+  rotate: false
+  xy: 874, 146
+  size: 286, 82
+  orig: 286, 82
+  offset: 0, 0
+  index: -1
+HUD/timerPanel - Copy
+  rotate: false
+  xy: 530, 146
+  size: 332, 82
+  orig: 332, 82
+  offset: 0, 0
+  index: -1
+HUD/yellowStar
+  rotate: false
+  xy: 3266, 378
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+ObjectiveScreen/skeleton
+  rotate: false
+  xy: 2078, 368
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+foodCount
+  rotate: false
+  xy: 350, 9
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+hudFont/fonts
+  rotate: false
+  xy: 2900, 271
+  size: 223, 225
+  orig: 223, 225
+  offset: 0, 0
+  index: -1
+ovarlay
+  rotate: false
+  xy: 3135, 377
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1

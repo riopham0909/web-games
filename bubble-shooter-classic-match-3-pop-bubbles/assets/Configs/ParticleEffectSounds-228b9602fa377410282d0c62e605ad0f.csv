@@ -1,0 +1,157 @@
+//........................................   ;.................................
+air/rocketLauncher                           ;audio/explosion/chaserImpact.ogg
+air/air_mediumExplosion_withArm              ;audio/explosion/mediumExplosion.ogg
+air/enemyChaserImpact                        ;audio/explosion/chaserImpact.ogg
+air/enemyChaserImpact1                       ;audio/explosion/chaserImpact.ogg
+air/rocketLauncher                           ;audio/explosion/chaserImpact.ogg
+air/rocketLauncher_CR                        ;audio/explosion/smallExplosion2.ogg
+air/weaponx_CR                               ;audio/explosion/smallExplosion2.ogg
+
+grenade/grenade_enemy                        ;audio/explosion/smallExplosion.ogg                                            ,audio/explosion/smallExplosion2.ogg                                           ,audio/explosion/smallExplosion3.ogg
+grenade/grenade_player                       ;audio/explosion/mediumExplosion.ogg                                           ,audio/explosion/mediumExplosion1.ogg                                          ,audio/explosion/mediumExplosion2.ogg
+grenade/grenade_player_CR                    ;audio/explosion/bigExplosion.ogg,audio/explosion/bigExplosion1.ogg,audio/explosion/bigExplosion2.ogg
+grenade/airGrenade_player                    ;audio/explosion/mediumExplosion.ogg                                           ,audio/explosion/mediumExplosion1.ogg                                          ,audio/explosion/mediumExplosion2.ogg
+grenade/airGrenade_player_CR                 ;audio/explosion/bigExplosion.ogg,audio/explosion/bigExplosion1.ogg,audio/explosion/bigExplosion2.ogg
+
+blast/fire                                   ;
+blast/medium1                                ;audio/explosion/mediumExplosion.ogg,audio/explosion/mediumExplosion1.ogg,audio/explosion/mediumExplosion2.ogg
+blast/small                                  ;audio/explosion/smallExplosion.ogg,audio/explosion/smallExplosion2.ogg
+blast/small_helicopter                       ;audio/explosion/smallExplosion2.ogg
+blast/small1                                 ;audio/explosion/smallExplosion.ogg,audio/explosion/smallExplosion2.ogg,audio/explosion/smallExplosion3.ogg
+
+blast_ground/denseSmoke                      ;
+blast_ground/small_bot                       ;audio/explosion/smallExplosion.ogg,audio/explosion/smallExplosion2.ogg,audio/explosion/smallExplosion3.ogg
+blast_ground/tank_final                      ;audio/explosion/bigExplosion.ogg,audio/explosion/bigExplosion1.ogg,audio/explosion/bigExplosion2.ogg
+blast_ground/tank_small                      ;audio/explosion/mediumExplosion.ogg                                           ,audio/explosion/mediumExplosion1.ogg                                          ,audio/explosion/mediumExplosion2.ogg
+blast_ground/tank5_denseSmoke                ;audio/explosion/bigExplosionEcho2.ogg
+blast_ground/tank5_final                     ;audio/explosion/bigExplosionEcho2.ogg
+blast_ground/tank5_fireBlast                 ;
+blast_ground/tank5_smallFire                 ;
+blast_ground/smallFire                       ;
+blast_ground/smallFire1                      ;
+blast_ground/smallFire2                      ;
+blast_ground/smallFire3                      ;
+blast_ground/tank5_smallFire                 ;
+blast_ground/tankFinal                       ;audio/explosion/bigExplosionEcho2.ogg
+blast_ground/truck_blast                     ;audio/explosion/bigExplosionEcho.ogg
+
+
+bosses/boss_multiBlast_air                   ;audio/explosion/monsterExplosion_multiBlast.ogg
+bosses/boss_multiFinalBlast_air              ;audio/explosion/monsterExplosion2.ogg
+bosses/boss_multiBlast_airRays               ;
+bosses/boss_multiBlast_ground                ;audio/explosion/monsterExplosion_multiBlast.ogg
+bosses/boss_multiBlast_groundRays            ;
+bosses/boss_rays_air                         ;
+bosses/boss_rays_ground                      ;
+bosses/boss_smallRays_air                    ;audio/explosion/rise.ogg
+bosses/boss_smallRaysBlast_air               ;audio/explosion/monsterExplosion2.ogg
+bosses/boss_smallRays_ground                 ;audio/explosion/rise.ogg
+bosses/boss_smallRaysBlast_ground            ;audio/explosion/monsterExplosion2.ogg
+bosses/boss_smallRaysBlast_ground_1
+bosses/boss_smallRaysBlast_ground_wallMachine;audio/explosion/monsterExplosion2.ogg
+
+
+smokeBlast/doorBlast_side                    ;audio/explosion/mediumExplosion.ogg                                           ,audio/explosion/mediumExplosion1.ogg                                          ,audio/explosion/mediumExplosion2.ogg
+smokeBlast/smokeBlast__inspector_ball        ;audio/explosion/smallExplosion.ogg
+smokeBlast/smokeBlast_air                    ;audio/explosion/smallExplosion.ogg
+smokeBlast/smokeBlast_down                   ;audio/explosion/smallExplosion.ogg
+smokeBlast/smokeBlast_side                   ;audio/explosion/smallExplosion.ogg
+smokeBlast/smokeBlast_up                     ;audio/explosion/smallExplosion.ogg
+smokeBlast/testTubeBreak                     ;audio/explosion/testubebreak.ogg
+
+sideExplosion/side_bigExplosion_withArm      ;audio/explosion/mediumExplosion.ogg                                           ,audio/explosion/mediumExplosion1.ogg                                          ,audio/explosion/mediumExplosion2.ogg
+sideExplosion/sideMediumExplosion_withArm    ;audio/explosion/smallExplosion.ogg                                            ,audio/explosion/smallExplosion2.ogg                                           ,audio/explosion/smallExplosion3.ogg
+
+templates_ground/explosion_big               ;audio/explosion/bigExplosion.ogg,audio/explosion/bigExplosion1.ogg,audio/explosion/bigExplosion2.ogg
+templates_ground/explosion_big_sensorBomb    ;audio/explosion/bigExplosion.ogg                                              ,audio/explosion/bigExplosion1.ogg                                             ,audio/explosion/bigExplosion2.ogg
+templates_ground/explosion_big-1             ;audio/explosion/mediumExplosion.ogg                                           ,audio/explosion/mediumExplosion1.ogg                                          ,audio/explosion/mediumExplosion2.ogg
+templates_ground/explosion_big_smoke         ;audio/explosion/bigExplosion.ogg,audio/explosion/bigExplosion1.ogg,audio/explosion/bigExplosion2.ogg
+templates_ground/explosion_gaint             ;audio/explosion/bigExplosionEcho.ogg
+templates_ground/explosion_gaint_aerialAi    ;audio/explosion/bigExplosionEcho.ogg
+templates_ground/explosion_gaint1            ;audio/explosion/bigExplosionEcho2.ogg
+templates_ground/explosion_gaint1_bugBoss    ;audio/explosion/bossFinalExplosion.ogg
+templates_ground/explosion_gaint2            ;audio/explosion/bigExplosionEcho2.ogg
+templates_ground/explosion_gaint2_dancingBot ;audio/explosion/bigExplosionEcho2.ogg
+templates_ground/explosion_medium            ;audio/explosion/mediumExplosion.ogg,audio/explosion/mediumExplosion1.ogg,audio/explosion/mediumExplosion2.ogg
+templates_ground/explosion_small             ;audio/explosion/smallExplosion.ogg,audio/explosion/smallExplosion2.ogg,audio/explosion/smallExplosion3.ogg
+templates_ground/explosion_gaint1_Giant_robo ;audio/explosion/monsterExplosion2.ogg
+templates_ground/explosion_gaint1_lift       ;
+templates_ground/grenade_giantRobo           ;audio/explosion/mediumExplosion.ogg                                           ,audio/explosion/mediumExplosion1.ogg                                          ,audio/explosion/mediumExplosion2.ogg
+templates_ground/electricity_explosion       ;audio/explosion/mediumExplosion.ogg                                           ,audio/explosion/mediumExplosion1.ogg                                          ,audio/explosion/mediumExplosion2.ogg
+
+templates_inAir/inAir_big                    ;audio/explosion/bigExplosion.ogg,audio/explosion/bigExplosion1.ogg,audio/explosion/bigExplosion2.ogg
+templates_inAir/inAir_big_Explosive          ;audio/explosion/bigExplosion.ogg                                              ,audio/explosion/bigExplosion1.ogg                                             ,audio/explosion/bigExplosion2.ogg
+templates_inAir/inAir_big-1                  ;audio/explosion/mediumExplosion.ogg                                           ,audio/explosion/mediumExplosion1.ogg                                          ,audio/explosion/mediumExplosion2.ogg
+templates_inAir/inAir_big1                   ;audio/explosion/bigExplosionEcho.ogg,audio/explosion/bigExplosionEcho2.ogg
+templates_inAir/inAir_fire                   ;
+templates_inAir/inAir_gaint                  ;audio/explosion/bigExplosionEcho2.ogg
+templates_inAir/inAir_gaint1                 ;audio/explosion/bossFinalExplosion.ogg
+templates_inAir/inAir_gaint2                 ;audio/explosion/bigExplosionEcho.ogg
+templates_inAir/inAir_medium                 ;audio/explosion/mediumExplosion.ogg,audio/explosion/mediumExplosion1.ogg,audio/explosion/mediumExplosion2.ogg
+templates_inAir/inAir_medium1                ;audio/explosion/mediumExplosion.ogg,audio/explosion/mediumExplosion1.ogg,audio/explosion/mediumExplosion2.ogg
+templates_inAir/inAir_medium_fast            ;audio/explosion/smallExplosion2.ogg                                           ,audio/explosion/smallExplosion3.ogg
+templates_inAir/inAir_small                  ;audio/explosion/smallExplosion.ogg,audio/explosion/smallExplosion2.ogg,audio/explosion/smallExplosion3.ogg
+
+waterExplosion/water_chaserImpact            ;audio/explosion/chaserImpact.ogg
+waterExplosion/water_rocketLauncher          ;audio/explosion/chaserImpact.ogg
+waterExplosion/water_rocketLauncher_CR       ;audio/explosion/chaserImpact.ogg
+waterExplosion/waterExplosion_big            ;audio/explosion/bigExplosion.ogg & audio/explosion/bigWaterExplosion.ogg      ,audio/explosion/bigExplosion1.ogg&audio/explosion/bigWaterExplosion.ogg       ,audio/explosion/bigExplosion2.ogg&audio/explosion/bigWaterExplosion.ogg
+waterExplosion/waterExplosion_big-1          ;audio/explosion/smallExplosion.ogg & audio/explosion/mediumWaterExplosion.ogg ,audio/explosion/mediumExplosion.ogg & audio/explosion/mediumWaterExplosion.ogg,audio/explosion/mediumExplosion1.ogg & audio/explosion/mediumWaterExplosion.ogg,audio/explosion/mediumExplosion2.ogg & audio/explosion/mediumWaterExplosion.ogg
+waterExplosion/waterExplosion_big_waterMine  ;audio/explosion/smallExplosion.ogg & audio/explosion/mediumWaterExplosion.ogg ,audio/explosion/mediumExplosion.ogg & audio/explosion/mediumWaterExplosion.ogg,audio/explosion/mediumExplosion1.ogg & audio/explosion/mediumWaterExplosion.ogg,audio/explosion/mediumExplosion2.ogg & audio/explosion/mediumWaterExplosion.ogg
+waterExplosion/waterExplosion_dieBubble      ;
+waterExplosion/waterExplosion_dieBubble_fire ;
+waterExplosion/waterExplosion_dieBubble_smoke;
+waterExplosion/waterExplosion_gaint          ;audio/explosion/bigExplosion.ogg & audio/explosion/bigWaterExplosion.ogg      ,audio/explosion/bigExplosion1.ogg&audio/explosion/bigWaterExplosion.ogg       ,audio/explosion/bigExplosion2.ogg&audio/explosion/bigWaterExplosion.ogg
+waterExplosion/waterExplosion_finalGaint     ;audio/explosion/bossFinalExplosion.ogg & audio/explosion/bigWaterExplosion.ogg
+waterExplosion/waterExplosion_medium         ;audio/explosion/smallExplosion.ogg & audio/explosion/mediumWaterExplosion.ogg ,audio/explosion/mediumExplosion.ogg & audio/explosion/mediumWaterExplosion.ogg,audio/explosion/mediumExplosion1.ogg & audio/explosion/mediumWaterExplosion.ogg,audio/explosion/mediumExplosion2.ogg & audio/explosion/mediumWaterExplosion.ogg
+waterExplosion/waterExplosion_medium1        ;audio/explosion/smallExplosion.ogg & audio/explosion/mediumWaterExplosion.ogg ,audio/explosion/mediumExplosion.ogg & audio/explosion/mediumWaterExplosion.ogg,audio/explosion/mediumExplosion1.ogg & audio/explosion/mediumWaterExplosion.ogg,audio/explosion/mediumExplosion2.ogg & audio/explosion/mediumWaterExplosion.ogg
+waterExplosion/waterExplosion_playerGrenade  ;audio/explosion/mediumExplosion.ogg & audio/explosion/mediumWaterExplosion.ogg,audio/explosion/mediumExplosion1.ogg & audio/explosion/mediumWaterExplosion.ogg,audio/explosion/mediumExplosion2.ogg & audio/explosion/mediumWaterExplosion.ogg
+waterExplosion/waterExplosion_playerGrenade_CR      ;audio/explosion/bigExplosion.ogg & audio/explosion/bigWaterExplosion.ogg,audio/explosion/bigExplosion1.ogg & audio/explosion/bigWaterExplosion.ogg,audio/explosion/bigExplosion2.ogg & audio/explosion/bigWaterExplosion.ogg
+waterExplosion_airPlayerGrenade                    ;audio/explosion/mediumExplosion.ogg & audio/explosion/mediumWaterExplosion.ogg, audio/explosion/mediumExplosion1.ogg & audio/explosion/mediumWaterExplosion.ogg,audio/explosion/mediumExplosion2.ogg & audio/explosion/mediumWaterExplosion.ogg
+waterExplosion_airPlayerGrenade_CR                 ;audio/explosion/bigExplosion.ogg & audio/explosion/bigWaterExplosion.ogg,audio/explosion/bigExplosion1.ogg & audio/explosion/bigWaterExplosion.ogg,audio/explosion/bigExplosion2.ogg & audio/explosion/bigWaterExplosion.ogg
+waterExplosion/waterExplosion_small          ;audio/explosion/smallExplosion.ogg,audio/explosion/smallExplosion2.ogg,audio/explosion/smallExplosion3.ogg
+
+
+levelExplosion/GiantExplosion_denseSmoke     ;
+levelExplosion/GiantExplosion_denseSmoke&arm ;
+levelExplosion/GiantExplosion_withFire       ;
+levelExplosion/GiantExplosion_withFire&arm   ;
+levelExplosion/glassSmokeBlast_air           ;
+levelExplosion/glassSmokeBlast_down          ;
+levelExplosion/glassSmokeBlast_side          ;
+levelExplosion/glassSmokeBlast_up            ;
+levelExplosion/side_giantExplosion           ;
+levelExplosion/side_giantExplosion_withArm   ;
+levelExplosion/sideMediumExplosion           ;audio/explosion/mediumExplosion1.ogg                                          ,audio/explosion/mediumExplosion2.ogg                                          ,audio/explosion/mediumExplosion.ogg
+levelExplosion/sideMediumExplosion_withArm   ;audio/explosion/mediumExplosion1.ogg                                          ,audio/explosion/mediumExplosion2.ogg                                          ,audio/explosion/mediumExplosion.ogg
+levelExplosion/smokeBlast_air                ;audio/explosion/smallExplosion.ogg                                            ,audio/explosion/smallExplosion2.ogg                                           ,audio/explosion/smallExplosion3.ogg
+levelExplosion/smokeBlast_down               ;audio/explosion/smallExplosion.ogg                                            ,audio/explosion/smallExplosion2.ogg                                           ,audio/explosion/smallExplosion3.ogg
+levelExplosion/smokeBlast_side               ;audio/explosion/smallExplosion.ogg                                            ,audio/explosion/smallExplosion2.ogg                                           ,audio/explosion/smallExplosion3.ogg
+levelExplosion/smokeBlast_up                 ;audio/explosion/smallExplosion.ogg                                            ,audio/explosion/smallExplosion2.ogg                                           ,audio/explosion/smallExplosion3.ogg
+
+
+level1/weldingSpark                          ;
+level1/weldingSpark_left                     ;
+level1/weldingSpark_right                    ;
+level1/weldingSpark_up                       ;
+level1/electricSpark                         ;
+level1/electricSpark_green                   ;
+level1/electricSpark_left                    ;
+level1/electricSpark_right                   ;
+
+level2/lift_falling                          ;
+level2/liftSpark_side                        ;
+level2/liftSpark1                            ;
+level2/weldingSpark                          ;
+level2/weldingSpark_right                    ;
+
+level3/tank_blast                            ;audio/explosion/bigExplosion.ogg                                              ,audio/explosion/bigExplosion1.ogg
+level3/tank_final                            ;audio/explosion/bigExplosionEcho2.ogg                                         ,audio/explosion/bigExplosionEcho.ogg
+level3/tank_finalBlast                       ;audio/explosion/bigExplosionEcho.ogg
+level3/handImpact_up                         ;
+level3/headImpact_up                         ;audio/customBosses/level3/level3_enclosed_skullExecutor/die_headrest.ogg
+
+level4/comodoFire                            ;
+
+level5/cutterMachineSpark                    ;
+level5/antTankEntry                          ;

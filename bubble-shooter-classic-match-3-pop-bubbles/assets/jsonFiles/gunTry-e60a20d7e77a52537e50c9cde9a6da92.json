@@ -1,0 +1,14 @@
+{
+   "canPurchase" : {
+      "on" : {
+         "purchase" : "normalPurchase"
+      },
+      "off" : ""
+   },
+   "insufficientPurchaseCredits" : {
+      "on" : {
+         "custom" : "insufficientCurrency"
+      },
+      "off" : ""
+   }
+}

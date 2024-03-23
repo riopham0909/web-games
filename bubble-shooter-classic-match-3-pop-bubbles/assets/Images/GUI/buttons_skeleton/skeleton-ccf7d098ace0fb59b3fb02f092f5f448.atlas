@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame
+  rotate: true
+  xy: 2, 39
+  size: 77, 131
+  orig: 77, 131
+  offset: 0, 0
+  index: -1
+selectFriends
+  rotate: false
+  xy: 135, 91
+  size: 150, 25
+  orig: 150, 25
+  offset: 0, 0
+  index: -1
+shareButton
+  rotate: false
+  xy: 2, 2
+  size: 123, 35
+  orig: 123, 35
+  offset: 0, 0
+  index: -1
+shareOnWall
+  rotate: false
+  xy: 135, 64
+  size: 125, 25
+  orig: 125, 25
+  offset: 0, 0
+  index: -1

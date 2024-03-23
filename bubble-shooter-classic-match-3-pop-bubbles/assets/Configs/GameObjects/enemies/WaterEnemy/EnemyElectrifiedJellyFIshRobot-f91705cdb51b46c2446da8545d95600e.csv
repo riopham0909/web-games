@@ -1,0 +1,9 @@
+HP;2
+damage;1
+speed;2
+gravity;0.5
+maxDownwardVelocity;8
+range;3
+dieVelocityX;2
+dieVelocityY;6
+dieBlinkTime;1

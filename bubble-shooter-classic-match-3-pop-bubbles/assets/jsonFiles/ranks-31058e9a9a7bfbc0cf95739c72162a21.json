@@ -1,0 +1,268 @@
+{
+   "Ranks" : {
+      "1" : {
+         "Name" : "Civilian",
+         "XP" : "0",
+         "Rewards" : {
+            "knife" : "1",
+            "handGun1" : "1"
+         }
+      },
+      "2" : {
+         "Name" : "Recruit",
+         "XP" : "30",
+         "Rewards" : {          
+            "PremiumCurrency" : "15",
+            "RegularCurrency" : "6000"
+         },
+         "Unlocks" : {
+            "unlock1" : "smg2",
+            "unlock2" : "smg3",
+            "unlock3" : "smg1"
+         }
+      },
+      "3" : {
+         "Name" : "Private",
+         "XP" : "1200",
+         "Rewards" : {
+            "commonCrate" : "1",
+            "PremiumCurrency" : "10"
+         },
+         "Unlocks" : {
+            "unlock1" : "smg4",
+            "unlock2" : "smg5",
+            "unlock3" : "machineGun1",
+            "unlock6" : "handGun2",
+            "unlock4" : "crowbar",
+            "unlock5" : "machineGun8",
+            "unlock7" : "handGun6",
+            "unlock8" : "handGun7",
+            "unlock9" : "shotGun1"
+         }
+      },
+      "4" : {
+         "Name" : "Private First Class",
+         "XP" : "1500",
+         "Rewards" : {
+            "rareCrate" : "1",
+            "AdrenalinePack" : "1"
+         },
+         "Unlocks" : {
+            "unlock1" : "shotGun2",
+            "unlock2" : "rocketLauncher1",
+            "unlock3\r\n" : "machineGun7",
+            "unlock4\r\n" : "fireGun",
+            "unlock5\r\n" : "handGun8",
+            "unlock6\r\n" : "bouncyGun"
+         }
+      },
+      "5" : {
+         "Name" : "Specialist",
+         "XP" : "2000",
+         "Rewards" : {
+            "PremiumCurrency" : "5",
+            "rareCrate" : "1"
+         },
+         "Unlocks" : {
+            "unlock2" : "handGun3",
+            "unlock61" : "machineGun3",
+            "unlock72" : "machineGun6",
+            "unlock3" : "homingGun",
+            "unlock1" : "machineGun2",
+            "unlock4" : "rocketLauncher3",
+            "unlock5" : "handGun3",
+            "unlock8" : "machineGun5",
+            "unlock7" : "machineGun4",
+            "unlock10" : "grenadeLauncher",
+            "unlock11" : "plasmaGun",
+            "unlock12" : "hammerGun",
+            "unlock13" : "alienGun"
+         }
+      },
+      "6" : {
+         "Name" : "Corporal",
+         "XP" : "3000",
+         "Rewards" : {
+            "RegularCurrency" : "3000",
+            "legendaryCrate" : "1"
+         },
+         "Unlocks" : {
+            "unlock1" : "shotGun3",
+            "unlock2" : "karambit",
+            "unlock3" : "rocketLauncher4",
+            "unlock4" : "handGun4",
+            "unlock6" : "shotGun5",
+            "unlock7" : "rocketLauncher2",
+            "unlock5" : "shotGun4",
+            "unlock10" : "nuclearBlaster"
+         }
+      },
+      "7" : {
+         "Name" : "Sergeant",
+         "XP" : "4000",
+         "Rewards" : {
+            "RegularCurrency" : "2000",
+            "legendaryCrate" : "1"
+         },
+         "Unlocks" : {
+            "unlock3" : "machineGun3",
+            "unlock4" : "machineGun6",
+            "unlock6" : "weaponX",
+            "unlock5" : "handGun5"
+         }
+      },
+      "8" : {
+         "Name" : "Staff Sergeant",
+         "XP" : "5000",
+         "Rewards" : {
+            "rareCrate" : "1",
+            "PremiumCurrency" : "10"
+         },
+         "Unlocks" : {
+            "unlock2" : "bat"
+         }
+      },
+      "9" : {
+         "Name" : "Sergeant First Class",
+         "XP" : "7000",
+         "Rewards" : {
+            "RegularCurrency" : "2000",
+            "PremiumCurrency" : "15"
+         },
+         "Unlocks" : {
+            "unlock1" : "laserGun",
+            "unlock2" : "studRod"
+         }
+      },
+      "10" : {
+         "Name" : "Master Sergeant",
+         "XP" : "8200",
+         "Rewards" : {
+            "PremiumCurrency" : "20"
+         },
+         "Unlocks" : {
+            "unlock2" : "machete",
+            "unlock3" : "wideGun",
+            "unlock4" : "thunderGun",
+            "unlock5" : "superWideGun"
+         }
+      },
+      "11" : {
+         "Name" : "Sergeant Major",
+         "XP" : "9700",
+         "Rewards" : {
+            "AdrenalinePack" : "2",
+            "RegularCurrency" : "4000"
+         },
+         "Unlocks" : {}
+      },
+      "12" : {
+         "Name" : "Warrant Officer",
+         "XP" : "10600",
+         "Rewards" : {
+            "RegularCurrency" : "3000",
+            "AirStrike" : "2"
+         },
+         "Unlocks" : {}
+      },
+      "13" : {
+         "Name" : "Chief Officer",
+         "XP" : "12000",
+         "Rewards" : {
+            "PremiumCurrency" : "10",
+            "RegularCurrency" : "2000"
+         }
+      },
+      "14" : {
+         "Name" : "Lieutenant",
+         "XP" : "13000",
+         "Rewards" : {
+            "RegularCurrency" : "6000"
+         }
+      },
+      "15" : {
+         "Name" : "Captain",
+         "XP" : "14000",
+         "Rewards" : {
+            "AirStrike" : "2",
+            "PremiumCurrency" : "10"
+         }
+      },
+      "16" : {
+         "Name" : "Lieutenant Major",
+         "XP" : "15000",
+         "Rewards" : {
+            "RegularCurrency" : "5000",
+            "AdrenalinePack" : "1"
+         }
+      },
+      "17" : {
+         "Name" : "Major",
+         "XP" : "16000",
+         "Rewards" : {
+            "RegularCurrency" : "4000",
+            "PremiumCurrency" : "15"
+         }
+      },
+      "18" : {
+         "Name" : "Lieutenant Colonal",
+         "XP" : "17000",
+         "Rewards" : {
+            "PremiumCurrency" : "50"
+         }
+      },
+      "19" : {
+         "Name" : "Colonel",
+         "XP" : "20000",
+         "Rewards" : {
+            "RegularCurrency" : "8000"
+         }
+      },
+      "20" : {
+         "Name" : "Brigadier",
+         "XP" : "22000",
+         "Rewards" : {
+            "AirStrike" : "3",
+            "RegularCurrency" : "5000"
+         }
+      },
+      "21" : {
+         "Name" : "Brigadier General",
+         "XP" : "25000",
+         "Rewards" : {
+            "PremiumCurrency" : "50",
+            "AirStrike" : "1"
+         }
+      },
+      "22" : {
+         "Name" : "Major General",
+         "XP" : "28000",
+         "Rewards" : {
+            "RegularCurrency" : "5000",
+            "AdrenalinePack" : "2",
+            "PremiumCurrency" : "25"
+         }
+      },
+      "23" : {
+         "Name" : "Lieutenant General",
+         "XP" : "35000",
+         "Rewards" : {
+            "PremiumCurrency" : "60"
+         }
+      },
+      "24" : {
+         "Name" : "General",
+         "XP" : "42000",
+         "Rewards" : {
+            "RegularCurrency" : "12000"
+         }
+      },
+      "25" : {
+         "Name" : "Global General",
+         "XP" : "50000",
+         "Rewards" : {
+            "PremiumCurrency" : "80"
+         }
+      }
+   }
+}

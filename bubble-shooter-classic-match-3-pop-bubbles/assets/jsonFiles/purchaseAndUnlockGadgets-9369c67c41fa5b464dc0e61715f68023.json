@@ -1,0 +1,97 @@
+{
+   "canUnlock" : {
+      "on" : {
+         "playSound" : "157",
+         "askUser" : "0^Purchase \"itemName\"?^itemName will be available to build at level unlockRank.\r\n\r\nDo you wish to purchase \"itemName\" now? \r\nCost: itemCost .^purchase>normalPurchase"
+      },
+      "off" : ""
+   },
+   "insufficientUnlockCredits" : {
+      "on" : {
+         "playSound" : "152",
+         "insufficientCredits" : "Sorry|You do not have sufficient credits."
+      },
+      "off" : ""
+   },
+   "canPurchase" : {
+      "on" : {
+         "playSound" : "157",
+         "askUser" : "0^Purchase \"itemName\"?^Do you wish to purchase \"itemName\"?\r\nCost: itemCost.^purchase>normalPurchase"
+      },
+      "off" : ""
+   },
+   "canBuild" : {
+      "on" : {
+         "playSound" : "157",
+         "askUser" : "0^Build \"itemName\"?^Do you wish to build \"itemName\"?\r\nCost: itemCost.^purchase>normalPurchase"
+      },
+      "off" : ""
+   },
+   "insufficientPurchaseCredits" : {
+      "on" : {
+         "playSound" : "152",
+         "insufficientCredits" : "Sorry|You do not have sufficient credits."
+      },
+      "off" : ""
+   },
+   "insufficientBuildCredits" : {
+      "on" : {
+         "playSound" : "152",
+         "insufficientCredits" : "Sorry|You do not have sufficient credits."
+      },
+      "off" : ""
+   },
+   "insufficientSpeedBuildCredits" : {
+      "on" : {
+         "playSound" : "152",
+         "insufficientCredits" : "Sorry|You do not have sufficient credits."
+      },
+      "off" : ""
+   },
+   "purchased" : {
+      "on" : {
+         "playSound" : "157",
+         "custom" : "insideUpgradeDiplay",
+         "playCinematic|1" : "Cinematic_Node.002",
+         "playCinematic|2" : "Cinematic_Node.005",
+         "playCinematic|3" : "Cinematic_Node.008",
+         "custom|1" : "hideBackPanel",
+         "hide|1\r\n" : "GUI_Button.027",
+         "hide|2" : "GUI_Button.028"
+      },
+      "off" : ""
+   },
+   "canSpeedBuild" : {
+      "on" : {
+         "playSound" : "157",
+         "purchase" : "speedBuild"
+      },
+      "off" : ""
+   },
+   "singleBuildNow" : {
+      "on" : {
+         "playSound" : "157",
+         "spiltBuyButton" : "GUI_MultiStateButton.009"
+      },
+      "off" : ""
+   },
+   "BuyNow" : {
+      "on" : {
+         "playSound" : "157",
+         "spiltBuyButton" : "GUI_MultiStateButton.009"
+      },
+      "off" : ""
+   },
+   "canUnlockByRank" : {
+      "on" : {
+         "playSound" : "152"
+      },
+      "off" : ""
+   },
+   "fbShare" : {
+      "on" : {
+         "custom" : "shareFbLink"
+      },
+      "off" : ""
+   }
+}

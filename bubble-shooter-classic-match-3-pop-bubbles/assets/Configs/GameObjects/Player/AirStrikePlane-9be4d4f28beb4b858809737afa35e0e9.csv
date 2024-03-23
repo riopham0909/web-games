@@ -1,0 +1,4 @@
+HP          ;1
+speed       ;150
+timeInterval;0.03f
+impactVFX   ;timelineFX/templates_ground/explosion_small

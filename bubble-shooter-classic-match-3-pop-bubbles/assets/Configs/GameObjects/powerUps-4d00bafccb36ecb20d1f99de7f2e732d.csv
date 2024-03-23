@@ -1,0 +1,20 @@
+HP                   ;0.5
+HPAdPowerUp          ;20
+gravity              ;0.3
+maxDownwardVelocity  ;2
+adGravity            ;0.3
+adMaxDownwardVelocity;15
+removeTimer          ;60
+breakTimer           ;99999
+dieBlinkTime         ;2
+isFlying             ;true
+flySpeed             ;5
+hoverFrequency       ;5
+maxDeviation         ;20
+hasBox               ;true
+isRandom             ;false
+removeOnTimer        ;TRUE
+jumpHeight           ;12
+jumpSpeed            ;2.5
+moveInScreen          ; false
+
