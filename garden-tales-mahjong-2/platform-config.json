@@ -1,0 +1,21 @@
+{
+  "platform": "azerion",
+  "gameSlug": "garden-tales-mahjong-2",
+  "gameBuild": "1.0.4",
+  "gameID": "090cd83a141d4968ba08fe76b167e968",
+  "gameTitle": "Garden Tales Mahjong 2",
+  "interface": "sgSdk",
+  "leaderboardSupport": false,
+  "inAppPurchase": false,
+  "options": {
+    "reloadOnFold": true
+  },
+  "adsConfig": {
+    "rewarded": true,
+    "adFreeInitialLevels": 0,
+    "interstitialCooldownLevel": 0,
+    "longGameplayCooldownMS": 240000,
+    "enableLongGameplayAds": true,
+    "supportsAdPlayButton": false
+  }
+}
