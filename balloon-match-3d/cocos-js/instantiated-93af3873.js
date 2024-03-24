@@ -30451,6 +30451,7 @@ System.register([], (function(e, t) {
 					if ("string" == typeof e) {
 						console.info("[Physics][Bullet]: Using wasm Bullet libs.");
 						var t = function(e) {
+							console.info(11111)
 								console.info(e)
 							},
 							i = function(e) {
@@ -30470,38 +30471,36 @@ System.register([], (function(e, t) {
 									memory: n
 								}
 							};
-                            // return new Promise(function (resolve, reject) {
-                            //     var xhttp = new XMLHttpRequest();
-                            //     xhttp.onreadystatechange = function() {
-                            //         if (this.readyState == 4 && this.status == 200) {
-                            //             resolve(xhttp.response);
-                            //         // Typical action to be performed when the document is ready:
-                            //         }
-                            //     };
-                            //     xhttp.responseType = "arraybuffer";
-                            //     xhttp.open("GET", e, true);
-                            //     xhttp.send();
-                            // }).then((e) => {
-							// 	// ! function(e) {
-							// 		console.info(e)
-							// 		WebAssembly.instantiate(e, r).then((function(e) {
-							// 			var i = e.instance.exports;
-							// 			Object.assign(pB, i), t()
-							// 		}))
-							// 	// }
-                            // })
+                            return new Promise(function (t) {
+                                var xhttp = new XMLHttpRequest();
+                                xhttp.onreadystatechange = function() {
+                                    if (this.readyState == 4 && this.status == 200) {
+										WebAssembly.instantiate(xhttp.response, r).then((function(e) {
+											var i = e.instance.exports;
+											console.info(i)
+											Object.assign(pB, i), t()
+										}), i)
+                                    // Typical action to be performed when the document is ready:
+                                    }
+                                };
+                                xhttp.responseType = "arraybuffer";
+                                xhttp.open("GET", e, true);
+                                xhttp.send();
+                            })
 						return new Promise((function(t) {
+							console.info(t)
 							fetch(e).then((function(e) {
 								e.arrayBuffer().then((function(e) {
-									! function(e) {
+									// ! function(e) {
 										console.info(e)
 										WebAssembly.instantiate(e, r).then((function(e) {
 											var i = e.instance.exports;
+											console.info(i)
 											Object.assign(pB, i), t()
-										}), i)
-									}(e)
-								}), i)
-							}), i)
+										}))
+									// }(e)
+								}))
+							}))
 						}))
 					}
 					console.info("[Physics][Bullet]: Using asmjs Bullet libs.");
