@@ -1,0 +1,27 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="bomb0.png" x="217" y="935" width="153" height="68"/>
+	<SubTexture name="bomb1.png" x="229" y="0" width="182" height="128"/>
+	<SubTexture name="bomb10.png" x="423" y="742" width="195" height="189"/>
+	<SubTexture name="bomb11.png" x="221" y="354" width="201" height="192"/>
+	<SubTexture name="bomb12.png" x="424" y="294" width="194" height="199"/>
+	<SubTexture name="bomb13.png" x="427" y="0" width="192" height="199"/>
+	<SubTexture name="bomb14.png" x="431" y="495" width="170" height="172"/>
+	<SubTexture name="bomb2.png" x="0" y="0" width="227" height="146"/>
+	<SubTexture name="bomb3.png" x="224" y="148" width="201" height="144"/>
+	<SubTexture name="bomb4.png" x="217" y="549" width="212" height="191"/>
+	<SubTexture name="bomb5.png" x="0" y="354" width="219" height="193"/>
+	<SubTexture name="bomb6.png" x="0" y="549" width="215" height="205"/>
+	<SubTexture name="bomb7.png" x="0" y="148" width="222" height="204"/>
+	<SubTexture name="bomb8.png" x="0" y="756" width="215" height="198"/>
+	<SubTexture name="bomb9.png" x="217" y="742" width="204" height="191"/>
+	<SubTexture name="0.png" x="372" y="935" width="86" height="87"/>
+	<SubTexture name="1.png" x="760" y="794" width="100" height="101"/>
+	<SubTexture name="2.png" x="758" y="354" width="130" height="131"/>
+	<SubTexture name="3.png" x="620" y="647" width="144" height="145"/>
+	<SubTexture name="4.png" x="757" y="0" width="132" height="132"/>
+	<SubTexture name="5.png" x="620" y="354" width="136" height="136"/>
+	<SubTexture name="6.png" x="620" y="794" width="138" height="139"/>
+	<SubTexture name="7.png" x="620" y="201" width="158" height="151"/>
+	<SubTexture name="8.png" x="603" y="495" width="159" height="150"/>
+	<SubTexture name="9.png" x="621" y="0" width="134" height="133"/>
+</TextureAtlas>
