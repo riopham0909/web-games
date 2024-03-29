@@ -1,0 +1,104 @@
+{
+  "type": "Group",
+  "elements": [
+    {
+      "type": "Sprite",
+      "exportName": "inputCacher",
+      "inputBlocker": true,
+      "hitArea": {
+        "x": -10000,
+        "y": -10000,
+        "width": 100000,
+        "height": 100000
+      }
+    },
+    {
+      "type": "Sprite",
+      "sprite": "SHOOTER_BG",
+      "props": {
+        "anchor": {
+          "x": 0.5,
+          "y": 1
+        }
+      }
+    },
+    {
+      "type": "Sprite",
+      "exportName": "colorBar",
+      "sprite": "SHOOTER_COLOR_BAR",
+      "props": {
+        "anchor": {
+          "x": 0.5,
+          "y": 1
+        }
+      }
+    },
+    {
+      "type": "Sprite",
+      "sprite": "SHOOTER_PLATFORM",
+      "props": {
+        "anchor": {
+          "x": 0.5,
+          "y": 1
+        }
+      }
+    },
+    {
+      "type": "Sprite",
+      "sprite": "SHOOTING_BALL_BACKGROUND",
+      "props": {
+        "y": -115,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "type": "Group",
+      "exportName": "mainBubbleContainer",
+      "props": {
+        "y": -116,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "type": "Group",
+      "exportName": "refillerContainer",
+      "props": {
+        "x": -90,
+        "y": -45,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }        
+      }
+    },
+    {
+      "type": "Button",
+      "dispatchSignals": [
+        "onSwapBubbleButtonClicked"
+      ],
+      "sprite": "SWAP_BUBBLE_BUTTON",
+      "props": {
+        "x": 0,
+        "y": -35,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }        
+      }
+    }
+  ]
+}

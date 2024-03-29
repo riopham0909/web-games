@@ -1,0 +1,91 @@
+{
+  "type": "Group",
+  "exportName": "leaderboardEntry",
+  "elements": [
+    {
+      "type": "Graphics",
+      "dynamic": true,
+      "exportName": "highlight",
+      "inputBlocker": true,
+      "commands": [
+        {
+          "type": "DrawRectangle",
+          "x": -300,
+          "y": -22,
+          "width": 600,
+          "height": 40,
+          "color": "#8EACF5",
+          "alpha": 1
+        }
+      ]
+    },
+    {
+      "type": "Text",
+      "exportName": "rankText",
+      "textNotLocalized": "1",
+      "maxWidth": 300,
+      "style": {
+        "font": "Futura-Bold",
+        "fill": {
+          "x1": 0,
+          "y1": 0,
+          "x2": 0,
+          "y2": 50,
+          "stops": [
+            [
+              0,
+              "#FFFFFF"
+            ],
+            [
+              0.2,
+              "#FFFFFF"
+            ],
+            [
+              0.5,
+              "#FFFFFF"
+            ],
+            [
+              1,
+              "#FFFFFF"
+            ]
+          ]
+        },
+        "fontSize": 30,
+        "shadow": [0, 1, "rgba(0, 0, 0, 0.8)", 4]
+      },
+      "props": {
+        "x": -280,
+        "y": 0,
+        "anchor": {
+          "x": 0,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "exportName": "scoreText",
+      "textNotLocalized": "0",
+      "maxWidth": 300,
+      "style": {
+        "font": "Futura-Bold",
+        "fill": "white",
+        "fontSize": 30,
+        "shadow": [
+          0,
+          1,
+          "rgba(0, 0, 0, 0.8)",
+          4
+        ]
+      },
+      "props": {
+        "x": 280,
+        "y": 0,
+        "anchor": {
+          "x": 1,
+          "y": 0.5
+        }
+      }
+    }
+  ]
+}

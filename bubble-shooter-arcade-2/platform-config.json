@@ -1,0 +1,21 @@
+{
+  "platform": "azerion",
+  "gameSlug": "bubble-shooter-arcade-2",
+  "gameBuild": "1.1.8",
+  "gameID": "e50eb7a0efe14f19ae2233a20a762da3",
+  "gameTitle": "Bubble Shooter Arcade 2",
+  "interface": "sgSdk",
+  "leaderboardSupport": false,
+  "inAppPurchase": false,
+  "adsConfig": {
+    "rewarded": false,
+    "adFreeInitialLevels": 0,
+    "interstitialCooldownLevel": 0,
+    "longGameplayCooldownMS": 150000,
+    "enableLongGameplayAds": true,
+    "supportsAdPlayButton": true
+  },
+  "options": {
+    "reloadOnFold": true
+  }
+}

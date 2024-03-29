@@ -1,0 +1,535 @@
+{
+    "frames": {
+        "CONTINUE_BUTTON": {
+            "frame": {
+                "x": 236,
+                "y": 530,
+                "w": 325,
+                "h": 66
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 325,
+                "h": 66
+            },
+            "sourceSize": {
+                "w": 325,
+                "h": 66
+            }
+        },
+        "EARTH_BOTTOM_UI": {
+            "frame": {
+                "x": 0,
+                "y": 476,
+                "w": 232,
+                "h": 143
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 232,
+                "h": 143
+            },
+            "sourceSize": {
+                "w": 232,
+                "h": 143
+            }
+        },
+        "NEXT_BALL_BACKGROUND": {
+            "frame": {
+                "x": 722,
+                "y": 623,
+                "w": 72,
+                "h": 72
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 72
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 72
+            }
+        },
+        "PAUSE_BUTTON": {
+            "frame": {
+                "x": 651,
+                "y": 530,
+                "w": 62,
+                "h": 62
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 62,
+                "h": 62
+            },
+            "sourceSize": {
+                "w": 62,
+                "h": 62
+            }
+        },
+        "SHOOTER_BG": {
+            "frame": {
+                "x": 212,
+                "y": 623,
+                "w": 200,
+                "h": 131
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 131
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 131
+            }
+        },
+        "SHOOTER_COLOR_BAR": {
+            "frame": {
+                "x": 0,
+                "y": 623,
+                "w": 208,
+                "h": 131
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 208,
+                "h": 131
+            },
+            "sourceSize": {
+                "w": 208,
+                "h": 131
+            }
+        },
+        "SHOOTER_PLATFORM": {
+            "frame": {
+                "x": 672,
+                "y": 240,
+                "w": 215,
+                "h": 134
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 215,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 215,
+                "h": 134
+            }
+        },
+        "SHOOTING_BALL_BACKGROUND": {
+            "frame": {
+                "x": 0,
+                "y": 758,
+                "w": 72,
+                "h": 72
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 72
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 72
+            }
+        },
+        "SOUND_BUTTON": {
+            "frame": {
+                "x": 750,
+                "y": 378,
+                "w": 56,
+                "h": 56
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 56,
+                "h": 56
+            },
+            "sourceSize": {
+                "w": 56,
+                "h": 56
+            }
+        },
+        "SOUND_OFF": {
+            "frame": {
+                "x": 646,
+                "y": 623,
+                "w": 72,
+                "h": 72
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 72
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 72
+            }
+        },
+        "SOUND_ON": {
+            "frame": {
+                "x": 798,
+                "y": 623,
+                "w": 72,
+                "h": 72
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 72
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 72
+            }
+        },
+        "SWAP_BUBBLE_BACKGROUND": {
+            "frame": {
+                "x": 565,
+                "y": 530,
+                "w": 82,
+                "h": 66
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 82,
+                "h": 66
+            },
+            "sourceSize": {
+                "w": 82,
+                "h": 66
+            }
+        },
+        "SWAP_BUBBLE_BUTTON": {
+            "frame": {
+                "x": 796,
+                "y": 114,
+                "w": 96,
+                "h": 74
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 96,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 96,
+                "h": 74
+            }
+        },
+        "TOP_UI": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 894,
+                "h": 110
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 894,
+                "h": 110
+            },
+            "sourceSize": {
+                "w": 894,
+                "h": 110
+            }
+        },
+        "Touch_To_Continue_Button": {
+            "frame": {
+                "x": 0,
+                "y": 114,
+                "w": 514,
+                "h": 122
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 514,
+                "h": 122
+            },
+            "sourceSize": {
+                "w": 514,
+                "h": 122
+            }
+        },
+        "Video_Icon": {
+            "frame": {
+                "x": 416,
+                "y": 623,
+                "w": 146,
+                "h": 113
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 113
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 113
+            }
+        },
+        "Video_Icon_Background": {
+            "frame": {
+                "x": 0,
+                "y": 240,
+                "w": 230,
+                "h": 232
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 230,
+                "h": 232
+            },
+            "sourceSize": {
+                "w": 230,
+                "h": 232
+            }
+        },
+        "Video_Icon_Bar": {
+            "frame": {
+                "x": 234,
+                "y": 240,
+                "w": 230,
+                "h": 232
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 230,
+                "h": 232
+            },
+            "sourceSize": {
+                "w": 230,
+                "h": 232
+            }
+        },
+        "Video_Icon_Button": {
+            "frame": {
+                "x": 672,
+                "y": 378,
+                "w": 74,
+                "h": 58
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 58
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 58
+            }
+        },
+        "leaderboard_top_panel": {
+            "frame": {
+                "x": 236,
+                "y": 476,
+                "w": 600,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 50
+            },
+            "sourceSize": {
+                "w": 600,
+                "h": 50
+            }
+        },
+        "multicolor_fx": {
+            "frame": {
+                "x": 468,
+                "y": 240,
+                "w": 200,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 200
+            }
+        },
+        "starPart": {
+            "frame": {
+                "x": 566,
+                "y": 623,
+                "w": 76,
+                "h": 74
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 76,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 76,
+                "h": 74
+            }
+        },
+        "text_shade_bg": {
+            "frame": {
+                "x": 518,
+                "y": 114,
+                "w": 274,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 274,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 274,
+                "h": 120
+            }
+        },
+        "trophy_1": {
+            "frame": {
+                "x": 796,
+                "y": 192,
+                "w": 40,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 40
+            }
+        },
+        "trophy_2": {
+            "frame": {
+                "x": 840,
+                "y": 192,
+                "w": 40,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 40
+            }
+        },
+        "trophy_3": {
+            "frame": {
+                "x": 810,
+                "y": 378,
+                "w": 40,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 40
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "ui.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 894,
+            "h": 830
+        },
+        "scale": 1
+    },
+    "animations": {}
+}

@@ -1,0 +1,171 @@
+{
+  "type": "Group",
+  "elements": [
+    {
+      "type": "Sprite",
+      "sprite": "TOP_UI",
+      "inputBlocker": true,
+      "props": {
+        "anchor": {
+          "x": 0.5
+        }
+      }
+    },
+    {
+      "type": "Button",
+      "dispatchSignals": [
+        "onPauseButtonClicked"
+      ],
+      "sprite": "PAUSE_BUTTON",
+      "props": {
+        "x": 165,
+        "y": 45,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "type": "Button",
+      "triggerActions": ["toggleMute"],
+      "sprite": "SOUND_BUTTON",
+      "props": {
+        "x": 249,
+        "y": 41,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "type": "Sprite",
+      "exportName": "label",
+      "sprite": "SOUND_ON",
+      "flags": {
+        "soundOn": [{
+          "exportName": "label",
+          "sprite": "SOUND_ON"
+        }],
+        "soundOff": [{
+          "exportName": "label",
+          "sprite": "SOUND_OFF"
+        }]
+      },
+      "props": {
+        "x": 249,
+        "y": 41,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "textNotLocalized": "00000",
+      "exportName": "scoreText",
+      "maxWidth": 135,
+      "style": {
+        "font": "Futura-Bold",
+        "fill": "white",
+        "fontSize": 40,
+        "shadow": [0, 0, "rgba(0, 0, 0, 1)", 5]
+      },
+      "props": {
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "x": 4,
+        "y": 53
+      }
+    },
+    {
+      "type": "Text",
+      "text": "High Score",
+      "maxWidth": 150,
+      "style": {
+        "font": "Futura-Bold",
+        "fill": {
+          "x1": 0,
+          "y1": 0,
+          "x2": 0,
+          "y2": 50,
+          "stops": [
+            [
+              0,
+              "#FDEDBF"
+            ],
+            [
+              0.45,
+              "#EABF3A"
+            ],
+            [
+              0.5,
+              "#EABF3A"
+            ],
+            [
+              1,
+              "#EABF3A"
+            ]
+          ]
+        },
+        "fontSize": 20,
+        "shadow": [0, 0, "rgba(0, 0, 0, 1)", 4]
+      },
+      "props": {
+        "x": -195,
+        "y": 18,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "textNotLocalized": "0000",
+      "exportName": "bestScoreText",
+      "maxWidth": 100,
+      "style": {
+        "font": "Futura-Bold",
+        "fill": {
+          "x1": 0,
+          "y1": 0,
+          "x2": 0,
+          "y2": 50,
+          "stops": [
+            [
+              0,
+              "#FDEDBF"
+            ],
+            [
+              0.45,
+              "#EABF3A"
+            ],
+            [
+              0.5,
+              "#EABF3A"
+            ],
+            [
+              1,
+              "#EABF3A"
+            ]
+          ]
+        },
+        "fontSize": 22,
+        "shadow": [0, 0, "rgba(0, 0, 0, 0.9)", 4]
+      },
+      "props": {
+        "x": -195,
+        "y": 55,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    }
+  ]
+}
