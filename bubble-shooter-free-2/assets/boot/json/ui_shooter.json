@@ -1,0 +1,161 @@
+{
+  "type": "Group",
+  "exportName": "UI_Shooter",
+  "elements": [
+    {
+      "type": "Sprite",
+      "exportName": "inputCacher",
+      "inputBlocker": true,
+      "hitArea": {
+        "x": -10000,
+        "y": -10000,
+        "width": 100000,
+        "height": 100000
+      }
+    },
+    {
+      "type": "Sprite",
+      "sprite": "Shooter_Background",
+      "props": {
+        "anchor": {
+          "x": 0.5,
+          "y": 1
+        }
+      }
+    },
+    {
+      "type": "Sprite",
+      "exportName": "colorBar",
+      "sprite": "Power_Level",
+      "props": {
+        "anchor": {
+          "x": 0.5,
+          "y": 1
+        }
+      }
+    },
+    {
+      "type": "Sprite",
+      "sprite": "Shooter",
+      "props": {
+        "anchor": {
+          "x": 0.5,
+          "y": 1
+        }
+      }
+    },
+    {
+      "type": "Sprite",
+      "sprite": "SHOOTING_BALL_BACKGROUND",
+      "props": {
+        "y": -115,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "type": "Group",
+      "exportName": "mainBubbleContainer",
+      "props": {
+        "y": -80,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "type": "Group",
+      "exportName": "refillerContainer",
+      "props": {
+        "x": -80,
+        "y": -45,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }   
+      }
+    },
+    {
+      "type": "Button",
+      "dispatchSignals": [
+        "onSwapBubbleButtonClicked"
+      ],
+      "sprite": "SWAP_BUBBLE_BUTTON",
+      "props": {
+        "x": 85,
+        "y": -43,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }        
+      }
+    },
+    {
+      "type": "Sprite",
+      "sprite": "SWAP_BUBBLE_BUTTON_red",
+      "props": {
+        "x": 113,
+        "y": -65,
+        "scale": {
+          "x": 0.9,
+          "y": 0.9
+        },
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }        
+      }
+    },
+    {
+      "type": "Sprite",
+      "sprite": "SWAP_BUBBLE_BUTTON_red_play",
+      "exportName": "SWAP_BUBBLE_BUTTON_red_play",
+      "props": {
+        "x": 113,
+        "y": -65,
+        "scale": {
+          "x": 0.9,
+          "y": 0.9
+        },
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }        
+      }
+    },
+    {
+      "type": "Text",
+      "textNotLocalized": "3",
+      "exportName": "swapCounter",
+      "maxWidth": 135,
+      "style": {
+        "font": "Futura-Bold",
+        "fill": "white",
+        "fontSize": 24
+      },
+      "props": {
+        "x": 114,
+        "y": -63,
+        "scale": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    }
+  ]
+}

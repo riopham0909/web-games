@@ -1,0 +1,81 @@
+{
+  "type": "Group",
+  "elements": [
+    {
+      "type": "Sprite",
+      "sprite": "BACKGROUND",
+      "layout": {
+        "width": "100%GW",
+        "height": "100%GH"
+      }
+    },
+    {
+      "type": "Group",
+      "exportName": "gameBoardContainer",
+      "layout": {
+        "left": "50%GW"
+      },
+      "elements": [
+        {
+          "type": "Sprite",
+          "sprite": "BUBBLE_FIELD_BACKGROUND",
+          "layout": {
+            "height": "97%GH"
+          },
+          "props": {
+            "y": 0,
+            "anchor": {
+              "x": 0.5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "Group",
+      "exportName": "shooterContainer",
+      "layout": {
+        "left": "50%GW",
+        "bottom": -2
+      }
+    },
+    {
+      "type": "Group",
+      "import": "ui_bottomPanel",
+      "exportName": "uiBottomPanel",
+      "props": {
+        "scale": {
+          "x": 1,
+          "y": 1
+        }
+      },
+      "layout": {
+        "bottom": -40
+      }
+    },
+    {
+      "type": "Group",
+      "import": "ui_topPanel",
+      "exportName": "uitopPanel",
+      "props": {
+        "scale": {
+          "x": 0.9,
+          "y": 0.9
+        }
+      },
+      "layout": {
+        "right": -50,
+        "top": 60
+      }
+    },
+    {
+      "type": "Sprite",
+      "sprite": "orientationScreen",
+      "exportName": "orientationScreen",
+      "layout": {
+          "width": "100%GW",
+          "height": "100%GH"
+      }
+  }
+  ]
+}

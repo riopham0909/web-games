@@ -1,0 +1,72 @@
+{
+  "type": "Group",
+  "exportName": "uitopPanel",
+  "layout": {
+  },
+  "elements": [
+    {
+      "type": "Button",
+      "exportName": "pauseButton",
+      "dispatchSignals": [
+        "onPauseButtonClicked"
+      ],
+      "sprite": "PAUSE_BUTTON",
+      "props": {
+        "x": 0,
+        "y": 120,
+        "scale": {
+          "x": 0.9,
+          "y": 0.9
+        },
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "type": "Button",
+      "triggerActions": ["toggleMute"],
+      "sprite": "SOUND_BUTTON",
+      "props": {
+        "x": 0,
+        "y": 0,
+        "scale": {
+          "x": 0.9,
+          "y": 0.9
+        },
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "type": "Sprite",
+      "exportName": "label",
+      "sprite": "SOUND_ON",
+      "flags": {
+        "soundOn": [{
+          "exportName": "label",
+          "sprite": "SOUND_ON"
+        }],
+        "soundOff": [{
+          "exportName": "label",
+          "sprite": "SOUND_OFF"
+        }]
+      },
+      "props": {
+        "x": 0,
+        "y": 0,
+        "scale": {
+          "x": 0.9,
+          "y": 0.9
+        },
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    }
+  ]
+}

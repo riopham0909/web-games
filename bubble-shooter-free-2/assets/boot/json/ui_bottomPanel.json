@@ -1,0 +1,42 @@
+{
+    "type": "Group",
+    "exportName": "UI_BottomPanel",
+    "elements": [
+        {
+            "type": "Sprite",
+            "sprite": "Score_Background",
+            "props": {
+                "x": 0,
+                "y": 0,
+                "scale": {
+                    "x": 1.2,
+                    "y": 1.2
+                },
+                "anchor": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            }
+        },
+        {
+            "type": "Text",
+            "textNotLocalized": "00000",
+            "exportName": "scoreText",
+            "maxWidth": 135,
+            "style": {
+                "font": "Futura-Bold",
+                "fill": "white",
+                "fontSize": 32,
+                "shadow": [0, 0, "rgba(0, 0, 0, 0.5)", 4]
+            },
+            "props": {
+                "x": 10,
+                "y": 2,
+                "anchor": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            }
+        }
+    ]
+}
