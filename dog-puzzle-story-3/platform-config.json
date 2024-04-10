@@ -1,0 +1,21 @@
+{
+    "platform": "azerion",
+    "gameSlug": "dog-puzzle-story-3",
+    "gameBuild": "1.0.2",
+    "gameID": "fb3be183c5d0411487fdcd592ea05fea",
+    "gameTitle": "Dog Puzzle Story 3",
+    "interface": "FBInstant",
+    "leaderboardSupport": false,
+    "inAppPurchase": false,
+    "adsConfig": {
+      "rewarded": true,
+      "adFreeInitialLevels": 0,
+      "interstitialCooldownLevel": 0,
+      "longGameplayCooldownMS": 150000,
+      "enableLongGameplayAds": true,
+      "supportsAdPlayButton": false
+    },
+    "options": {
+      "reloadOnFold": true
+    }
+  }
