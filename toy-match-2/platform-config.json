@@ -1,0 +1,18 @@
+{
+    "platform": "azerion",
+    "gameSlug": "toy-match-2",
+    "gameBuild": "1.1.5",
+    "gameID": "b13feedb7801436db9079cd1080bf7ba",
+    "gameTitle": "Toy Match 2",
+    "interface": "FBInstant",
+    "leaderboardSupport": false,
+    "inAppPurchase": false,
+    "adsConfig": {
+      "rewarded": true,
+      "adFreeInitialLevels": 0,
+      "interstitialCooldownLevel": 0,
+      "longGameplayCooldownMS": 150000,
+      "enableLongGameplayAds": true,
+      "supportsAdPlayButton": false
+    }
+  }
