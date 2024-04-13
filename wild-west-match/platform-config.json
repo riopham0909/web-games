@@ -1,0 +1,21 @@
+{
+  "platform": "azerion",
+  "gameSlug": "wild-west-match",
+  "gameBuild": "1.0.11",
+  "gameID": "39fad6763e9b4d4da0558fd7644ef798",
+  "gameTitle": "Wild West Match",
+  "interface": "sgSdk",
+  "leaderboardSupport": false,
+  "inAppPurchase": false,
+  "options": {
+    "reloadOnFold": true
+  },
+  "adsConfig": {
+    "rewarded": true,
+    "adFreeInitialLevels": 0,
+    "interstitialCooldownLevel": 0,
+    "longGameplayCooldownMS": 150000,
+    "enableLongGameplayAds": true,
+    "supportsAdPlayButton": false
+  }
+}
