@@ -1,0 +1,22 @@
+{
+    "platform": "azerion",
+    "gameSlug": "fish-story-3",
+    "gameBuild": "1.0.3",
+    "gameID": "86281431ff564058a8d0c80a19f2d2ea",
+    "gameTitle": "Fish Story 3",
+    "interface": "FBInstant",
+    "leaderboardSupport": false,
+    "inAppPurchase": false,
+    "options": {
+      "reloadOnFold": true
+    },
+    "adsConfig": {
+      "rewarded": true,
+      "adFreeInitialLevels": 0,
+      "interstitialCooldownLevel": 0,
+      "longGameplayCooldownMS": 150000,
+      "enableLongGameplayAds": true,
+      "supportsAdPlayButton": false
+    }
+  }
+  
