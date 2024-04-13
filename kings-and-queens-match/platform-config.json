@@ -1,0 +1,21 @@
+{
+    "platform": "azerion",
+    "gameSlug": "kings-and-queens-match",
+    "gameBuild": "1.2.19",
+    "gameID": "aeac8455b2024f25abfa943ec96aa749",
+    "gameTitle": "Kings and Queens Match",
+    "interface": "sgSdk",
+    "leaderboardSupport": false,
+    "inAppPurchase": false,
+    "adsConfig": {
+      "rewarded": true,
+      "adFreeInitialLevels": 0,
+      "interstitialCooldownLevel": 0,
+      "longGameplayCooldownMS": 150000,
+      "enableLongGameplayAds": true,
+      "supportsAdPlayButton": true
+    },
+    "options": {
+      "reloadOnFold": true
+    }
+}
