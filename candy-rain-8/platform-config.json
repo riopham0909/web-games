@@ -1,0 +1,21 @@
+{
+    "platform": "azerion",
+    "gameSlug": "candy-rain-8",
+    "gameBuild": "1.0.5",
+    "gameID": "f318ed77bd024a5eac09f407b4a25e9e",
+    "gameTitle": "Candy Rain 8",
+    "interface": "FBInstant",
+    "leaderboardSupport": false,
+    "inAppPurchase": false,
+    "adsConfig": {
+      "rewarded": true,
+      "adFreeInitialLevels": 0,
+      "interstitialCooldownLevel": 0,
+      "longGameplayCooldownMS": 150000,
+      "enableLongGameplayAds": true,
+      "supportsAdPlayButton": false
+    },
+    "options": {
+      "reloadOnFold": true
+    }
+  }
