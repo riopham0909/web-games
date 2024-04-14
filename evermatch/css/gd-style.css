@@ -1,0 +1,131 @@
+body{
+	padding : 0;
+	margin 	: 0;
+	zoom 	: 1;
+	overflow: hidden;
+	transform: "scale(1)";
+}
+
+#app{
+	overflow : hidden;
+	height	 : 100vh;
+	width	 : 100vw;
+}
+
+#gamefield,
+#screen-rotation-hint{
+	position : absolute;
+	left 	: 0px;
+	height 	: 100%;
+	top 	: 0px;
+	width 	: 100%;
+}
+
+#screen-rotation-hint{
+	align-items: center !important;
+	justify-content: center !important;
+	flex-direction: column !important;
+}
+
+@media screen and (orientation: portrait) and (pointer: coarse){
+	#gamefield {
+		display : block;
+	}
+
+	#screen-rotation-hint{
+		display: none;
+	}
+}
+
+@media screen and ((orientation: landscape) or ( not (pointer: coarse))) {
+	#gamefield {
+		display : block;
+	}
+
+	#screen-rotation-hint{
+		display : none;
+	}
+}
+
+.webp #app{
+	background 	: url("https://adventure-gd-static.nyc3.cdn.digitaloceanspaces.com/public/images/game_background.webp") center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.no-webp #app{
+	background 	: url("https://adventure-gd-static.nyc3.cdn.digitaloceanspaces.com/public/images/game_background.png") center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#gamefield_wrapper{
+	border   				: 6px solid #475858;
+	-webkit-border-radius 	: 7px;
+	-moz-border-radius 		: 7px;
+	border-radius 			: 7px;
+	position 				: relative;
+	height 	 				: 650px;
+	width  	 				: 1200px;
+	margin 	 				: 25px auto 0;
+}
+
+@media screen and (max-width: 1200px) {
+	#gamefield_wrapper{
+		width : 100%;
+	}
+}
+
+@media screen and (max-device-height: 768px) {
+	#app{
+		top : -25px;
+	}
+}
+
+#gamefield{
+	position : absolute;
+	top 	 : 0px;
+	left 	 : 0px;
+	/*height   : 650px;
+	 width  	 : 1200px; */
+	z-index  : 1; 
+}
+
+#gamefield.hidden{
+	top : -653px;
+}
+
+
+#loading-screen.hidden{
+	display : none;
+}
+
+#loading-screen .progressbar {
+	background-image 	: url("https://adventure-gd-static.nyc3.cdn.digitaloceanspaces.com/public/images/progress_bar_bg.png");
+	background-position : 0px 0px;
+	background-repeat 	: no-repeat;
+	position 			: absolute;
+	top 				: calc(50% - 21px);
+	left 				: calc(50% - 215px);
+	width 				: 430px;
+	height 				: 43px;
+	margin 				: 0;
+	padding 			: 0;
+}
+
+#loading-screen .progressbar .fill{
+	background-image 	: url("https://adventure-gd-static.nyc3.cdn.digitaloceanspaces.com/public/images/progress_bar.png");
+	background-position : 0px 0px;
+	background-repeat 	: no-repeat;
+	height 				: 36px;
+	left 				: 5px;
+	margin 				: 0;
+	padding 			: 0;
+	position 			: absolute;
+	top 				: 4px;
+	width 				: 0px;
+}
