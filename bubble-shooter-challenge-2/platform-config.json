@@ -1,0 +1,18 @@
+{
+    "platform": "azerion",
+    "gameSlug": "bubble-shooter-challenge-2",
+    "gameBuild": "1.5.3",
+    "gameID": "08d7c3a2cbb147bf9f07e8646c054125",
+    "gameTitle": "Bubble Shooter Challenge 2",
+    "interface": "sgSdk",
+    "leaderboardSupport": false,
+    "inAppPurchase": false,
+    "adsConfig": {
+      "rewarded": false,
+      "adFreeInitialLevels": 0,
+      "interstitialCooldownLevel": 0,
+      "longGameplayCooldownMS": 150000,
+      "enableLongGameplayAds": false,
+      "supportsAdPlayButton": true
+    }
+  }

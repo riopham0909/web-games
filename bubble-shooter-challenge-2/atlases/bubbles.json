@@ -1,0 +1,100 @@
+{"frames": {
+
+"0_bubble_blue":
+{
+	"frame": {"x":292,"y":3,"w":50,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":50,"h":51},
+	"sourceSize": {"w":56,"h":56}
+},
+"0_bubble_green":
+{
+	"frame": {"x":346,"y":3,"w":50,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":50,"h":51},
+	"sourceSize": {"w":56,"h":56}
+},
+"0_bubble_grey":
+{
+	"frame": {"x":180,"y":3,"w":52,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":4,"w":52,"h":52},
+	"sourceSize": {"w":56,"h":56}
+},
+"0_bubble_pink":
+{
+	"frame": {"x":400,"y":3,"w":50,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":50,"h":51},
+	"sourceSize": {"w":56,"h":56}
+},
+"0_bubble_red":
+{
+	"frame": {"x":454,"y":3,"w":50,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":50,"h":51},
+	"sourceSize": {"w":56,"h":56}
+},
+"0_bubble_turquoise":
+{
+	"frame": {"x":508,"y":3,"w":50,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":50,"h":51},
+	"sourceSize": {"w":56,"h":56}
+},
+"0_bubble_yellow":
+{
+	"frame": {"x":562,"y":3,"w":50,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":50,"h":51},
+	"sourceSize": {"w":56,"h":56}
+},
+"ball_hd_multicolor":
+{
+	"frame": {"x":236,"y":3,"w":52,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":4,"w":52,"h":52},
+	"sourceSize": {"w":56,"h":56}
+},
+"bubble_fire":
+{
+	"frame": {"x":122,"y":3,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":54,"h":54},
+	"sourceSize": {"w":56,"h":56}
+},
+"warning_bubble":
+{
+	"frame": {"x":63,"y":3,"w":55,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":55,"h":55},
+	"sourceSize": {"w":60,"h":60}
+},
+"warning_bubble_2":
+{
+	"frame": {"x":3,"y":3,"w":56,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":56,"h":55},
+	"sourceSize": {"w":60,"h":60}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bubbles.png",
+	"format": "RGBA8888",
+	"size": {"w":615,"h":61},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4e53a95b944aba5186fc81865ea18238:083885bcd0c045cb1436c900bc6253df:bca2200893a80f12811007d61ceaffd1$"
+}
+}

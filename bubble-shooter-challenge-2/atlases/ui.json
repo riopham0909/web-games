@@ -1,0 +1,167 @@
+{"frames": {
+
+"CONTINUE_BUTTON":
+{
+	"frame": {"x":573,"y":3,"w":325,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":66},
+	"sourceSize": {"w":325,"h":66}
+},
+"leaderboard_highlight":
+{
+	"frame": {"x":3,"y":531,"w":782,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":782,"h":68},
+	"sourceSize": {"w":782,"h":68}
+},
+"leaderboard_highlight_current_player":
+{
+	"frame": {"x":3,"y":457,"w":784,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":784,"h":70},
+	"sourceSize": {"w":784,"h":70}
+},
+"MUSIC_OFF":
+{
+	"frame": {"x":635,"y":202,"w":51,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":25,"w":51,"h":50},
+	"sourceSize": {"w":100,"h":100}
+},
+"MUSIC_ON":
+{
+	"frame": {"x":765,"y":192,"w":45,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":25,"w":45,"h":49},
+	"sourceSize": {"w":100,"h":100}
+},
+"ribbon":
+{
+	"frame": {"x":3,"y":339,"w":506,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":506,"h":114},
+	"sourceSize": {"w":506,"h":115}
+},
+"Score_Background":
+{
+	"frame": {"x":702,"y":143,"w":170,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":170,"h":45},
+	"sourceSize": {"w":174,"h":48}
+},
+"SHOOTING_BALL_BACKGROUND":
+{
+	"frame": {"x":902,"y":3,"w":66,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":66,"h":67},
+	"sourceSize": {"w":72,"h":72}
+},
+"SOUND_OFF":
+{
+	"frame": {"x":702,"y":192,"w":59,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":29,"w":59,"h":43},
+	"sourceSize": {"w":100,"h":100}
+},
+"SOUND_ON":
+{
+	"frame": {"x":690,"y":239,"w":58,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":29,"w":58,"h":43},
+	"sourceSize": {"w":100,"h":100}
+},
+"SWAP_BUBBLE_BACKGROUND":
+{
+	"frame": {"x":702,"y":73,"w":82,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":66},
+	"sourceSize": {"w":82,"h":66}
+},
+"Touch_To_Continue_Button":
+{
+	"frame": {"x":513,"y":339,"w":494,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":15,"w":494,"h":98},
+	"sourceSize": {"w":514,"h":122}
+},
+"TROPHY":
+{
+	"frame": {"x":573,"y":202,"w":58,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":25,"w":58,"h":50},
+	"sourceSize": {"w":100,"h":100}
+},
+"trophy_1":
+{
+	"frame": {"x":788,"y":73,"w":67,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":63},
+	"sourceSize": {"w":67,"h":63}
+},
+"trophy_2":
+{
+	"frame": {"x":876,"y":108,"w":67,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":63},
+	"sourceSize": {"w":67,"h":63}
+},
+"trophy_3":
+{
+	"frame": {"x":876,"y":175,"w":67,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":63},
+	"sourceSize": {"w":67,"h":63}
+},
+"trophy_decor":
+{
+	"frame": {"x":3,"y":3,"w":566,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":566,"h":332},
+	"sourceSize": {"w":566,"h":342}
+},
+"winner_arrow":
+{
+	"frame": {"x":859,"y":73,"w":28,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":31},
+	"sourceSize": {"w":28,"h":31}
+},
+"YELLOW_BUTTON_BG":
+{
+	"frame": {"x":573,"y":73,"w":125,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":16,"w":125,"h":125},
+	"sourceSize": {"w":156,"h":156}
+}},
+"animations": {
+	"trophy": ["trophy_1","trophy_2","trophy_3"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ui.png",
+	"format": "RGBA8888",
+	"size": {"w":1010,"h":602},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ad6b23388cf27678b1d274f3ea59ecee:a667622d93500bfe4383c2f2f5ab3f9c:5b04aa198265472a3c5f56958d78e97b$"
+}
+}
